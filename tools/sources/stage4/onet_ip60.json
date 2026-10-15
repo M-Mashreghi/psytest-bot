@@ -1,0 +1,350 @@
+{
+ "source": "https://www.onetcenter.org/dl_files/IPSF_PP.pdf",
+ "source_notes": "Items from the paper-and-pencil O*NET Interest Profiler Short Form (IPSF_PP.pdf, 'Developed by the National Center for O*NET Development (v1)'), extracted via WebFetch section by section; 10 per RIASEC area. 'index' here is our own sequential numbering in PDF reading order (row by row, left column item then right column item, sections R,I,A,S,E,C). The O*NET Web Services API (services.onetcenter.org/reference/mnm/ip/ip_questions) uses a different index order (its example shows index 1 = 'Build kitchen cabinets', index 2 = 'Lay brick or tile', both realistic); the full API list was not visible on the reference page.",
+ "options": [
+  {
+   "value": 1,
+   "label": "Strongly Dislike"
+  },
+  {
+   "value": 2,
+   "label": "Dislike"
+  },
+  {
+   "value": 3,
+   "label": "Unsure"
+  },
+  {
+   "value": 4,
+   "label": "Like"
+  },
+  {
+   "value": 5,
+   "label": "Strongly Like"
+  }
+ ],
+ "options_note": "5-point options as documented on the O*NET Web Services reference page (mnm/ip/ip_questions; Spanish mpp version: 1 'Me disgusta mucho', 2 'Me disgusta', 3-5 not shown). The paper Short Form instead uses a single checkbox per item ('place a check by each one you would like to do'; score = number of checks per area; top three areas reported).",
+ "terms": {
+  "summary": "O*NET Interest Profiler is offered under a choice of licenses (https://www.onetcenter.org/license_tools.html): Option 1 CC BY-ND 4.0 for verbatim copying (no redistribution of modified/extended versions); Option 2 O*NET Tools Developer License to modify, edit or extend (requires attribution, a statement that you modified it, a disclaimer, and validation of products incorporating the Tools). 'O*NET' is a USDOL/ETA trademark and must be used as an adjective. onetcenter.org/IP.html also asks users to register their use (https://www.onetcenter.org/register).",
+  "attribution_option1": [
+   "This page includes information from the O*NET Career Exploration Tools (by USDOL/ETA)",
+   "Used under the CC BY-ND 4.0 license.",
+   "O*NET® is a trademark of USDOL/ETA."
+  ],
+  "attribution_option2": [
+   "This page includes information from the O*NET Career Exploration Tools (by USDOL/ETA)",
+   "Used under the O*NET Tools Developer License.",
+   "O*NET® is a trademark of USDOL/ETA.",
+   "[Your name or company] has modified all or some of this information.",
+   "USDOL/ETA has not approved, endorsed, or tested these modifications."
+  ],
+  "pdf_footer": "Sponsored by the U.S. Department of Labor, Employment & Training Administration. Developed by the National Center for O*NET Development (v1).",
+  "license_urls": [
+   "https://www.onetcenter.org/license_tools.html",
+   "https://creativecommons.org/licenses/by-nd/4.0/"
+  ],
+  "caveat": "Attribution lines are fragments as returned by WebFetch's summarizer; check license_tools.html for exact wording before publishing."
+ },
+ "items": [
+  {
+   "index": 1,
+   "area": "R",
+   "text": "Build kitchen cabinets"
+  },
+  {
+   "index": 2,
+   "area": "R",
+   "text": "Drive a truck to deliver packages to offices and homes"
+  },
+  {
+   "index": 3,
+   "area": "R",
+   "text": "Lay brick or tile"
+  },
+  {
+   "index": 4,
+   "area": "R",
+   "text": "Test the quality of parts before shipment"
+  },
+  {
+   "index": 5,
+   "area": "R",
+   "text": "Repair household appliances"
+  },
+  {
+   "index": 6,
+   "area": "R",
+   "text": "Repair and install locks"
+  },
+  {
+   "index": 7,
+   "area": "R",
+   "text": "Raise fish in a fish hatchery"
+  },
+  {
+   "index": 8,
+   "area": "R",
+   "text": "Set up and operate machines to make products"
+  },
+  {
+   "index": 9,
+   "area": "R",
+   "text": "Assemble electronic parts"
+  },
+  {
+   "index": 10,
+   "area": "R",
+   "text": "Put out forest fires"
+  },
+  {
+   "index": 11,
+   "area": "I",
+   "text": "Develop a new medicine"
+  },
+  {
+   "index": 12,
+   "area": "I",
+   "text": "Investigate the cause of a fire"
+  },
+  {
+   "index": 13,
+   "area": "I",
+   "text": "Study ways to reduce water pollution"
+  },
+  {
+   "index": 14,
+   "area": "I",
+   "text": "Develop a way to better predict the weather"
+  },
+  {
+   "index": 15,
+   "area": "I",
+   "text": "Conduct chemical experiments"
+  },
+  {
+   "index": 16,
+   "area": "I",
+   "text": "Work in a biology lab"
+  },
+  {
+   "index": 17,
+   "area": "I",
+   "text": "Study the movement of planets"
+  },
+  {
+   "index": 18,
+   "area": "I",
+   "text": "Invent a replacement for sugar"
+  },
+  {
+   "index": 19,
+   "area": "I",
+   "text": "Examine blood samples using a microscope"
+  },
+  {
+   "index": 20,
+   "area": "I",
+   "text": "Do laboratory tests to identify diseases"
+  },
+  {
+   "index": 21,
+   "area": "A",
+   "text": "Write books or plays"
+  },
+  {
+   "index": 22,
+   "area": "A",
+   "text": "Paint sets for plays"
+  },
+  {
+   "index": 23,
+   "area": "A",
+   "text": "Play a musical instrument"
+  },
+  {
+   "index": 24,
+   "area": "A",
+   "text": "Write scripts for movies or television shows"
+  },
+  {
+   "index": 25,
+   "area": "A",
+   "text": "Compose or arrange music"
+  },
+  {
+   "index": 26,
+   "area": "A",
+   "text": "Perform jazz or tap dance"
+  },
+  {
+   "index": 27,
+   "area": "A",
+   "text": "Draw pictures"
+  },
+  {
+   "index": 28,
+   "area": "A",
+   "text": "Sing in a band"
+  },
+  {
+   "index": 29,
+   "area": "A",
+   "text": "Create special effects for movies"
+  },
+  {
+   "index": 30,
+   "area": "A",
+   "text": "Edit movies"
+  },
+  {
+   "index": 31,
+   "area": "S",
+   "text": "Teach an individual an exercise routine"
+  },
+  {
+   "index": 32,
+   "area": "S",
+   "text": "Teach children how to play sports"
+  },
+  {
+   "index": 33,
+   "area": "S",
+   "text": "Help people with personal or emotional problems"
+  },
+  {
+   "index": 34,
+   "area": "S",
+   "text": "Teach sign language to people who are deaf or hard of hearing"
+  },
+  {
+   "index": 35,
+   "area": "S",
+   "text": "Give career guidance to people"
+  },
+  {
+   "index": 36,
+   "area": "S",
+   "text": "Help conduct a group therapy session"
+  },
+  {
+   "index": 37,
+   "area": "S",
+   "text": "Perform rehabilitation therapy"
+  },
+  {
+   "index": 38,
+   "area": "S",
+   "text": "Take care of children at a day-care center"
+  },
+  {
+   "index": 39,
+   "area": "S",
+   "text": "Do volunteer work at a non-profit organization"
+  },
+  {
+   "index": 40,
+   "area": "S",
+   "text": "Teach a high-school class"
+  },
+  {
+   "index": 41,
+   "area": "E",
+   "text": "Buy and sell stocks and bonds"
+  },
+  {
+   "index": 42,
+   "area": "E",
+   "text": "Negotiate business contracts"
+  },
+  {
+   "index": 43,
+   "area": "E",
+   "text": "Manage a retail store"
+  },
+  {
+   "index": 44,
+   "area": "E",
+   "text": "Represent a client in a lawsuit"
+  },
+  {
+   "index": 45,
+   "area": "E",
+   "text": "Operate a beauty salon or barber shop"
+  },
+  {
+   "index": 46,
+   "area": "E",
+   "text": "Market a new line of clothing"
+  },
+  {
+   "index": 47,
+   "area": "E",
+   "text": "Manage a department within a large company"
+  },
+  {
+   "index": 48,
+   "area": "E",
+   "text": "Sell merchandise at a department store"
+  },
+  {
+   "index": 49,
+   "area": "E",
+   "text": "Start your own business"
+  },
+  {
+   "index": 50,
+   "area": "E",
+   "text": "Manage a clothing store"
+  },
+  {
+   "index": 51,
+   "area": "C",
+   "text": "Develop a spreadsheet using computer software"
+  },
+  {
+   "index": 52,
+   "area": "C",
+   "text": "Calculate the wages of employees"
+  },
+  {
+   "index": 53,
+   "area": "C",
+   "text": "Proofread records or forms"
+  },
+  {
+   "index": 54,
+   "area": "C",
+   "text": "Inventory supplies using a hand-held computer"
+  },
+  {
+   "index": 55,
+   "area": "C",
+   "text": "Install software across computers on a large network"
+  },
+  {
+   "index": 56,
+   "area": "C",
+   "text": "Record rent payments"
+  },
+  {
+   "index": 57,
+   "area": "C",
+   "text": "Operate a calculator"
+  },
+  {
+   "index": 58,
+   "area": "C",
+   "text": "Keep inventory records"
+  },
+  {
+   "index": 59,
+   "area": "C",
+   "text": "Keep shipping and receiving records"
+  },
+  {
+   "index": 60,
+   "area": "C",
+   "text": "Stamp, sort, and distribute mail for an organization"
+  }
+ ]
+}

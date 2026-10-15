@@ -1,0 +1,4202 @@
+[
+ {
+  "n": 1,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Worry about things",
+   "ru": "Переживаю о разном",
+   "ar": "أقلق حيال الأمور",
+   "hi": "चीज़ों के बारे में चिंतित होते हैं",
+   "fa": "درباره چیزها نگران هستم",
+   "fr": "Je m'inquiète à propos de choses"
+  }
+ },
+ {
+  "n": 2,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Make friends easily",
+   "ru": "С легкостью завожу друзей",
+   "ar": "أصنع صداقات بسهولة",
+   "hi": "दोस्त आसानी से बनते हैं",
+   "fa": "به سادگی دوست پیدا می‌کنم",
+   "fr": "Je me fais des amis facilement"
+  }
+ },
+ {
+  "n": 3,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Have a vivid imagination",
+   "ru": "Имею яркое воображение",
+   "ar": "أتمتع بقدرة تخيلية صافية",
+   "hi": "आपकी कल्पना ज्वलंत है",
+   "fa": "قدرت تخیل بالایی دارم",
+   "fr": "J'ai une imagination débordante"
+  }
+ },
+ {
+  "n": 4,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Trust others",
+   "ru": "Доверяю другим",
+   "ar": "أثق بالآخرين",
+   "hi": "दूसरों पर भरोसा करते हैं",
+   "fa": "به دیگران اعتماد دارم",
+   "fr": "Je fais confiance aux autres"
+  }
+ },
+ {
+  "n": 5,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Complete tasks successfully",
+   "ru": "Завершаю задачи успешно",
+   "ar": "أنهي المهام بنجاح",
+   "hi": "कार्यों को सफलतापूर्वक पूरा करते हैं",
+   "fa": "کارها را با موفقیت به پایان می‌رسانم",
+   "fr": "Je complète les tâches avec succès"
+  }
+ },
+ {
+  "n": 6,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Get angry easily",
+   "ru": "Легко начинаю злиться",
+   "ar": "أغضب بسهولة",
+   "hi": "आसानी से गुस्सा होते हैं",
+   "fa": "به سادگی عصبانی می‌شوم",
+   "fr": "Je me mets en colère facilement"
+  }
+ },
+ {
+  "n": 7,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Love large parties",
+   "ru": "Люблю большие вечеринки",
+   "ar": "أحب التجمعات الكبيرة",
+   "hi": "बड़ी पार्टियों से प्यार है",
+   "fa": "مهمانی‌های بزرگ را دوست دارم",
+   "fr": "J'adore les grandes fêtes"
+  }
+ },
+ {
+  "n": 8,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe in the importance of art",
+   "ru": "Верю в важность искусства",
+   "ar": "أؤمن بأهمية الفن",
+   "hi": "कला के महत्व को मानते हैं",
+   "fa": "به اهمیت هنر اعتقاد دارم",
+   "fr": "Je crois en l'importance de l'art"
+  }
+ },
+ {
+  "n": 9,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Would never cheat on my taxes",
+   "ru": "Никогда не стал бы обманывать с налогами",
+   "ar": "لن أتهرّب من الضرائب أبداً",
+   "hi": "करों में कभी धोखाधड़ी नहीं करेंगे",
+   "fa": "هرگز در پرداخت مالیات تقلب نمی‌کنم",
+   "fr": "Je ne frauderais jamais sur mes impôts"
+  }
+ },
+ {
+  "n": 10,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Like order",
+   "ru": "Люблю порядок",
+   "ar": "أحب النظام",
+   "hi": "व्यवस्था पसंद है",
+   "fa": "نظم را دوست دارم",
+   "fr": "J'aime l'ordre"
+  }
+ },
+ {
+  "n": 11,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Often feel blue",
+   "ru": "Часто грущу",
+   "ar": "كثيراً ما أشعر بالحزن",
+   "hi": "अक्सर उदास महसूस करते हैं",
+   "fa": "اغلب افسرده‌ام",
+   "fr": "Je me sens souvent triste"
+  }
+ },
+ {
+  "n": 12,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Take charge",
+   "ru": "Беру на себя ответственность",
+   "ar": "أتولى دور القيادة",
+   "hi": "ज़िम्मेदारी लेते हैं",
+   "fa": "مسئولیت‌پذیر هستم",
+   "fr": "J'aime prendre en charge"
+  }
+ },
+ {
+  "n": 13,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Experience my emotions intensely",
+   "ru": "Сильно эмоционален",
+   "ar": "أعيش مشاعري بشدة",
+   "hi": "अपनी भावनाओं को तीव्रता से अनुभव करते हैं",
+   "fa": "احساساتم را کاملا تجربه می‌کنم",
+   "fr": "Je vis mes émotions intensément"
+  }
+ },
+ {
+  "n": 14,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Make people feel welcome",
+   "ru": "Помогаю людям почувствовать себя желанными гостями",
+   "ar": "أُشعِر الناس بأنهم مُرحَّب بهم",
+   "hi": "लोगों को स्वागत महसूस कराते हैं",
+   "fa": "کاری می‌کنم که دیگران احساس کنند خوش‌آمدند",
+   "fr": "Je fais en sorte que les gens se sentent les bienvenus"
+  }
+ },
+ {
+  "n": 15,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Try to follow the rules",
+   "ru": "Стараюсь соблюдать правила",
+   "ar": "أحاول الالتزام بالقواعد",
+   "hi": "नियमों का पालन करने की कोशिश करते हैं",
+   "fa": "سعی می‌کنم از قوانین پیروی کنم",
+   "fr": "J'essaie de respecter les règles"
+  }
+ },
+ {
+  "n": 16,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am easily intimidated",
+   "ru": "Меня легко запугать",
+   "ar": "أرتعب بسهولة",
+   "hi": "आसानी से डर जाते हैं",
+   "fa": "به راحتی مرعوب می‌شوم",
+   "fr": "Je suis facilement intimidé"
+  }
+ },
+ {
+  "n": 17,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am always busy",
+   "ru": "Всегда занят",
+   "ar": "أنا دائماً مشغول",
+   "hi": "हमेशा व्यस्त रहते हैं",
+   "fa": "همیشه مشغولم",
+   "fr": "Je suis toujours occupé"
+  }
+ },
+ {
+  "n": 18,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Prefer variety to routine",
+   "ru": "Предпочитаю разнообразие рутине",
+   "ar": "أُفضّل التغيير على الروتين",
+   "hi": "दिनचर्या में विविधता पसंद है",
+   "fa": "تنوع را به روتین ترجیح می‌دهم",
+   "fr": "Je préfère la variété à la routine"
+  }
+ },
+ {
+  "n": 19,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am easy to satisfy",
+   "ru": "Меня легко удовлетворить",
+   "ar": "يسهل إرضائي",
+   "hi": "आसानी से संतुष्ट हो जाते हैं",
+   "fa": "به راحتی راضی می‌شوم",
+   "fr": "Je suis facile à satisfaire"
+  }
+ },
+ {
+  "n": 20,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Go straight for the goal",
+   "ru": "Иду прямо к цели",
+   "ar": "أتّجه مباشرة نحو الهدف",
+   "hi": "सीधे लक्ष्य की ओर बढ़ते हैं",
+   "fa": "مستقیم به سمت هدف می‌روم",
+   "fr": "Je vais droit au but"
+  }
+ },
+ {
+  "n": 21,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Often eat too much",
+   "ru": "Часто переедаю",
+   "ar": "كثيراً ما أُفرط في الأكل",
+   "hi": "अक्सर ज़रूरत से ज़्यादा खाते हैं",
+   "fa": "اغلب پرخوری می‌کنم",
+   "fr": "Je mange souvent trop"
+  }
+ },
+ {
+  "n": 22,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Love excitement",
+   "ru": "Люблю эмоциональное волнение",
+   "ar": "أحب الإثارة",
+   "hi": "उत्साह पसंद है",
+   "fa": "هیجان را دوست دارم",
+   "fr": "J'adore les sensations fortes"
+  }
+ },
+ {
+  "n": 23,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Like to solve complex problems",
+   "ru": "Люблю решать сложные задачи",
+   "ar": "أحب حلّ المشكلات المعقّدة",
+   "hi": "जटिल समस्याओं को सुलझाना पसंद है",
+   "fa": "حل مسائل پیچیده را دوست دارم",
+   "fr": "J'aime résoudre des problèmes complexes"
+  }
+ },
+ {
+  "n": 24,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Dislike being the center of attention",
+   "ru": "Не люблю быть в центре внимания",
+   "ar": "أكره أن أكون محطّ الأنظار",
+   "hi": "ध्यान का केंद्र बनना पसंद नहीं है",
+   "fa": "دوست ندارم در مرکز توجه باشم",
+   "fr": "Je n'aime pas être le centre de l'attention"
+  }
+ },
+ {
+  "n": 25,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Get chores done right away",
+   "ru": "Выполняю домашние дела сразу же",
+   "ar": "أُنجز الأعمال المنزلية فوراً",
+   "hi": "घर के काम तुरंत निपटा देते हैं",
+   "fa": "کارهای روزمره را فوراً انجام می‌دهم",
+   "fr": "Je fais les corvées tout de suite"
+  }
+ },
+ {
+  "n": 26,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Panic easily",
+   "ru": "Легко паникую",
+   "ar": "أهلع/أفزع بسهولة",
+   "hi": "आसानी से चिंतित होते हैं",
+   "fa": "به راحتی وحشت می‌کنم",
+   "fr": "Je panique facilement"
+  }
+ },
+ {
+  "n": 27,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Radiate joy",
+   "ru": "Излучаю позитив",
+   "ar": "أشع بهجةً",
+   "hi": "उत्साह संचारित करते हैं",
+   "fa": "خوشی را منتقل می‌کنم",
+   "fr": "Je respire la joie"
+  }
+ },
+ {
+  "n": 28,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Tend to vote for liberal political candidates",
+   "ru": "Склоняюсь голосовать за либеральных политических кандидатов",
+   "ar": "أميل نحو الآراء المنفتحة",
+   "hi": "उदार राजनीतिक उम्मीदवारों के लिए वोट करते हैं",
+   "fa": "تمایل دارم به نامزدهای سیاسی لیبرال رای دهم",
+   "fr": "J’ai tendance à promouvoir des valeurs sociales traditionnelles"
+  }
+ },
+ {
+  "n": 29,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Sympathize with the homeless",
+   "ru": "Сопереживаю бездомным",
+   "ar": "أتعاطف مع المشرّدين",
+   "hi": "बेघरों से सहानुभूति रखते हैं",
+   "fa": "با بی‌خانمان‌ها همدردی می‌کنم",
+   "fr": "Je sympathise avec les sans-abri"
+  }
+ },
+ {
+  "n": 30,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Avoid mistakes",
+   "ru": "Стараюсь избегать ошибок",
+   "ar": "أتجنّب الأخطاء",
+   "hi": "गलतियों से बचते हैं",
+   "fa": "از اشتباه کردن پرهیز می‌کنم",
+   "fr": "J'évite les erreurs"
+  }
+ },
+ {
+  "n": 31,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Fear for the worst",
+   "ru": "Опасаюсь худшего",
+   "ar": "أخشى حدوث الأسوأ",
+   "hi": "सबसे बुरे के लिए डरते हैं",
+   "fa": "نگران بدترین اتفاقات ممکن هستم",
+   "fr": "Je crains le pire"
+  }
+ },
+ {
+  "n": 32,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Warm up quickly to others",
+   "ru": "Быстро сближаюсь с людьми",
+   "ar": "أنسجم مع الآخرين بسرعة",
+   "hi": "दूसरों से जल्दी घुल-मिल जाते हैं",
+   "fa": "زود با دیگران گرم می‌گیرم",
+   "fr": "Je me lie rapidement avec les autres"
+  }
+ },
+ {
+  "n": 33,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy wild flights of fantasy",
+   "ru": "Наслаждаюсь необузданными полетами фантазии",
+   "ar": "أستمتع بالذهاب مع خيالي الواسع",
+   "hi": "कल्पना की जंगली उड़ानों का आनंद लेते हैं",
+   "fa": "از پروازِ دیوانه‌وارِ خیال لذت می‌برم",
+   "fr": "J'aime me perdre dans mes idées"
+  }
+ },
+ {
+  "n": 34,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe that others have good intentions",
+   "ru": "Верю в хорошие намерения людей",
+   "ar": "أؤمن بحسن نوايا الآخرين",
+   "hi": "मानते हैं की दूसरे व्यक्ति अच्छे इरादे रखते हैं",
+   "fa": "معتقدم که دیگران حسن نیت دارند",
+   "fr": "Je crois que les autres ont de bonnes intentions"
+  }
+ },
+ {
+  "n": 35,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Excel in what I do",
+   "ru": "Превосходен в своем деле",
+   "ar": "أمتاز فيما أعمل",
+   "hi": "अपने कार्य में श्रेष्ठ हैं",
+   "fa": "در کاری که انجام می‌دهم، سرآمد هستم",
+   "fr": "J'excelle dans ce que je fais"
+  }
+ },
+ {
+  "n": 36,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Get irritated easily",
+   "ru": "Легко раздражаюсь",
+   "ar": "أنزعج بسهولة",
+   "hi": "आसानी से चिढ़ जाते हैं",
+   "fa": "به راحتی عصبانی می‌شوم",
+   "fr": "Je suis irritable facilement"
+  }
+ },
+ {
+  "n": 37,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Talk to a lot of different people at parties",
+   "ru": "Разговариваю с разными людьми на вечеринках",
+   "ar": "أتحدث مع الكثير من الناس في المناسبات",
+   "hi": "पार्टियों में बहुत से अलग-अलग लोगों से बात करते हैं",
+   "fa": "در مهمانی‌ها با افراد مختلف صحبت می‌کنم",
+   "fr": "Je parle à beaucoup de personnes dans les fêtes"
+  }
+ },
+ {
+  "n": 38,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Like music",
+   "ru": "Люблю музыку",
+   "ar": "أحب الموسيقى",
+   "hi": "संगीत पसंद है",
+   "fa": "موسیقی را دوست دارم",
+   "fr": "J'aime la musique"
+  }
+ },
+ {
+  "n": 39,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Stick to the rules",
+   "ru": "Придерживаюсь правил",
+   "ar": "ألتزم بالقواعد",
+   "hi": "नियमों पर टिके रहते हैं",
+   "fa": "به قوانین پایبندم",
+   "fr": "Je m'en tiens aux règles"
+  }
+ },
+ {
+  "n": 40,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Like to tidy up",
+   "ru": "Люблю прибраться",
+   "ar": "أحب أن أرتب الأشياء",
+   "hi": "सफ़ाई करना पसंद है",
+   "fa": "منظم بودن را دوست دارم",
+   "fr": "J'aime faire du rangement"
+  }
+ },
+ {
+  "n": 41,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Dislike myself",
+   "ru": "Не люблю себя",
+   "ar": "أكره نفسي",
+   "hi": "खुद से घृणा करते हैं",
+   "fa": "خودم را دوست ندارم",
+   "fr": "Je n'ai pas beaucoup d'estime pour moi"
+  }
+ },
+ {
+  "n": 42,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Try to lead others",
+   "ru": "Стараюсь быть лидером",
+   "ar": "أحاول قيادة الآخرين",
+   "hi": "दूसरों का नेतृत्व करने की कोशिश करते हैं",
+   "fa": "سعی می‌کنم دیگران را رهبری کنم",
+   "fr": "J'essaie de diriger les autres"
+  }
+ },
+ {
+  "n": 43,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel others' emotions",
+   "ru": "Сопереживаю другим людям",
+   "ar": "أحس بمشاعر الآخرين",
+   "hi": "दूसरों की भावनाओं को महसूस करते हैं",
+   "fa": "احساسات دیگران را احساس می‌کنم",
+   "fr": "Je ressens les émotions des autres"
+  }
+ },
+ {
+  "n": 44,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Anticipate the needs of others",
+   "ru": "Предвосхищаю потребности других",
+   "ar": "أتوقّع احتياجات الآخرين قبل أن يطلبوها",
+   "hi": "दूसरों की ज़रूरतों का पहले से अनुमान लगा लेते हैं",
+   "fa": "نیازهای دیگران را پیش از گفتنشان حدس می‌زنم",
+   "fr": "J'anticipe les besoins des autres"
+  }
+ },
+ {
+  "n": 45,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Keep my promises",
+   "ru": "Сдерживаю обещания",
+   "ar": "أوفي بوعودي",
+   "hi": "वादे रखते हैं",
+   "fa": "سرِ قولم می‌مانم",
+   "fr": "Je tiens mes promesses"
+  }
+ },
+ {
+  "n": 46,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am afraid that I will do the wrong thing",
+   "ru": "Боюсь сделать что-то не так",
+   "ar": "أخشى أن أفعل الشيء الخطأ",
+   "hi": "डरते हैं कि कहीं कुछ गलत न कर दें",
+   "fa": "می‌ترسم کار اشتباهی انجام دهم",
+   "fr": "J'ai peur de faire ce qu'il ne faut pas"
+  }
+ },
+ {
+  "n": 47,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am always on the go",
+   "ru": "Всегда куда-то бегу",
+   "ar": "أنا دائماً في حالة نشاط",
+   "hi": "हर समय व्यस्त रहते हैं",
+   "fa": "همیشه پرمشغله هستم",
+   "fr": "Je suis toujours en mouvement"
+  }
+ },
+ {
+  "n": 48,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Like to visit new places",
+   "ru": "Люблю бывать в новых местах",
+   "ar": "أحب زيارة أماكن جديدة",
+   "hi": "नई जगहों पर जाना पसंद है",
+   "fa": "دیدن جاهای جدید را دوست دارم",
+   "fr": "J'aime visiter de nouveaux endroits"
+  }
+ },
+ {
+  "n": 49,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Can't stand confrontations",
+   "ru": "Не выношу конфронтаций",
+   "ar": "لا أحتمل المواجهات",
+   "hi": "टकराव बर्दाश्त नहीं कर पाते हैं",
+   "fa": "تحمل درگیری و رویارویی را ندارم",
+   "fr": "Je ne supporte pas les confrontations"
+  }
+ },
+ {
+  "n": 50,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Work hard",
+   "ru": "Много работаю",
+   "ar": "أكدح عندما أعمل",
+   "hi": "कर्मठ हैं",
+   "fa": "سخت کار می‌کنم (سخت‌کوش هستم)",
+   "fr": "Je travaille dur"
+  }
+ },
+ {
+  "n": 51,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Don't know why I do some of the things I do",
+   "ru": "Не знаю, почему делаю некоторые вещи",
+   "ar": "لا أعرف لماذا أفعل بعض الأشياء التي أفعلها",
+   "hi": "पता नहीं कि कुछ काम क्यों करते हैं",
+   "fa": "نمی‌دانم چرا بعضی کارها را انجام می‌دهم",
+   "fr": "Je ne sais pas pourquoi je fais certaines choses"
+  }
+ },
+ {
+  "n": 52,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Seek adventure",
+   "ru": "Ищу приключений",
+   "ar": "أبحث عن المغامرة",
+   "hi": "रोमांच खोजते हैं",
+   "fa": "به دنبال ماجراجویی هستم",
+   "fr": "Je recherche l'aventure"
+  }
+ },
+ {
+  "n": 53,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Love to read challenging material",
+   "ru": "Люблю читать что-то посложнее",
+   "ar": "أحب قراءة أشياء صعبة",
+   "hi": "चुनौतीपूर्ण सामग्री पढ़ना पसंद है",
+   "fa": "دوست دارم مطالب چالش برانگیز بخوانم",
+   "fr": "J'adore lire des documents stimulants"
+  }
+ },
+ {
+  "n": 54,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Dislike talking about myself",
+   "ru": "Не люблю говорить о себе",
+   "ar": "أكره الحديث عن نفسي",
+   "hi": "अपने बारे में बात करना पसंद नहीं है",
+   "fa": "دوست ندارم درباره خودم صحبت کنم",
+   "fr": "Je n'aime pas parler de moi"
+  }
+ },
+ {
+  "n": 55,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Am always prepared",
+   "ru": "Всегда готов",
+   "ar": "أنا دائماً مستعد",
+   "hi": "हमेशा तैयार हैं",
+   "fa": "همیشه آماده هستم",
+   "fr": "Je suis toujours préparé"
+  }
+ },
+ {
+  "n": 56,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Become overwhelmed by events",
+   "ru": "Легко подавляем событиями",
+   "ar": "تتعبني المناسبات",
+   "hi": "घटनाओं से अभिभूत हो जाते हैं",
+   "fa": "غرقِ در حوادث می‌شوم",
+   "fr": "Je me sens dépassé par les événements"
+  }
+ },
+ {
+  "n": 57,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Have a lot of fun",
+   "ru": "Много веселюсь",
+   "ar": "أحظى بالكثير من المتعة",
+   "hi": "ख़ूब मज़ा करते हैं",
+   "fa": "زیاد خوش‌گذرانی می‌کنم",
+   "fr": "J'ai beaucoup de plaisir"
+  }
+ },
+ {
+  "n": 58,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe that there is no absolute right and wrong",
+   "ru": "Верю, что нет абсолютного правильного и неправильного",
+   "ar": "أؤمن أنه لا يوجد صح مطلق وخطأ مطلق",
+   "hi": "मानते हैं की कुछ भी पूर्णतः सही या गलत नहीं होता है",
+   "fa": "معتقدم که هیچ درست و غلط مطلقی وجود ندارد",
+   "fr": "Je crois qu'il n'y a pas de bon ou de mauvais absolu"
+  }
+ },
+ {
+  "n": 59,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel sympathy for those who are worse off than myself",
+   "ru": "Сопереживаю тем, кому хуже, чем мне",
+   "ar": "أتعاطف مع من حالهم أسوأ من حالي",
+   "hi": "उन लोगों के लिए सहानुभूति महसूस करते हैं, जो आपसे भी बदतर हैं",
+   "fa": "با کسانی که وضعیت بدتری نسبت به من دارند احساس هم‌دردی می‌کنم",
+   "fr": "J'ai de la sympathie pour les gens plus démunis que moi"
+  }
+ },
+ {
+  "n": 60,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Choose my words with care",
+   "ru": "Тщательно подбираю слова",
+   "ar": "أختار كلماتي بعناية",
+   "hi": "शब्दों को सोच-समझकर चुनते हैं",
+   "fa": "کلماتم را با دقت انتخاب می‌کنم",
+   "fr": "Je choisis mes mots avec soin"
+  }
+ },
+ {
+  "n": 61,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Am afraid of many things",
+   "ru": "Многого боюсь",
+   "ar": "أخاف من أشياء كثيرة",
+   "hi": "बहुत सी चीजों से डरते हैं",
+   "fa": "از چیزهای زیادی می‌ترسم",
+   "fr": "J'ai peur de beaucoup de choses"
+  }
+ },
+ {
+  "n": 62,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel comfortable around people",
+   "ru": "Чувствую себя комфортно в окружении людей",
+   "ar": "أشعر بارتياح عند التواجد مع الناس",
+   "hi": "लोगों के आसपास सहज महसूस करते हैं",
+   "fa": "در کنار مردم احساس راحتی می‌کنم",
+   "fr": "Je me sens confortable avec les gens"
+  }
+ },
+ {
+  "n": 63,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Love to daydream",
+   "ru": "Люблю помечтать",
+   "ar": "أحب الاستغراق في أحلام اليقظة",
+   "hi": "दिवास्वप्न से प्यार है",
+   "fa": "رویاپردازی را دوست دارم",
+   "fr": "J'adore rêvasser"
+  }
+ },
+ {
+  "n": 64,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Trust what people say",
+   "ru": "Доверяю тому, что люди говорят мне",
+   "ar": "أثق فيما يقوله الناس",
+   "hi": "लोगों के कथनों पर विश्वास करते हैं",
+   "fa": "به چیزی که دیگران می‌گویند اعتماد دارم",
+   "fr": "J'ai confiance en ce que les gens disent"
+  }
+ },
+ {
+  "n": 65,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Handle tasks smoothly",
+   "ru": "Справлюсь с задачами без проблем",
+   "ar": "أتعامل مع المهام بسلاسة",
+   "hi": "कार्यों को सुचारू रूप से संभालते हैं",
+   "fa": "کارهایم را به آرامی و با تسلط انجام می‌دهم",
+   "fr": "Je gère les tâches facilement"
+  }
+ },
+ {
+  "n": 66,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Get upset easily",
+   "ru": "Легко расстраиваюсь",
+   "ar": "أنفعل بسهولة",
+   "hi": "आसानी से परेशान हो जाते हैं",
+   "fa": "به راحتی ناراحت می‌شوم",
+   "fr": "Je m'énerve facilement"
+  }
+ },
+ {
+  "n": 67,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy being part of a group",
+   "ru": "Люблю быть частью группы",
+   "ar": "أستمتع بكوني جزءاً من مجموعة",
+   "hi": "किसी समूह का हिस्सा होना अच्छा लगता है",
+   "fa": "از عضو یک گروه بودن لذت می‌برم",
+   "fr": "J'aime faire partie d'un groupe"
+  }
+ },
+ {
+  "n": 68,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "See beauty in things that others might not notice",
+   "ru": "Вижу красоту там, где другие не видят",
+   "ar": "أرى جمالاً لا يلاحظه الآخرون في الأشياء",
+   "hi": "चीज़ों में सुंदरता देखते हैं, जो दूसरे नहीं देख पाते हैं",
+   "fa": "زیبایی را در چیزهایی می‌بینم که ممکن است دیگران متوجه آن نشوند",
+   "fr": "Je vois une beauté dans les choses que d'autres pourraient ne pas remarquer"
+  }
+ },
+ {
+  "n": 69,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Use flattery to get ahead",
+   "ru": "Использую лесть, чтобы продвинуться",
+   "ar": "أستخدم التملّق لأتقدّم",
+   "hi": "आगे बढ़ने के लिए चापलूसी करते हैं",
+   "fa": "برای پیشرفت چاپلوسی می‌کنم",
+   "fr": "J'utilise la flatterie pour avancer"
+  }
+ },
+ {
+  "n": 70,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Want everything to be \"just right.\"",
+   "ru": "Хочу, чтобы всё было «как надо»",
+   "ar": "أريد أن يكون كل شيء «على أكمل وجه»",
+   "hi": "चाहते हैं कि सब कुछ \"बिल्कुल सही\" हो",
+   "fa": "می‌خواهم همه چیز «دقیقاً درست» باشد",
+   "fr": "Je veux que tout soit « parfait »"
+  }
+ },
+ {
+  "n": 71,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Am often down in the dumps",
+   "ru": "Часто бывает очень грустно",
+   "ar": "عادة أشعر بالإحباط",
+   "hi": "अक्सर अत्यंत उदास रहते हैं",
+   "fa": "اغلب غمگین هستم",
+   "fr": "Il m'arrive souvent de broyer du noir"
+  }
+ },
+ {
+  "n": 72,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Can talk others into doing things",
+   "ru": "Умею уговорить других что-то сделать",
+   "ar": "أستطيع إقناع الآخرين بفعل الأشياء",
+   "hi": "दूसरों को कुछ करने के लिए मना लेते हैं",
+   "fa": "می‌توانم دیگران را به انجام کارها متقاعد کنم",
+   "fr": "Je sais convaincre les autres de faire des choses"
+  }
+ },
+ {
+  "n": 73,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Am passionate about causes",
+   "ru": "Увлечённо отстаиваю идеи, в которые верю",
+   "ar": "أتحمّس للقضايا التي أؤمن بها",
+   "hi": "जिन मुद्दों में विश्वास करते हैं, उनके प्रति जुनूनी हैं",
+   "fa": "نسبت به آرمان‌هایم پرشور هستم",
+   "fr": "Je suis passionné par les causes que je défends"
+  }
+ },
+ {
+  "n": 74,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Love to help others",
+   "ru": "Люблю помогать другим",
+   "ar": "أحب مساعدة الآخرين",
+   "hi": "दूसरों की सहायता करना पसंद है",
+   "fa": "دوست دارم به دیگران کمک کنم",
+   "fr": "J'adore aider les autres"
+  }
+ },
+ {
+  "n": 75,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Pay my bills on time",
+   "ru": "Плачу по счетам вовремя",
+   "ar": "أدفع فواتيري في موعدها",
+   "hi": "बिलों का भुगतान समय पर करते हैं",
+   "fa": "قبض‌هایم را به موقع پرداخت می‌کنم",
+   "fr": "Je paie mes factures à temps"
+  }
+ },
+ {
+  "n": 76,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Find it difficult to approach others",
+   "ru": "Нахожу трудным обращаться к людям",
+   "ar": "أواجه صعوبة في الاقتراب من الآخرين",
+   "hi": "दूसरों से संपर्क करना कठिन लगता है",
+   "fa": "نزدیک شدن به دیگران برایم سخت است",
+   "fr": "J'éprouve de la difficulté à aborder les autres"
+  }
+ },
+ {
+  "n": 77,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Do a lot in my spare time",
+   "ru": "В свободное время занимаюсь много чем",
+   "ar": "أنجز الكثير في أوقات فراغي",
+   "hi": "अपने खाली समय में बहुत कुछ करते हैं",
+   "fa": "در اوقات فراغتم کارهای زیادی انجام می‌دهم",
+   "fr": "Je fais beaucoup de choses pendant mon temps libre"
+  }
+ },
+ {
+  "n": 78,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Interested in many things",
+   "ru": "Интересуюсь многими вещами",
+   "ar": "أهتم بأشياء كثيرة",
+   "hi": "कई चीज़ों में रुचि है",
+   "fa": "به چیزهای زیادی علاقه دارم",
+   "fr": "Je m'intéresse à beaucoup de choses"
+  }
+ },
+ {
+  "n": 79,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Hate to seem pushy",
+   "ru": "Не люблю казаться навязчивым",
+   "ar": "أكره أن أبدو مُلحّاً",
+   "hi": "दबाव डालने वाला दिखना पसंद नहीं है",
+   "fa": "دوست ندارم سمج و زورگو به نظر برسم",
+   "fr": "Je déteste paraître insistant"
+  }
+ },
+ {
+  "n": 80,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Turn plans into actions",
+   "ru": "Воплощаю планы в действия",
+   "ar": "أحوّل الخطط إلى أفعال",
+   "hi": "योजनाओं को अमल में लाते हैं",
+   "fa": "برنامه‌هایم را به عمل تبدیل می‌کنم",
+   "fr": "Je transforme mes projets en actions"
+  }
+ },
+ {
+  "n": 81,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Do things I later regret",
+   "ru": "Делаю то, о чём потом жалею",
+   "ar": "أفعل أشياء أندم عليها لاحقاً",
+   "hi": "ऐसे काम करते हैं जिन पर बाद में पछताते हैं",
+   "fa": "کارهایی می‌کنم که بعداً پشیمان می‌شوم",
+   "fr": "Je fais des choses que je regrette ensuite"
+  }
+ },
+ {
+  "n": 82,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Love action",
+   "ru": "Люблю активные действия",
+   "ar": "أحب الحركة والنشاط المثير",
+   "hi": "रोमांचक गतिविधियाँ पसंद हैं",
+   "fa": "عاشق هیجان و عمل هستم",
+   "fr": "J'adore l'action"
+  }
+ },
+ {
+  "n": 83,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Have a rich vocabulary",
+   "ru": "Обладаю богатым словарным запасом",
+   "ar": "لدي حصيلة لغوية غنية",
+   "hi": "शब्द-भंडार समृद्ध है",
+   "fa": "دایره واژگان غنی دارم",
+   "fr": "J'ai un vocabulaire riche"
+  }
+ },
+ {
+  "n": 84,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Consider myself an average person",
+   "ru": "Считаю себя обычным человеком",
+   "ar": "أعتبر نفسي شخصاً عادياً",
+   "hi": "खुद को एक साधारण इंसान मानते हैं",
+   "fa": "خودم را آدمی معمولی می‌دانم",
+   "fr": "Je me considère comme une personne ordinaire"
+  }
+ },
+ {
+  "n": 85,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Start tasks right away",
+   "ru": "Приступаю к задачам сразу",
+   "ar": "أبدأ المهام على الفور",
+   "hi": "काम तुरंत शुरू कर देते हैं",
+   "fa": "کارها را فوراً شروع می‌کنم",
+   "fr": "Je commence mes tâches tout de suite"
+  }
+ },
+ {
+  "n": 86,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel that I'm unable to deal with things",
+   "ru": "Чувствую себя неспособным справляться с делами",
+   "ar": "أشعر أنه ليس بإمكاني التعامل مع الأمور",
+   "hi": "अपने आप को चीज़ों से निपटने में असमर्थ महसूस करते हैं",
+   "fa": "احساس می کنم که نمی توانم با مسائل کنار بیایم",
+   "fr": "Je me sens incapable de gérer les choses"
+  }
+ },
+ {
+  "n": 87,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Express childlike joy",
+   "ru": "Радуюсь по-детски",
+   "ar": "أُعبّر عن فرحي كالأطفال",
+   "hi": "बच्चों जैसी खुशी ज़ाहिर करते हैं",
+   "fa": "شادی‌ام را کودکانه ابراز می‌کنم",
+   "fr": "J'exprime une joie enfantine"
+  }
+ },
+ {
+  "n": 88,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe that criminals should receive help rather than punishment",
+   "ru": "Считаю, что преступникам нужна помощь, а не наказание",
+   "ar": "أؤمن بأن المجرمين يحتاجون إلى المساعدة لا العقاب",
+   "hi": "मानते हैं कि अपराधियों को सज़ा के बजाय मदद मिलनी चाहिए",
+   "fa": "معتقدم مجرمان به جای مجازات باید کمک دریافت کنند",
+   "fr": "Je pense que les criminels devraient être aidés plutôt que punis"
+  }
+ },
+ {
+  "n": 89,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Value cooperation over competition",
+   "ru": "Ценю сотрудничество выше соперничества",
+   "ar": "أُقدّر التعاون أكثر من المنافسة",
+   "hi": "प्रतिस्पर्धा से ज़्यादा सहयोग को महत्व देते हैं",
+   "fa": "همکاری را به رقابت ترجیح می‌دهم",
+   "fr": "Je privilégie la coopération plutôt que la compétition"
+  }
+ },
+ {
+  "n": 90,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Stick to my chosen path",
+   "ru": "Придерживаюсь выбранного пути",
+   "ar": "ألتزم بالطريق الذي اخترته",
+   "hi": "चुने हुए रास्ते पर डटे रहते हैं",
+   "fa": "در مسیری که انتخاب کرده‌ام ثابت‌قدم می‌مانم",
+   "fr": "Je reste sur la voie que j'ai choisie"
+  }
+ },
+ {
+  "n": 91,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Get stressed out easily",
+   "ru": "Легко впадаю в стресс",
+   "ar": "أُجهَد نفسياً بسهولة",
+   "hi": "आसानी से तनाव होता है",
+   "fa": "به راحتی دچار استرس می‌شوم",
+   "fr": "Je deviens stressé facilement"
+  }
+ },
+ {
+  "n": 92,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Act comfortably with others",
+   "ru": "Чувствую себя свободно с другими людьми",
+   "ar": "أتصرّف براحة مع الآخرين",
+   "hi": "दूसरों के साथ सहज रहते हैं",
+   "fa": "با دیگران راحت رفتار می‌کنم",
+   "fr": "Je suis à l'aise avec les autres"
+  }
+ },
+ {
+  "n": 93,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Like to get lost in thought",
+   "ru": "Люблю потеряться в мыслях",
+   "ar": "أحب أن أضيع في أفكاري",
+   "hi": "विचारों में खो जाना पसंद है",
+   "fa": "دوست دارم در افکارم گم شوم",
+   "fr": "J'aime me perdre dans mes pensées"
+  }
+ },
+ {
+  "n": 94,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe that people are basically moral",
+   "ru": "Считаю, что люди в основе своей нравственны",
+   "ar": "أؤمن بأن الناس أخلاقيون في جوهرهم",
+   "hi": "मानते हैं कि लोग मूल रूप से नैतिक होते हैं",
+   "fa": "معتقدم انسان‌ها اساساً اخلاق‌مدار هستند",
+   "fr": "Je crois que les gens sont fondamentalement moraux"
+  }
+ },
+ {
+  "n": 95,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Am sure of my ground",
+   "ru": "Уверен в своей позиции",
+   "ar": "أنا واثق من موقفي",
+   "hi": "अपनी बात को लेकर आश्वस्त रहते हैं",
+   "fa": "از موضع خودم مطمئنم",
+   "fr": "Je suis sûr de mon fait"
+  }
+ },
+ {
+  "n": 96,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Am often in a bad mood",
+   "ru": "Часто бываю в плохом настроении",
+   "ar": "كثيراً ما أكون في مزاج سيئ",
+   "hi": "अक्सर खराब मूड में रहते हैं",
+   "fa": "اغلب بدخلق هستم",
+   "fr": "Je suis souvent de mauvaise humeur"
+  }
+ },
+ {
+  "n": 97,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Involve others in what I am doing",
+   "ru": "Вовлекаю других в то, чем занимаюсь",
+   "ar": "أُشرك الآخرين فيما أفعله",
+   "hi": "जो कर रहे होते हैं, उसमें दूसरों को भी शामिल करते हैं",
+   "fa": "دیگران را در کارهایم مشارکت می‌دهم",
+   "fr": "J'implique les autres dans ce que je fais"
+  }
+ },
+ {
+  "n": 98,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Love flowers",
+   "ru": "Обожаю цветы",
+   "ar": "أعشق الزهور",
+   "hi": "फूलों से प्यार है",
+   "fa": "عاشق گل‌ها هستم",
+   "fr": "J'adore les fleurs"
+  }
+ },
+ {
+  "n": 99,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Use others for my own ends",
+   "ru": "Использую других ради личных целей",
+   "ar": "أستغل الآخرين لتحقيق مرادي",
+   "hi": "स्वयं का काम निकलने के लिए दूसरों का उपयोग करते हैं",
+   "fa": "از دیگران برای رسیدن به اهدافم استفاده می‌کنم",
+   "fr": "J'utilise les autres pour mes propres fins"
+  }
+ },
+ {
+  "n": 100,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Love order and regularity",
+   "ru": "Люблю порядок и размеренность",
+   "ar": "أحب النظام والانتظام",
+   "hi": "व्यवस्था और नियमितता पसंद है",
+   "fa": "نظم و ترتیب را دوست دارم",
+   "fr": "J'aime l'ordre et la régularité"
+  }
+ },
+ {
+  "n": 101,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Have a low opinion of myself",
+   "ru": "Невысокого мнения о себе",
+   "ar": "نظرتي إلى نفسي متدنية",
+   "hi": "अपने बारे में राय अच्छी नहीं है",
+   "fa": "نظر خوبی درباره خودم ندارم",
+   "fr": "J'ai une piètre opinion de moi-même"
+  }
+ },
+ {
+  "n": 102,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Seek to influence others",
+   "ru": "Стремлюсь влиять на других",
+   "ar": "أسعى للتأثير في الآخرين",
+   "hi": "दूसरों को प्रभावित करने की कोशिश करते हैं",
+   "fa": "می‌کوشم بر دیگران تأثیر بگذارم",
+   "fr": "Je cherche à influencer les autres"
+  }
+ },
+ {
+  "n": 103,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy examining myself and my life",
+   "ru": "Люблю размышлять о себе и своей жизни",
+   "ar": "أستمتع بالتأمّل في نفسي وحياتي",
+   "hi": "खुद को और अपने जीवन को परखना अच्छा लगता है",
+   "fa": "از بررسی خودم و زندگی‌ام لذت می‌برم",
+   "fr": "J'aime m'examiner et examiner ma vie"
+  }
+ },
+ {
+  "n": 104,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Am concerned about others",
+   "ru": "Беспокоюсь за других людей",
+   "ar": "أقلق بشأن الآخرين",
+   "hi": "दूसरों के बारे में चिंतित रहते हैं",
+   "fa": "نگران دیگران هستم",
+   "fr": "Je me préoccupe des autres"
+  }
+ },
+ {
+  "n": 105,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Tell the truth",
+   "ru": "Говорю правду",
+   "ar": "أقول الحقيقة",
+   "hi": "सत्य कहते हैं",
+   "fa": "حقیقت را می‌گویم",
+   "fr": "Je dis la vérité"
+  }
+ },
+ {
+  "n": 106,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Am afraid to draw attention to myself",
+   "ru": "Боюсь привлекать внимание к себе",
+   "ar": "أخاف أن أجذب الانتباه إليّ",
+   "hi": "खुद पर ध्यान आकर्षित करने से डरते हैं",
+   "fa": "از اینکه توجهات به من جلب شود می‌ترسم",
+   "fr": "J'ai peur d'attirer l'attention"
+  }
+ },
+ {
+  "n": 107,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Can manage many things at the same time",
+   "ru": "Могу заниматься многими делами одновременно",
+   "ar": "أستطيع إدارة أمور كثيرة في الوقت نفسه",
+   "hi": "एक साथ कई काम संभाल लेते हैं",
+   "fa": "می‌توانم همزمان چند کار را مدیریت کنم",
+   "fr": "Je peux gérer beaucoup de choses en même temps"
+  }
+ },
+ {
+  "n": 108,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Like to begin new things",
+   "ru": "Люблю начинать что-то новое",
+   "ar": "أحب البدء بأشياء جديدة",
+   "hi": "नई चीज़ें शुरू करना पसंद है",
+   "fa": "شروع کارهای تازه را دوست دارم",
+   "fr": "J'aime commencer de nouvelles choses"
+  }
+ },
+ {
+  "n": 109,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Have a sharp tongue",
+   "ru": "Бываю резок на язык",
+   "ar": "لساني لاذع",
+   "hi": "ज़बान के तीखे हैं",
+   "fa": "زبان تند و تیزی دارم",
+   "fr": "J'ai la langue acérée"
+  }
+ },
+ {
+  "n": 110,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Plunge into tasks with all my heart",
+   "ru": "Отдаюсь делу всей душой",
+   "ar": "أنغمس في المهام بكل قلبي",
+   "hi": "पूरे मन से काम में जुट जाते हैं",
+   "fa": "با تمام وجود در کارها غرق می‌شوم",
+   "fr": "Je me lance dans mes tâches de tout mon cœur"
+  }
+ },
+ {
+  "n": 111,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Go on binges",
+   "ru": "Могу чрезмерно увлечься",
+   "ar": "أفرط في إشباع رغبة ما",
+   "hi": "कुछ भी जरूरत से ज्यादा करते हैं",
+   "fa": "پرخوری می‌کنم",
+   "fr": "Je fais des excès"
+  }
+ },
+ {
+  "n": 112,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy being part of a loud crowd",
+   "ru": "Люблю быть частью шумной толпы",
+   "ar": "أستمتع بالتواجد وسط حشد صاخب",
+   "hi": "शोरगुल भरी भीड़ का हिस्सा बनना अच्छा लगता है",
+   "fa": "از بودن در جمعیتی پرسروصدا لذت می‌برم",
+   "fr": "J'aime faire partie d'une foule bruyante"
+  }
+ },
+ {
+  "n": 113,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Can handle a lot of information",
+   "ru": "Справляюсь с большим объёмом информации",
+   "ar": "أستطيع التعامل مع كمّ كبير من المعلومات",
+   "hi": "बहुत सारी जानकारी को संभाल लेते हैं",
+   "fa": "می‌توانم حجم زیادی از اطلاعات را پردازش کنم",
+   "fr": "Je peux traiter beaucoup d'informations"
+  }
+ },
+ {
+  "n": 114,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Seldom toot my own horn",
+   "ru": "Редко хвастаюсь",
+   "ar": "نادراً ما أتباهى بنفسي",
+   "hi": "शायद ही कभी अपनी तारीफ़ खुद करते हैं",
+   "fa": "به ندرت از خودم تعریف می‌کنم",
+   "fr": "Je me vante rarement"
+  }
+ },
+ {
+  "n": 115,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Get to work at once",
+   "ru": "Сразу берусь за работу",
+   "ar": "أشرع في العمل فوراً",
+   "hi": "तुरंत काम पर लग जाते हैं",
+   "fa": "بی‌درنگ دست به کار می‌شوم",
+   "fr": "Je me mets au travail immédiatement"
+  }
+ },
+ {
+  "n": 116,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Can't make up my mind",
+   "ru": "Не могу принять решение",
+   "ar": "لا أستطيع حسم أمري",
+   "hi": "मन नहीं बना पाते हैं",
+   "fa": "نمی‌توانم تصمیم بگیرم",
+   "fr": "Je n'arrive pas à me décider"
+  }
+ },
+ {
+  "n": 117,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Laugh my way through life",
+   "ru": "Иду по жизни со смехом",
+   "ar": "أعيش حياتي ضاحكاً",
+   "hi": "हँसते-खेलते ज़िंदगी जीते हैं",
+   "fa": "با خنده زندگی را می‌گذرانم",
+   "fr": "Je traverse la vie en riant"
+  }
+ },
+ {
+  "n": 118,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe in one true religion",
+   "ru": "Верю в единственную истинную религию",
+   "ar": "أؤمن بدين واحد حق",
+   "hi": "एक ही सच्चे धर्म में विश्वास करते हैं",
+   "fa": "به یک دین حقیقی واحد باور دارم",
+   "fr": "Je crois en une seule vraie religion"
+  }
+ },
+ {
+  "n": 119,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Suffer from others' sorrows",
+   "ru": "Страдаю от чужих горестей",
+   "ar": "أتألّم لأحزان الآخرين",
+   "hi": "दूसरों के दुख से दुखी होते हैं",
+   "fa": "از غم دیگران رنج می‌برم",
+   "fr": "Je souffre des peines des autres"
+  }
+ },
+ {
+  "n": 120,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Jump into things without thinking",
+   "ru": "Начинаю разные вещи не подумав",
+   "ar": "أجرب بلا تفكير",
+   "hi": "बिना सोचे समझे चीजों में कूदते हैं",
+   "fa": "بدون فکر کردن ناگهان تصمیم به انجام کاری می‌گیرم",
+   "fr": "Je me lance dans des choses sans réfléchir"
+  }
+ },
+ {
+  "n": 121,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Get caught up in my problems",
+   "ru": "Зацикливаюсь на своих проблемах",
+   "ar": "أنشغل كثيراً بمشكلاتي",
+   "hi": "अपनी समस्याओं में उलझ जाते हैं",
+   "fa": "درگیر مشکلاتم می‌شوم",
+   "fr": "Je me laisse absorber par mes problèmes"
+  }
+ },
+ {
+  "n": 122,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Cheer people up",
+   "ru": "Поднимаю людям настроение",
+   "ar": "أُبهج الناس",
+   "hi": "लोगों का उत्साह बढ़ाते हैं",
+   "fa": "حال دیگران را خوب می‌کنم",
+   "fr": "Je remonte le moral des gens"
+  }
+ },
+ {
+  "n": 123,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Indulge in my fantasies",
+   "ru": "Предаюсь фантазиям",
+   "ar": "أنغمس في خيالاتي",
+   "hi": "अपनी कल्पनाओं में खो जाते हैं",
+   "fa": "در خیال‌پردازی‌هایم غرق می‌شوم",
+   "fr": "Je me laisse aller à mes fantasmes"
+  }
+ },
+ {
+  "n": 124,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Believe in human goodness",
+   "ru": "Верю в человеческую доброту",
+   "ar": "أؤمن بطيبة الإنسان",
+   "hi": "इंसानी अच्छाई में विश्वास करते हैं",
+   "fa": "به خوبی ذاتی انسان باور دارم",
+   "fr": "Je crois en la bonté humaine"
+  }
+ },
+ {
+  "n": 125,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Come up with good solutions",
+   "ru": "Нахожу хорошие решения",
+   "ar": "أتوصّل إلى حلول جيدة",
+   "hi": "अच्छे समाधान निकाल लेते हैं",
+   "fa": "راه‌حل‌های خوبی پیدا می‌کنم",
+   "fr": "Je trouve de bonnes solutions"
+  }
+ },
+ {
+  "n": 126,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Lose my temper",
+   "ru": "Легко теряю самообладание",
+   "ar": "أفقد أعصابي",
+   "hi": "अपना आपा खो देते हैं",
+   "fa": "از کوره درمی‌روم",
+   "fr": "Je perds patience"
+  }
+ },
+ {
+  "n": 127,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Love surprise parties",
+   "ru": "Обожаю вечеринки-сюрпризы",
+   "ar": "أعشق الحفلات المفاجئة",
+   "hi": "सरप्राइज़ पार्टियाँ बहुत पसंद हैं",
+   "fa": "عاشق جشن‌های غافلگیرانه هستم",
+   "fr": "J'adore les fêtes surprises"
+  }
+ },
+ {
+  "n": 128,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy the beauty of nature",
+   "ru": "Наслаждаюсь красотой природы",
+   "ar": "أستمتع بجمال الطبيعة",
+   "hi": "प्रकृति की सुंदरता का आनंद लेते हैं",
+   "fa": "از زیبایی طبیعت لذت می‌برم",
+   "fr": "J'apprécie la beauté de la nature"
+  }
+ },
+ {
+  "n": 129,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Know how to get around the rules",
+   "ru": "Знаю, как обойти правила",
+   "ar": "أعرف كيف أتحايل على القواعد",
+   "hi": "नियमों से बचने का तरीका जानते हैं",
+   "fa": "بلدم چطور قوانین را دور بزنم",
+   "fr": "Je sais contourner les règles"
+  }
+ },
+ {
+  "n": 130,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "plus",
+  "text": {
+   "en": "Do things according to a plan",
+   "ru": "Делаю всё по плану",
+   "ar": "أفعل الأشياء وفق خطة",
+   "hi": "काम योजना के अनुसार करते हैं",
+   "fa": "کارها را طبق برنامه انجام می‌دهم",
+   "fr": "Je fais les choses selon un plan"
+  }
+ },
+ {
+  "n": 131,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Have frequent mood swings",
+   "ru": "У меня часто меняется настроение",
+   "ar": "تتقلّب حالتي المزاجية كثيراً",
+   "hi": "मूड अक्सर बदलता रहता है",
+   "fa": "اغلب نوسان خلقی دارم",
+   "fr": "J'ai de fréquentes sautes d'humeur"
+  }
+ },
+ {
+  "n": 132,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Take control of things",
+   "ru": "Беру контроль",
+   "ar": "أسيطر على الأمور",
+   "hi": "चीजों पर नियंत्रण लेते हैं",
+   "fa": "کنترل همه چیز را در دست می‌گیرم",
+   "fr": "Je prends le contrôle des choses"
+  }
+ },
+ {
+  "n": 133,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Try to understand myself",
+   "ru": "Стараюсь понять себя",
+   "ar": "أحاول أن أفهم نفسي",
+   "hi": "खुद को समझने की कोशिश करते हैं",
+   "fa": "سعی می‌کنم خودم را بشناسم",
+   "fr": "J'essaie de me comprendre"
+  }
+ },
+ {
+  "n": 134,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Have a good word for everyone",
+   "ru": "Нахожу доброе слово для каждого",
+   "ar": "لدي كلمة طيبة لكل شخص",
+   "hi": "हर किसी के लिए अच्छे शब्द होते हैं",
+   "fa": "برای همه حرف خوبی دارم",
+   "fr": "J'ai un mot gentil pour chacun"
+  }
+ },
+ {
+  "n": 135,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Listen to my conscience",
+   "ru": "Прислушиваюсь к своей совести",
+   "ar": "أُصغي إلى ضميري",
+   "hi": "अपने अंतरात्मा की आवाज़ सुनते हैं",
+   "fa": "به ندای وجدانم گوش می‌دهم",
+   "fr": "J'écoute ma conscience"
+  }
+ },
+ {
+  "n": 136,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Only feel comfortable with friends",
+   "ru": "Чувствую себя комфортно только с друзьями",
+   "ar": "لا أشعر بارتياح إلا مع أصدقائي",
+   "hi": "केवल दोस्तों के साथ सहज महसूस करते हैं",
+   "fa": "فقط با دوستانم احساس راحتی می‌کنم",
+   "fr": "Je me sens seulement à l'aise avec mes amis"
+  }
+ },
+ {
+  "n": 137,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "React quickly",
+   "ru": "Быстро реагирую",
+   "ar": "أتفاعل بسرعة",
+   "hi": "जल्दी प्रतिक्रिया करते हैं",
+   "fa": "سریع واکنش نشان می‌دهم",
+   "fr": "Je réagis vite"
+  }
+ },
+ {
+  "n": 138,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Prefer to stick with things that I know",
+   "ru": "Предпочитаю заниматься тем, что уже знаю",
+   "ar": "أُفضّل الالتزام بما أعرفه",
+   "hi": "जिन चीज़ो के बारे में जानते हैं उन्ही पर स्थिर रहते हैं",
+   "fa": "ترجیح می‌دهم به چیزهایی که می‌دانم پایبند باشم",
+   "fr": "Je préfère m'en tenir aux choses connues"
+  }
+ },
+ {
+  "n": 139,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Contradict others",
+   "ru": "Противоречу другим",
+   "ar": "أعارض الآخرين",
+   "hi": "दूसरों की बात काटते हैं",
+   "fa": "حرف دیگران را نقض می‌کنم",
+   "fr": "Je contredis les autres"
+  }
+ },
+ {
+  "n": 140,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Do more than what's expected of me",
+   "ru": "Делаю больше, чем от меня ожидают",
+   "ar": "أعمل أكثر مما هو متوقع مني",
+   "hi": "अपेक्षा से अधिक करते हैं",
+   "fa": "بیش از آنچه از من انتظار می رود، کار می‌کنم",
+   "fr": "Je fais plus que ce que l'on attend de moi"
+  }
+ },
+ {
+  "n": 141,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Love to eat",
+   "ru": "Обожаю поесть",
+   "ar": "أحب الأكل كثيراً",
+   "hi": "खाना बहुत पसंद है",
+   "fa": "عاشق غذا خوردن هستم",
+   "fr": "J'adore manger"
+  }
+ },
+ {
+  "n": 142,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy being reckless",
+   "ru": "Наслаждаюсь опрометчивостью",
+   "ar": "أستمتع لكوني غير مبالٍ",
+   "hi": "लापरवाह होने में आनंद आता है",
+   "fa": "از بی‌پروا بودن لذت می‌برم",
+   "fr": "J'agis de manière effrénée"
+  }
+ },
+ {
+  "n": 143,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Enjoy thinking about things",
+   "ru": "Люблю размышлять над разными вещами",
+   "ar": "أستمتع بالتفكير في الأشياء",
+   "hi": "चीज़ों पर सोच-विचार करना अच्छा लगता है",
+   "fa": "از فکر کردن درباره مسائل لذت می‌برم",
+   "fr": "J'aime réfléchir aux choses"
+  }
+ },
+ {
+  "n": 144,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe that I am better than others",
+   "ru": "Считаю, что я лучше других",
+   "ar": "أعتقد أني أفضل من الآخرين",
+   "hi": "अपने आप को दूसरों से बेहतर मानते हैं",
+   "fa": "کعتقدم که از دیگران بهترم",
+   "fr": "Je crois être meilleur que les autres"
+  }
+ },
+ {
+  "n": 145,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Carry out my plans",
+   "ru": "Придерживаюсь своих планов",
+   "ar": "أنفذ خططي",
+   "hi": "योजनाओं को पूरा करते हैं",
+   "fa": "برنامه‌هایم را اجرا می‌کنم",
+   "fr": "Je réalise mes objectifs"
+  }
+ },
+ {
+  "n": 146,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Get overwhelmed by emotions",
+   "ru": "Меня захлёстывают эмоции",
+   "ar": "تغمرني المشاعر",
+   "hi": "भावनाओं में बह जाते हैं",
+   "fa": "احساسات بر من غلبه می‌کنند",
+   "fr": "Je suis submergé par mes émotions"
+  }
+ },
+ {
+  "n": 147,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Love life",
+   "ru": "Люблю жизнь",
+   "ar": "أحب الحياة",
+   "hi": "जीवन से प्रेम करते हैं",
+   "fa": "زندگی را دوست دارم",
+   "fr": "J'adore la vie"
+  }
+ },
+ {
+  "n": 148,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Tend to vote for conservative political candidates",
+   "ru": "Склоняюсь голосовать за консервативных политических кандидатов",
+   "ar": "أميل نحو الآراء المحافظة",
+   "hi": "रूढ़िवादी राजनीतिक उम्मीदवारों के लिए वोट करना पसंद है",
+   "fa": "تمایل دارم به نامزدهای سیاسی محافظه‌کار رای دهم",
+   "fr": "J’ai tendance à promouvoir des valeurs sociales libérales"
+  }
+ },
+ {
+  "n": 149,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not interested in other people's problems",
+   "ru": "Не интересуют проблемы других людей",
+   "ar": "غير مهتم بمشاكل الناس",
+   "hi": "अन्य लोगों की समस्याओं में कोई दिलचस्पी नहीं है",
+   "fa": "علاقه‌ای به شنیدن مشکلات دیگران ندارم",
+   "fr": "Je ne suis pas intéressé par les problèmes des autres"
+  }
+ },
+ {
+  "n": 150,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Make rash decisions",
+   "ru": "Принимаю поспешные решения",
+   "ar": "أتخذ قرارات متهورة",
+   "hi": "जल्दबाजी में निर्णय लेते हैं",
+   "fa": "تصمیمات عجولانه می‌گیرم",
+   "fr": "Je prends des décisions impulsives"
+  }
+ },
+ {
+  "n": 151,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not easily bothered by things",
+   "ru": "Меня нелегко вывести из равновесия",
+   "ar": "لا تزعجني الأمور بسهولة",
+   "hi": "चीज़ों से आसानी से परेशान नहीं होते हैं",
+   "fa": "چیزها به راحتی آزارم نمی‌دهند",
+   "fr": "Je ne suis pas facilement contrarié"
+  }
+ },
+ {
+  "n": 152,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am hard to get to know",
+   "ru": "Меня трудно узнать по-настоящему",
+   "ar": "من الصعب التعرّف عليّ",
+   "hi": "आपको जान पाना मुश्किल है",
+   "fa": "شناختن من سخت است",
+   "fr": "Je suis difficile à connaître"
+  }
+ },
+ {
+  "n": 153,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Spend time reflecting on things",
+   "ru": "Провожу время в размышлениях",
+   "ar": "أقضي وقتاً في التأمّل في الأمور",
+   "hi": "चीज़ों पर चिंतन करने में समय बिताते हैं",
+   "fa": "وقتم را صرف تأمل درباره مسائل می‌کنم",
+   "fr": "Je passe du temps à réfléchir"
+  }
+ },
+ {
+  "n": 154,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Think that all will be well",
+   "ru": "Думаю, что всё будет хорошо",
+   "ar": "أظن أن كل شيء سيكون على ما يرام",
+   "hi": "सोचते हैं कि सब ठीक हो जाएगा",
+   "fa": "فکر می‌کنم همه چیز درست خواهد شد",
+   "fr": "Je pense que tout ira bien"
+  }
+ },
+ {
+  "n": 155,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "plus",
+  "text": {
+   "en": "Know how to get things done",
+   "ru": "Знаю, как доводить дела до конца",
+   "ar": "أعرف كيف أنجز الأمور",
+   "hi": "काम निकलना जानते हैं",
+   "fa": "می‌دانم که چطور کارها را تمام کنم",
+   "fr": "Je sais comment faire avancer les choses"
+  }
+ },
+ {
+  "n": 156,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Rarely get irritated",
+   "ru": "Редко раздражаюсь",
+   "ar": "نادراً ما أنزعج",
+   "hi": "शायद ही कभी चिढ़ते हैं",
+   "fa": "به ندرت کلافه می‌شوم",
+   "fr": "Je m'irrite rarement"
+  }
+ },
+ {
+  "n": 157,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Prefer to be alone",
+   "ru": "Предпочитаю быть одному",
+   "ar": "أفضّل أن أكون وحيداً",
+   "hi": "अकेले रहना पसंद करते हैं",
+   "fa": "ترجیح می‌دهم تنها باشم",
+   "fr": "Je préfère être seul"
+  }
+ },
+ {
+  "n": 158,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not like art",
+   "ru": "Не люблю искусство",
+   "ar": "لا أحب الفن",
+   "hi": "कला पसंद नहीं है",
+   "fa": "هنر را دوست ندارم",
+   "fr": "Je n'aime pas l'art"
+  }
+ },
+ {
+  "n": 159,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Cheat to get ahead",
+   "ru": "Готов обмануть, чтобы продвинуться вперед",
+   "ar": "أغش لأتقدم",
+   "hi": "आगे बढ़ने के लिए छल करते हैं",
+   "fa": "تقلب می‌کنم تا جلو بروم",
+   "fr": "Je triche pour avancer"
+  }
+ },
+ {
+  "n": 160,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Often forget to put things back in their proper place",
+   "ru": "Часто забываю класть вещи на место",
+   "ar": "أنسى إعادة الأشياء إلى أماكنها في العادة",
+   "hi": "अक्सर चीजों को उनकी उचित जगह पर वापस रखना भूल जाते हैं",
+   "fa": "اغلب فراموش می‌کنم که هر چیزی را در جای مناسب خود قرار دهم",
+   "fr": "J'oublie souvent de remettre les choses à leur place"
+  }
+ },
+ {
+  "n": 161,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel desperate",
+   "ru": "Чувствую отчаяние",
+   "ar": "أشعر باليأس",
+   "hi": "हताश महसूस करते हैं",
+   "fa": "احساس ناامیدی می‌کنم",
+   "fr": "Je me sens désespéré"
+  }
+ },
+ {
+  "n": 162,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Wait for others to lead the way",
+   "ru": "Жду, что другие покажут мне путь",
+   "ar": "أنتظر حتى يأخذ غيري بزمام الأمور",
+   "hi": "प्रतीक्षा करते हैं की दूसरे नेतृत्व करें",
+   "fa": "منتظرم که دیگران راه را به من نشان دهند",
+   "fr": "J'attends que les autres prennent les devants"
+  }
+ },
+ {
+  "n": 163,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom get emotional",
+   "ru": "Редко проявляю эмоции",
+   "ar": "نادراً ما أنفعل عاطفياً",
+   "hi": "शायद ही कभी भावुक होते हैं",
+   "fa": "به ندرت احساساتی می‌شوم",
+   "fr": "Je suis rarement ému"
+  }
+ },
+ {
+  "n": 164,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Look down on others",
+   "ru": "Смотрю на других свысока",
+   "ar": "أنظر إلى الآخرين بازدراء",
+   "hi": "दूसरों को नीची नज़र से देखते हैं",
+   "fa": "به دیگران از بالا نگاه می‌کنم",
+   "fr": "Je méprise les autres"
+  }
+ },
+ {
+  "n": 165,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Break rules",
+   "ru": "Нарушаю правила",
+   "ar": "لا ألتزم بالقوانين",
+   "hi": "नियमों को तोड़ते हैं",
+   "fa": "قوانین را زیر پا می‌گذارم",
+   "fr": "J'enfreins les règles"
+  }
+ },
+ {
+  "n": 166,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Stumble over my words",
+   "ru": "Запинаюсь, когда говорю",
+   "ar": "أتلعثم في كلامي",
+   "hi": "बोलते समय लड़खड़ा जाते हैं",
+   "fa": "هنگام حرف زدن تپق می‌زنم",
+   "fr": "Je bafouille"
+  }
+ },
+ {
+  "n": 167,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Like to take it easy",
+   "ru": "Люблю ничего не принимать близко к сердцу",
+   "ar": "أحب الاسترخاء",
+   "hi": "जीवन को आराम से जीना पसंद है",
+   "fa": "سخت نمی‌گیرم",
+   "fr": "J'aime prendre ça mollo"
+  }
+ },
+ {
+  "n": 168,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Dislike changes",
+   "ru": "Не люблю перемены",
+   "ar": "أكره التغيير",
+   "hi": "परिवर्तन पसंद नहीं है",
+   "fa": "تغییر را دوست ندارم",
+   "fr": "Je n'aime pas les changements"
+  }
+ },
+ {
+  "n": 169,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Love a good fight",
+   "ru": "Люблю хорошую потасовку",
+   "ar": "أحب التحديات الصعبة",
+   "hi": "अच्छी प्रतिस्पर्धा पसंद है",
+   "fa": "یک مبارزه‌ی خوب را دوست دارم",
+   "fr": "J'adore une bonne bagarre"
+  }
+ },
+ {
+  "n": 170,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Set high standards for myself and others",
+   "ru": "Ставлю высокие требования к себе и другим",
+   "ar": "أضع معايير عالية لنفسي وللآخرين",
+   "hi": "अपने और दूसरों के लिए ऊँचे मानक तय करते हैं",
+   "fa": "برای خودم و دیگران معیارهای بالایی تعیین می‌کنم",
+   "fr": "Je fixe des exigences élevées pour moi et pour les autres"
+  }
+ },
+ {
+  "n": 171,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Rarely overindulge",
+   "ru": "Редко злоупотребляю чем-либо",
+   "ar": "نادراً ما أفرط في تناول ما يعجبني",
+   "hi": "कदाचित ही अति लिप्त होते हैं",
+   "fa": "به ندرت زیاده‌روی می‌کنم",
+   "fr": "Je fais rarement des excès"
+  }
+ },
+ {
+  "n": 172,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Act wild and crazy",
+   "ru": "Веду себя дико и безумно",
+   "ar": "أتصرف بجموح وجنون",
+   "hi": "जंगली और पागलों सा व्यवहार करते हैं",
+   "fa": "بی‌قید و عجیب رفتار می‌کنم",
+   "fr": "J'agis de façon téméraire"
+  }
+ },
+ {
+  "n": 173,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not interested in abstract ideas",
+   "ru": "Не интересуюсь абстрактными идеями",
+   "ar": "لا أهتم بالأفكار المجرّدة",
+   "hi": "अमूर्त विचारों में रुचि नहीं है",
+   "fa": "به ایده‌های انتزاعی علاقه‌ای ندارم",
+   "fr": "Les idées abstraites ne m'intéressent pas"
+  }
+ },
+ {
+  "n": 174,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Think highly of myself",
+   "ru": "Очень высоко ставлю себя",
+   "ar": "أُعجب بذاتي",
+   "hi": "अपने आप को श्रेष्ठ मानते हैं",
+   "fa": "خیلی به خودم فکر می‌کنم",
+   "fr": "J'ai une très grande estime de moi-même"
+  }
+ },
+ {
+  "n": 175,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Find it difficult to get down to work",
+   "ru": "Мне трудно приняться за работу",
+   "ar": "أجد صعوبة في البدء بالعمل",
+   "hi": "काम शुरू करने में कठिनाई होती है",
+   "fa": "شروع کردن کار برایم سخت است",
+   "fr": "J'ai du mal à me mettre au travail"
+  }
+ },
+ {
+  "n": 176,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Remain calm under pressure",
+   "ru": "Сохраняю самообладание в стрессовых ситуациях",
+   "ar": "أحافظ على هدوئي تحت الضغوطات",
+   "hi": "दबाव में स्थिर रहते हैं",
+   "fa": "در شرایط پرفشار آرامشم را حفظ می‌کنم",
+   "fr": "Je demeure calme sous pression"
+  }
+ },
+ {
+  "n": 177,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Look at the bright side of life",
+   "ru": "Смотрю на положительную сторону жизни",
+   "ar": "أنظر إلى الجانب المشرق للحياة",
+   "hi": "जीवन के उज्ज्वल पक्ष को देखते हैं",
+   "fa": "به جنبه‌های مثبت زندگی نگاه می‌کنم",
+   "fr": "Je regarde le bon côté de la vie"
+  }
+ },
+ {
+  "n": 178,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe that too much tax money goes to support artists",
+   "ru": "Считаю, что слишком много налогов уходит на поддержку деятелей искусства",
+   "ar": "أرى أن الكثير من أموال الضرائب يُنفق على دعم الفنانين",
+   "hi": "मानते हैं कि करों का बहुत ज़्यादा पैसा कलाकारों पर खर्च होता है",
+   "fa": "معتقدم مالیات زیادی صرف حمایت از هنرمندان می‌شود",
+   "fr": "Je pense que trop d'argent public sert à soutenir les artistes"
+  }
+ },
+ {
+  "n": 179,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Tend to dislike soft-hearted people",
+   "ru": "Склонен недолюбливать мягкосердечных людей",
+   "ar": "أميل إلى كره أصحاب القلوب الرقيقة",
+   "hi": "नरम दिल वाले लोग प्रायः पसंद नहीं आते हैं",
+   "fa": "معمولاً از آدم‌های دل‌نازک خوشم نمی‌آید",
+   "fr": "J'ai tendance à ne pas aimer les gens trop sensibles"
+  }
+ },
+ {
+  "n": 180,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Like to act on a whim",
+   "ru": "Люблю действовать по прихоти",
+   "ar": "أحب التصرّف وفق نزوة اللحظة",
+   "hi": "मन की तरंग में काम करना पसंद है",
+   "fa": "دوست دارم بر اساس هوس لحظه‌ای عمل کنم",
+   "fr": "J'aime agir sur un coup de tête"
+  }
+ },
+ {
+  "n": 181,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am relaxed most of the time",
+   "ru": "Большую часть времени расслаблен",
+   "ar": "أكون مسترخياً معظم الوقت",
+   "hi": "ज़्यादातर समय तनावमुक्त रहते हैं",
+   "fa": "بیشتر اوقات آرام هستم",
+   "fr": "Je suis détendu la plupart du temps"
+  }
+ },
+ {
+  "n": 182,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Often feel uncomfortable around others",
+   "ru": "Часто чувствую себя неуютно в обществе других",
+   "ar": "كثيراً ما أشعر بعدم الارتياح مع الآخرين",
+   "hi": "अक्सर दूसरों के बीच असहज महसूस करते हैं",
+   "fa": "اغلب در کنار دیگران احساس ناراحتی می‌کنم",
+   "fr": "Je me sens souvent mal à l'aise avec les autres"
+  }
+ },
+ {
+  "n": 183,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom daydream",
+   "ru": "Редко мечтаю наяву",
+   "ar": "نادراً ما أسرح في أحلام اليقظة",
+   "hi": "शायद ही कभी दिवास्वप्न देखते हैं",
+   "fa": "به ندرت خیال‌بافی می‌کنم",
+   "fr": "Je rêvasse rarement"
+  }
+ },
+ {
+  "n": 184,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Distrust people",
+   "ru": "Не доверяю людям",
+   "ar": "لا أثق بالناس",
+   "hi": "लोगों पर अविश्वास करते हैं",
+   "fa": "به دیگران اعتماد ندارم",
+   "fr": "Je ne fais pas confiance aux autres"
+  }
+ },
+ {
+  "n": 185,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Misjudge situations",
+   "ru": "Неверно оцениваю ситуации",
+   "ar": "أُخطئ في تقدير المواقف",
+   "hi": "स्थितियों का गलत आकलन करते हैं",
+   "fa": "موقعیت‌ها را اشتباه ارزیابی می‌کنم",
+   "fr": "Je juge mal les situations"
+  }
+ },
+ {
+  "n": 186,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom get mad",
+   "ru": "Редко злюсь",
+   "ar": "نادراً ما أغضب",
+   "hi": "शायद ही कभी गुस्सा होते हैं",
+   "fa": "به ندرت خشمگین می‌شوم",
+   "fr": "Je me mets rarement en colère"
+  }
+ },
+ {
+  "n": 187,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Want to be left alone",
+   "ru": "Хочу, чтобы меня оставили в покое",
+   "ar": "أريد أن أُترك وحدي",
+   "hi": "चाहते हैं कि आपको अकेला छोड़ दिया जाए",
+   "fa": "می‌خواهم تنهایم بگذارند",
+   "fr": "Je veux qu'on me laisse tranquille"
+  }
+ },
+ {
+  "n": 188,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not like poetry",
+   "ru": "Не люблю поэзию",
+   "ar": "لا أحب الشِعر",
+   "hi": "कविताएँ पसंद नहीं है",
+   "fa": "به شعر علاقه ندارم",
+   "fr": "Je n'aime pas la poésie"
+  }
+ },
+ {
+  "n": 189,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Put people under pressure",
+   "ru": "Оказываю давление на людей",
+   "ar": "أضغط على الناس",
+   "hi": "लोगों पर दबाव डालते हैं",
+   "fa": "به دیگران فشار می‌آورم",
+   "fr": "Je mets les gens sous pression"
+  }
+ },
+ {
+  "n": 190,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Leave a mess in my room",
+   "ru": "Оставляю комнату в беспорядке",
+   "ar": "أترك غرفتي في حالة فوضى",
+   "hi": "अपने कमरे को गन्दा छोड़ देते हैं",
+   "fa": "اتاقم را به هم ریخته رها می کنم",
+   "fr": "Je laisse ma chambre en désordre"
+  }
+ },
+ {
+  "n": 191,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "plus",
+  "text": {
+   "en": "Feel that my life lacks direction",
+   "ru": "Чувствую, что моей жизни не хватает направления",
+   "ar": "أشعر أن حياتي تفتقر إلى وجهة",
+   "hi": "लगता है कि जीवन की कोई दिशा नहीं है",
+   "fa": "احساس می‌کنم زندگی‌ام جهت مشخصی ندارد",
+   "fr": "J'ai l'impression que ma vie manque de direction"
+  }
+ },
+ {
+  "n": 192,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Keep in the background",
+   "ru": "Держусь в тени",
+   "ar": "أبقى في الخلفية",
+   "hi": "पृष्ठभूमि में रहते हैं",
+   "fa": "در حاشیه می‌مانم",
+   "fr": "Je reste en retrait"
+  }
+ },
+ {
+  "n": 193,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not easily affected by my emotions",
+   "ru": "Мои эмоции слабо на меня влияют",
+   "ar": "لا أتأثّر بمشاعري بسهولة",
+   "hi": "भावनाओं से आसानी से प्रभावित नहीं होते हैं",
+   "fa": "به راحتی تحت تأثیر احساساتم قرار نمی‌گیرم",
+   "fr": "Je ne suis pas facilement affecté par mes émotions"
+  }
+ },
+ {
+  "n": 194,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Am indifferent to the feelings of others",
+   "ru": "Безразличен к чувствам других",
+   "ar": "لا أكترث لمشاعر الآخرين",
+   "hi": "दूसरों की भावनाओं के प्रति उदासीन रहते हैं",
+   "fa": "نسبت به احساسات دیگران بی‌تفاوت هستم",
+   "fr": "Je suis indifférent aux sentiments des autres"
+  }
+ },
+ {
+  "n": 195,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Break my promises",
+   "ru": "Нарушаю мои обещания",
+   "ar": "أخلف بوعودي",
+   "hi": "अपने वादे तोड़ते हैं",
+   "fa": "به وعده‌هایم عمل نمی‌کنم",
+   "fr": "Je ne tiens pas mes promesses"
+  }
+ },
+ {
+  "n": 196,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not embarrassed easily",
+   "ru": "Меня нелегко смутить",
+   "ar": "لا أشعر بالحرج بسهولة",
+   "hi": "आसानी से शर्मिंदा नहीं होते हैं",
+   "fa": "به راحتی خجالت‌زده نمی‌شوم",
+   "fr": "Je ne suis pas facilement gêné"
+  }
+ },
+ {
+  "n": 197,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Like to take my time",
+   "ru": "Люблю делать всё не спеша",
+   "ar": "أحب أن آخذ وقتي",
+   "hi": "आराम से समय लेकर काम करना पसंद है",
+   "fa": "دوست دارم با حوصله و آرام پیش بروم",
+   "fr": "J'aime prendre mon temps"
+  }
+ },
+ {
+  "n": 198,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't like the idea of change",
+   "ru": "Мне не нравится идея перемен",
+   "ar": "لا تعجبني فكرة التغيير",
+   "hi": "बदलाव का विचार पसंद नहीं है",
+   "fa": "ایده تغییر را دوست ندارم",
+   "fr": "Je n'aime pas l'idée du changement"
+  }
+ },
+ {
+  "n": 199,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Yell at people",
+   "ru": "Кричу на людей",
+   "ar": "أصرخ على الناس",
+   "hi": "लोगों पर चिल्लाते हैं",
+   "fa": "بر سر مردم فریاد می‌زنم",
+   "fr": "Je crie après les gens"
+  }
+ },
+ {
+  "n": 200,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "plus",
+  "text": {
+   "en": "Demand quality",
+   "ru": "Требую качества",
+   "ar": "أطالب بالجودة",
+   "hi": "गुणवत्ता की माँग करते हैं",
+   "fa": "کیفیت را مطالبه می‌کنم",
+   "fr": "J'exige de la qualité"
+  }
+ },
+ {
+  "n": 201,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Easily resist temptations",
+   "ru": "Легко противостою соблазнам",
+   "ar": "أقاوم المغريات بسهولة",
+   "hi": "प्रलोभनों का आसानी से प्रतिरोध करते हैं",
+   "fa": "به سادگی در برابر وسوسه‌ها مقاومت می‌کنم",
+   "fr": "Je résiste facilement à la tentation"
+  }
+ },
+ {
+  "n": 202,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Willing to try anything once",
+   "ru": "Готов попробовать что угодно хотя бы раз",
+   "ar": "مستعد لتجربة أي شيء ولو مرة واحدة",
+   "hi": "कुछ भी एक बार आज़माने को तैयार रहते हैं",
+   "fa": "حاضرم هر چیزی را دست‌کم یک بار امتحان کنم",
+   "fr": "Je suis prêt à tout essayer au moins une fois"
+  }
+ },
+ {
+  "n": 203,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Avoid philosophical discussions",
+   "ru": "Избегаю философских рассуждений",
+   "ar": "أتفادى النقاشات الفلسفية",
+   "hi": "दार्शनिक चर्चा से बचते हैं",
+   "fa": "از بحث‌های فلسفی دوری می‌کنم",
+   "fr": "J'évite les discussions philosophiques"
+  }
+ },
+ {
+  "n": 204,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Have a high opinion of myself",
+   "ru": "О себе высокого мнения",
+   "ar": "أنظر لنفسي بنظرة تقدير",
+   "hi": "अपने बारे में उच्च विचार रखते हैं",
+   "fa": "به خودم احترام می‌گذارم",
+   "fr": "J'ai une très bonne opinion de moi-même"
+  }
+ },
+ {
+  "n": 205,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Waste my time",
+   "ru": "Трачу время понапрасну",
+   "ar": "أُضيع وقتي",
+   "hi": "समय बर्बाद करते हैं",
+   "fa": "وقتم را تلف می‌کنم",
+   "fr": "Je perds mon temps"
+  }
+ },
+ {
+  "n": 206,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Can handle complex problems",
+   "ru": "Справляюсь со сложными проблемами",
+   "ar": "أستطيع التعامل مع المشكلات المعقّدة",
+   "hi": "जटिल समस्याओं को संभाल लेते हैं",
+   "fa": "از پس مشکلات پیچیده برمی‌آیم",
+   "fr": "Je sais gérer des problèmes complexes"
+  }
+ },
+ {
+  "n": 207,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Laugh aloud",
+   "ru": "Смеюсь вслух",
+   "ar": "أضحك بصوت عالٍ",
+   "hi": "ज़ोर से हँसते हैं",
+   "fa": "بلند می‌خندم",
+   "fr": "Je ris aux éclats"
+  }
+ },
+ {
+  "n": 208,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe laws should be strictly enforced",
+   "ru": "Считаю, что законы должны строго соблюдаться",
+   "ar": "أؤمن بوجوب تطبيق القوانين بصرامة",
+   "hi": "मानते हैं कि कानूनों को सख़्ती से लागू किया जाना चाहिए",
+   "fa": "معتقدم قوانین باید به‌طور سخت‌گیرانه اجرا شوند",
+   "fr": "Je pense que les lois doivent être appliquées strictement"
+  }
+ },
+ {
+  "n": 209,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe in an eye for an eye",
+   "ru": "Верю в принцип «око за око»",
+   "ar": "أؤمن بمبدأ «العين بالعين»",
+   "hi": "\"जैसे को तैसा\" में विश्वास करते हैं",
+   "fa": "به اصل «چشم در برابر چشم» باور دارم",
+   "fr": "Je crois en la loi du talion"
+  }
+ },
+ {
+  "n": 210,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Rush into things",
+   "ru": "Поспешно начинаю дела не обдумав",
+   "ar": "أنا متسرّع",
+   "hi": "चीज़ों में हड़बड़ी करते हैं",
+   "fa": "عجول هستم",
+   "fr": "Je me précipite dans l'action"
+  }
+ },
+ {
+  "n": 211,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not easily disturbed by events",
+   "ru": "Меня нелегко выбить из колеи событиями",
+   "ar": "لا تُربكني الأحداث بسهولة",
+   "hi": "घटनाओं से आसानी से विचलित नहीं होते हैं",
+   "fa": "رویدادها به راحتی آشفته‌ام نمی‌کنند",
+   "fr": "Je ne suis pas facilement perturbé par les événements"
+  }
+ },
+ {
+  "n": 212,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Avoid contacts with others",
+   "ru": "Избегаю контактов с другими",
+   "ar": "أتفادى التواصل مع الآخرين",
+   "hi": "दूसरों के साथ संपर्क से बचते हैं",
+   "fa": "از ارتباط با دیگران خودداری می‌کنم",
+   "fr": "J'évite le contact avec les autres"
+  }
+ },
+ {
+  "n": 213,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not have a good imagination",
+   "ru": "У меня не очень хорошее воображение",
+   "ar": "لا أملك خيالاً واسعاً",
+   "hi": "कल्पनाशक्ति अच्छी नहीं है",
+   "fa": "قدرت تخیل خوبی ندارم",
+   "fr": "Je n'ai pas beaucoup d'imagination"
+  }
+ },
+ {
+  "n": 214,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Suspect hidden motives in others",
+   "ru": "Подозреваю в других скрытые мотивы",
+   "ar": "أشكّ في وجود دوافع خفية لدى الآخرين",
+   "hi": "दूसरों में छिपे मकसद का शक करते हैं",
+   "fa": "به انگیزه‌های پنهان دیگران مشکوکم",
+   "fr": "Je soupçonne les autres d'avoir des arrière-pensées"
+  }
+ },
+ {
+  "n": 215,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't understand things",
+   "ru": "Не понимаю вещей",
+   "ar": "لا أفهم الأمور",
+   "hi": "चीज़ें समझ नहीं पाते हैं",
+   "fa": "مسائل را درک نمی‌کنم",
+   "fr": "Je ne comprends pas les choses"
+  }
+ },
+ {
+  "n": 216,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not easily annoyed",
+   "ru": "Не раздражаюсь легко",
+   "ar": "ليس من السهل مضايقتي",
+   "hi": "आसानी से चिढ़ते नहीं हैं",
+   "fa": "به راحتی اذیت نمی‌شوم",
+   "fr": "Je ne suis pas facilement agacé"
+  }
+ },
+ {
+  "n": 217,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't like crowded events",
+   "ru": "Не люблю многолюдные мероприятия",
+   "ar": "لا أحب المناسبات المزدحمة",
+   "hi": "भीड़-भाड़ वाले आयोजन पसंद नहीं हैं",
+   "fa": "مراسم شلوغ را دوست ندارم",
+   "fr": "Je n'aime pas les événements bondés"
+  }
+ },
+ {
+  "n": 218,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not enjoy going to art museums",
+   "ru": "Не наслаждаюсь музеями искусства",
+   "ar": "لا أستمتع بالذهاب إلى المتاحف",
+   "hi": "कला संग्रहालयों में जाने में आनंद नहीं आता है",
+   "fa": "از رفتن به موزه های هنری لذت نمی برم",
+   "fr": "Je n'apprécie pas visiter des musées d'art"
+  }
+ },
+ {
+  "n": 219,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Pretend to be concerned for others",
+   "ru": "Притворяюсь, что беспокоюсь о других",
+   "ar": "أتظاهر بالاهتمام بالآخرين",
+   "hi": "दूसरों की परवाह करने का दिखावा करते हैं",
+   "fa": "وانمود می‌کنم که نگران دیگرانم",
+   "fr": "Je fais semblant de me soucier des autres"
+  }
+ },
+ {
+  "n": 220,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Leave my belongings around",
+   "ru": "Оставляю вещи где попало",
+   "ar": "أترك أغراضي هنا وهناك",
+   "hi": "अपना सामान यहाँ वहां छोड़ देते हैं",
+   "fa": "وسایلم را جا می‌گذارم",
+   "fr": "Je laisse traîner les choses"
+  }
+ },
+ {
+  "n": 221,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom feel blue",
+   "ru": "Редко грущу",
+   "ar": "نادراً ما أشعر بالكآبة",
+   "hi": "शायद ही कभी उदास होते हैं",
+   "fa": "به ندرت دلگیر می‌شوم",
+   "fr": "Je suis rarement triste"
+  }
+ },
+ {
+  "n": 222,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Have little to say",
+   "ru": "Мне мало что есть сказать",
+   "ar": "ليس لدي الكثير لأقوله",
+   "hi": "कहने के लिए ज़्यादा कुछ नहीं होता",
+   "fa": "حرف زیادی برای گفتن ندارم",
+   "fr": "J'ai peu de choses à dire"
+  }
+ },
+ {
+  "n": 223,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Rarely notice my emotional reactions",
+   "ru": "Редко замечаю свои эмоциальные реакции",
+   "ar": "نادراً ما ألاحظ ردات فعلي العاطفية",
+   "hi": "शायद ही कभी अपनी भावनात्मक प्रतिक्रियाओं पर ध्यान देते हैं",
+   "fa": "به ندرت متوجه واکنش‌های احساسی خود می شوم",
+   "fr": "Je suis rarement sensible à mes réactions émotives"
+  }
+ },
+ {
+  "n": 224,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Make people feel uncomfortable",
+   "ru": "Заставляю людей чувствовать себя неловко",
+   "ar": "أُشعِر الناس بعدم الارتياح",
+   "hi": "लोगों को असहज महसूस कराते हैं",
+   "fa": "باعث می‌شوم دیگران احساس ناراحتی کنند",
+   "fr": "Je mets les gens mal à l'aise"
+  }
+ },
+ {
+  "n": 225,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Get others to do my duties",
+   "ru": "Перекладываю свои обязанности на других",
+   "ar": "أجعل الآخرين يؤدّون واجباتي",
+   "hi": "अपने कर्तव्य दूसरों से करवाते हैं",
+   "fa": "وظایفم را به گردن دیگران می‌اندازم",
+   "fr": "Je fais faire mes tâches par les autres"
+  }
+ },
+ {
+  "n": 226,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am comfortable in unfamiliar situations",
+   "ru": "Чувствую себя комфортно в незнакомых ситуациях",
+   "ar": "أشعر بالارتياح في المواقف غير المألوفة",
+   "hi": "अनजान परिस्थितियों में सहज रहते हैं",
+   "fa": "در موقعیت‌های ناآشنا راحتم",
+   "fr": "Je suis à l'aise dans les situations inconnues"
+  }
+ },
+ {
+  "n": 227,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Like a leisurely lifestyle",
+   "ru": "Люблю неторопливый образ жизни",
+   "ar": "أحب نمط الحياة الهادئ المتمهّل",
+   "hi": "आरामदेह जीवनशैली पसंद है",
+   "fa": "سبک زندگی آرام و بی‌شتاب را دوست دارم",
+   "fr": "J'aime un mode de vie tranquille"
+  }
+ },
+ {
+  "n": 228,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am a creature of habit",
+   "ru": "Я человек привычки",
+   "ar": "أنا كائن تحكمه العادة",
+   "hi": "आदतों के गुलाम हैं",
+   "fa": "آدمی عادتی هستم",
+   "fr": "Je suis quelqu'un d'habitudes"
+  }
+ },
+ {
+  "n": 229,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Insult people",
+   "ru": "Оскорбляю людей",
+   "ar": "أُسيء لغيري",
+   "hi": "लोगों का अपमान करते हैं",
+   "fa": "به مردم توهین می‌کنم",
+   "fr": "J'insulte les gens"
+  }
+ },
+ {
+  "n": 230,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not highly motivated to succeed",
+   "ru": "У меня нет сильного стремления к успеху",
+   "ar": "لست مدفوعاً بقوة نحو النجاح",
+   "hi": "सफलता के लिए बहुत ज़्यादा प्रेरित नहीं हैं",
+   "fa": "انگیزه زیادی برای موفقیت ندارم",
+   "fr": "Je ne suis pas très motivé par la réussite"
+  }
+ },
+ {
+  "n": 231,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Am able to control my cravings",
+   "ru": "Способен контролировать свои желания",
+   "ar": "أنا قادر على السيطرة على رغباتي",
+   "hi": "अपनी तृष्णा को नियंत्रित करने में सक्षम हैं",
+   "fa": "می‌توانم هوس‌هایم را کنترل کنم",
+   "fr": "Je suis capable de contrôler mes envies"
+  }
+ },
+ {
+  "n": 232,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "plus",
+  "text": {
+   "en": "Seek danger",
+   "ru": "Ищу опасности",
+   "ar": "أبحث عن الخطر",
+   "hi": "खतरे की तलाश करते हैं",
+   "fa": "به دنبال خطر هستم",
+   "fr": "Je recherche le danger"
+  }
+ },
+ {
+  "n": 233,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Have difficulty understanding abstract ideas",
+   "ru": "С трудом понимаю абстрактные идеи",
+   "ar": "أجد صعوبة في فهم الأفكار التجريدية",
+   "hi": "अमूर्त विचारों को समझने में कठिनाई होती है",
+   "fa": "ایده‌های انتزاعی را به سختی می‌فهمم",
+   "fr": "J'ai des difficultés à comprendre les idées abstraites"
+  }
+ },
+ {
+  "n": 234,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Know the answers to many questions",
+   "ru": "Знаю ответы на многие вопросы",
+   "ar": "أعرف الإجابة عن أسئلة كثيرة",
+   "hi": "कई सवालों के जवाब जानते हैं",
+   "fa": "پاسخ بسیاری از پرسش‌ها را می‌دانم",
+   "fr": "Je connais la réponse à beaucoup de questions"
+  }
+ },
+ {
+  "n": 235,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Need a push to get started",
+   "ru": "Мне нужен толчок, чтобы начать",
+   "ar": "أحتاج إلى دفعة لكي أبدأ",
+   "hi": "शुरू करने के लिए किसी के धक्के की ज़रूरत होती है",
+   "fa": "برای شروع به یک تلنگر نیاز دارم",
+   "fr": "J'ai besoin qu'on me pousse pour commencer"
+  }
+ },
+ {
+  "n": 236,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Know how to cope",
+   "ru": "Знаю, как справиться с трудностями",
+   "ar": "أعرف كيف أتأقلم مع الصعوبات",
+   "hi": "मुश्किलों का सामना करना जानते हैं",
+   "fa": "بلدم چطور با مشکلات کنار بیایم",
+   "fr": "Je sais faire face"
+  }
+ },
+ {
+  "n": 237,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "plus",
+  "text": {
+   "en": "Amuse my friends",
+   "ru": "Развлекаю своих друзей",
+   "ar": "أُسلّي أصدقائي",
+   "hi": "अपने दोस्तों का मनोरंजन करते हैं",
+   "fa": "دوستانم را سرگرم می‌کنم",
+   "fr": "J'amuse mes amis"
+  }
+ },
+ {
+  "n": 238,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe that we coddle criminals too much",
+   "ru": "Считаю, что мы слишком нянчимся с преступниками",
+   "ar": "أرى أننا نُدلّل المجرمين أكثر من اللازم",
+   "hi": "मानते हैं कि हम अपराधियों के साथ बहुत नरमी बरतते हैं",
+   "fa": "معتقدم بیش از حد با مجرمان مدارا می‌کنیم",
+   "fr": "Je pense que nous dorlotons trop les criminels"
+  }
+ },
+ {
+  "n": 239,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Try not to think about the needy",
+   "ru": "Стараюсь не думать о нуждающихся",
+   "ar": "أحاول ألا أشغل بالي بالمحتاجين",
+   "hi": "कोशिश करते हैं कि जरूरतमंदों के बारे में न सोचें",
+   "fa": "سعی می‌کنم به نیازمندان فکر نکنم",
+   "fr": "Je tente de ne pas penser aux gens dans le besoin"
+  }
+ },
+ {
+  "n": 240,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Do crazy things",
+   "ru": "Совершаю безумные поступки",
+   "ar": "أفعل أشياء جنونية",
+   "hi": "पागलपन भरे काम करते हैं",
+   "fa": "کارهای دیوانه‌وار می‌کنم",
+   "fr": "Je fais des choses folles"
+  }
+ },
+ {
+  "n": 241,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't worry about things that have already happened",
+   "ru": "Не переживаю о том, что уже произошло",
+   "ar": "لا أقلق بشأن ما حدث بالفعل",
+   "hi": "जो हो चुका है, उसकी चिंता नहीं करते हैं",
+   "fa": "نگران اتفاقاتی که گذشته‌اند نیستم",
+   "fr": "Je ne m'inquiète pas de ce qui est déjà arrivé"
+  }
+ },
+ {
+  "n": 242,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not really interested in others",
+   "ru": "На самом деле не интересуюсь другими людьми",
+   "ar": "لا أهتم بالآخرين حقاً",
+   "hi": "दूसरों में वास्तव में रुचि नहीं है",
+   "fa": "واقعاً به دیگران علاقه‌ای ندارم",
+   "fr": "Je ne m'intéresse pas vraiment aux autres"
+  }
+ },
+ {
+  "n": 243,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom get lost in thought",
+   "ru": "Редко погружаюсь в раздумья",
+   "ar": "نادراً ما أستغرق في التفكير",
+   "hi": "शायद ही कभी विचारों में खोते हैं",
+   "fa": "به ندرت در فکر فرو می‌روم",
+   "fr": "Je me perds rarement dans mes pensées"
+  }
+ },
+ {
+  "n": 244,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Am wary of others",
+   "ru": "Отношусь к другим настороженно",
+   "ar": "أحترس من الآخرين",
+   "hi": "दूसरों से सावधान रहते हैं",
+   "fa": "نسبت به دیگران محتاطم",
+   "fr": "Je me méfie des autres"
+  }
+ },
+ {
+  "n": 245,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Have little to contribute",
+   "ru": "Мало что могу привнести",
+   "ar": "ليس لدي الكثير لأُسهم به",
+   "hi": "योगदान देने के लिए ज़्यादा कुछ नहीं है",
+   "fa": "چیز زیادی برای ارائه ندارم",
+   "fr": "J'ai peu de choses à apporter"
+  }
+ },
+ {
+  "n": 246,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Keep my cool",
+   "ru": "Сохраняю хладнокровие",
+   "ar": "أحافظ على هدوئي",
+   "hi": "अपना संयम बनाए रखते हैं",
+   "fa": "خونسردی‌ام را حفظ می‌کنم",
+   "fr": "Je garde mon calme"
+  }
+ },
+ {
+  "n": 247,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Avoid crowds",
+   "ru": "Избегаю толпу",
+   "ar": "أتفادى الازدحامات البشرية",
+   "hi": "भीड़ से बचते हैं",
+   "fa": "از شلوغی دوری می‌کنم",
+   "fr": "J'évite les foules"
+  }
+ },
+ {
+  "n": 248,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not like concerts",
+   "ru": "Не люблю концерты",
+   "ar": "لا أحب الحفلات الموسيقية",
+   "hi": "संगीत समारोह पसंद नहीं हैं",
+   "fa": "کنسرت را دوست ندارم",
+   "fr": "Je n'aime pas les concerts"
+  }
+ },
+ {
+  "n": 249,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Take advantage of others",
+   "ru": "Использую других людей при возможности",
+   "ar": "أستغل الآخرين",
+   "hi": "दूसरों का लाभ उठाते हैं",
+   "fa": "از دیگران سواستفاده می‌کنم",
+   "fr": "Je profite des autres"
+  }
+ },
+ {
+  "n": 250,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not bothered by messy people",
+   "ru": "Меня не раздражают неаккуратные люди",
+   "ar": "لا يزعجني الأشخاص غير المرتّبين",
+   "hi": "अव्यवस्थित लोगों से परेशान नहीं होते हैं",
+   "fa": "آدم‌های شلخته آزارم نمی‌دهند",
+   "fr": "Les gens désordonnés ne me dérangent pas"
+  }
+ },
+ {
+  "n": 251,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Feel comfortable with myself",
+   "ru": "Чувствую себя комфортно с самим собой",
+   "ar": "أشعر بارتياح لكوني على ما أنا عليه",
+   "hi": "खुद से सहज महसूस करते हैं",
+   "fa": "با خودم کنار می‌آیم",
+   "fr": "Je suis à l'aise avec moi-même"
+  }
+ },
+ {
+  "n": 252,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't like to draw attention to myself",
+   "ru": "Не люблю привлекать к себе внимание",
+   "ar": "لا أحب لفت الانتباه إلى نفسي",
+   "hi": "अपनी ओर ध्यान खींचना पसंद नहीं है",
+   "fa": "دوست ندارم توجه دیگران را به خودم جلب کنم",
+   "fr": "Je n'aime pas attirer l'attention sur moi"
+  }
+ },
+ {
+  "n": 253,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Experience very few emotional highs and lows",
+   "ru": "Испытываю очень мало эмоциональных взлётов и падений",
+   "ar": "نادراً ما أمرّ بتقلّبات عاطفية حادّة",
+   "hi": "भावनात्मक उतार-चढ़ाव बहुत कम अनुभव करते हैं",
+   "fa": "فراز و فرود عاطفی بسیار کمی را تجربه می‌کنم",
+   "fr": "Je connais très peu de hauts et de bas émotionnels"
+  }
+ },
+ {
+  "n": 254,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Turn my back on others",
+   "ru": "Отворачиваюсь от других",
+   "ar": "أدير ظهري للآخرين",
+   "hi": "दूसरों से मुँह मोड़ लेते हैं",
+   "fa": "به دیگران پشت می‌کنم",
+   "fr": "Je tourne le dos aux autres"
+  }
+ },
+ {
+  "n": 255,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Do the opposite of what is asked",
+   "ru": "Делаю противоположное тому, о чём просят",
+   "ar": "أفعل عكس ما يُطلب مني",
+   "hi": "जो कहा जाए, उसका उल्टा करते हैं",
+   "fa": "برعکس آنچه از من خواسته می‌شود عمل می‌کنم",
+   "fr": "Je fais le contraire de ce qu'on me demande"
+  }
+ },
+ {
+  "n": 256,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not bothered by difficult social situations",
+   "ru": "Проблемные социальные ситуации не беспокоят меня",
+   "ar": "لا أتضايق من المواقف الاجتماعية الصعبة",
+   "hi": "कठिन सामाजिक परिस्थितियों से परेशान नहीं होते हैं",
+   "fa": "از شرایط دشوار اجتماعی ناراحت نیستم",
+   "fr": "Je ne suis pas dérangé par les situations sociales difficiles"
+  }
+ },
+ {
+  "n": 257,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Let things proceed at their own pace",
+   "ru": "Позволяю событиям идти своим чередом",
+   "ar": "أترك الأمور تسير بإيقاعها الخاص",
+   "hi": "चीज़ों को अपनी गति से चलने देते हैं",
+   "fa": "اجازه می‌دهم کارها با سرعت خودشان پیش بروند",
+   "fr": "Je laisse les choses avancer à leur rythme"
+  }
+ },
+ {
+  "n": 258,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Dislike new foods",
+   "ru": "Не люблю незнакомую еду",
+   "ar": "لا أحب الأطعمة الجديدة",
+   "hi": "नए खाने पसंद नहीं हैं",
+   "fa": "غذاهای جدید را دوست ندارم",
+   "fr": "Je n'aime pas les nouveaux aliments"
+  }
+ },
+ {
+  "n": 259,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Get back at others",
+   "ru": "Мстителен",
+   "ar": "أُسيء لمن أساء إليّ",
+   "hi": "दूसरों से बदला लेते हैं",
+   "fa": "حق دیگران را کف دستشان می‌گذارم",
+   "fr": "Je m'en prends aux autres"
+  }
+ },
+ {
+  "n": 260,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Do just enough work to get by",
+   "ru": "Делаю лишь столько, сколько достаточно",
+   "ar": "أُنجز العمل المطلوب فحسب ولا أكثر",
+   "hi": "केवल काम निकलने भर का पर्याप्त कार्य करते हैं",
+   "fa": "فقط به اندازه‌ای که روزگار بگذرانم کار می‌کنم",
+   "fr": "Je fais juste assez de travail pour m'en sortir"
+  }
+ },
+ {
+  "n": 261,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Never spend more than I can afford",
+   "ru": "Никогда не трачу больше, чем могу себе позволить",
+   "ar": "لا أنفق أبداً أكثر مما أستطيع تحمّله",
+   "hi": "अपनी हैसियत से ज़्यादा कभी खर्च नहीं करते हैं",
+   "fa": "هرگز بیش از توانم خرج نمی‌کنم",
+   "fr": "Je ne dépense jamais plus que mes moyens"
+  }
+ },
+ {
+  "n": 262,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Would never go hang gliding or bungee jumping",
+   "ru": "Никогда бы не стал прыгать с дельтапланом или с банджи",
+   "ar": "لن أمارس الطيران الشراعي أو القفز بالحبل أبداً",
+   "hi": "हैंग ग्लाइडिंग या बंजी जंपिंग कभी नहीं करेंगे",
+   "fa": "هرگز سراغ پرواز با کایت یا بانجی‌جامپینگ نمی‌روم",
+   "fr": "Je ne ferais jamais de deltaplane ni de saut à l'élastique"
+  }
+ },
+ {
+  "n": 263,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not interested in theoretical discussions",
+   "ru": "Не заинтересован в теоретических рассуждениях",
+   "ar": "لا أهتم بالمناقشات النظرية",
+   "hi": "सैद्धांतिक चर्चा में दिलचस्पी नहीं है",
+   "fa": "به بحث‌های نظری علاقه‌ای ندارم",
+   "fr": "Je ne suis pas intéressé par les discussions théoriques"
+  }
+ },
+ {
+  "n": 264,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Boast about my virtues",
+   "ru": "Хвастаюсь своими достоинствами",
+   "ar": "أتباهى بأخلاقي",
+   "hi": "अपने गुणों के बारे में डींग हांकते हैं",
+   "fa": "با افتخار از خصوصیات خوبم حرف می‌زنم",
+   "fr": "Je me vante de mes vertus"
+  }
+ },
+ {
+  "n": 265,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Have difficulty starting tasks",
+   "ru": "С трудом что-либо начинаю",
+   "ar": "أجد صعوبة في أن أبدأ المهام",
+   "hi": "कार्यों को प्रारम्भ करने में कठिनाई होती है",
+   "fa": "شروع کردن کارها برایم دشوار است",
+   "fr": "J'ai de la difficulté à commencer les tâches"
+  }
+ },
+ {
+  "n": 266,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Readily overcome setbacks",
+   "ru": "Легко преодолеваю неудачи",
+   "ar": "أتغلّب على الانتكاسات بسهولة",
+   "hi": "असफलताओं से आसानी से उबर जाते हैं",
+   "fa": "به آسانی بر شکست‌ها غلبه می‌کنم",
+   "fr": "Je surmonte facilement les revers"
+  }
+ },
+ {
+  "n": 267,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not easily amused",
+   "ru": "Меня нелегко рассмешить",
+   "ar": "لا يسهل إضحاكي",
+   "hi": "आसानी से खुश नहीं होते हैं",
+   "fa": "به راحتی سرگرم و خندان نمی‌شوم",
+   "fr": "Je ne m'amuse pas facilement"
+  }
+ },
+ {
+  "n": 268,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe that we should be tough on crime",
+   "ru": "Считаю, что наказания за преступления должны быть жестче",
+   "ar": "أؤمن بأنه يجب أن نتعامل مع الإجرام بقسوة",
+   "hi": "मानते हैं की हमें अपराधों पर कठोर होना चाहिए",
+   "fa": "معتقدم باید در مورد جُرم سخت‌گیرانه عمل کنیم",
+   "fr": "Je crois que nous devrions être sévères à propos des crimes"
+  }
+ },
+ {
+  "n": 269,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe people should fend for themselves",
+   "ru": "Считаю, что люди должны сами о себе заботиться",
+   "ar": "أرى أن على الناس الاعتماد على أنفسهم",
+   "hi": "मानते हैं कि लोगों को अपना ख्याल खुद रखना चाहिए",
+   "fa": "معتقدم مردم باید گلیم خودشان را از آب بیرون بکشند",
+   "fr": "Je pense que les gens devraient se débrouiller seuls"
+  }
+ },
+ {
+  "n": 270,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Act without thinking",
+   "ru": "Действую необдуманно",
+   "ar": "أتصرف بدون تفكير",
+   "hi": "बिना सोचे-समझे कार्य करते हैं",
+   "fa": "بدون فکرکردن عمل می‌کنم",
+   "fr": "J'agis sans penser"
+  }
+ },
+ {
+  "n": 271,
+  "domain": "N",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Adapt easily to new situations",
+   "ru": "Легко приспосабливаюсь к новым ситуациям",
+   "ar": "أتكيّف بسهولة مع المواقف الجديدة",
+   "hi": "नई परिस्थितियों में आसानी से ढल जाते हैं",
+   "fa": "به راحتی با شرایط جدید سازگار می‌شوم",
+   "fr": "Je m'adapte facilement aux situations nouvelles"
+  }
+ },
+ {
+  "n": 272,
+  "domain": "E",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Keep others at a distance",
+   "ru": "Держу других на дистанции",
+   "ar": "لا أقترب من الناس كثيراً",
+   "hi": "दूसरों को खुद से दूर रखते हैं",
+   "fa": "فاصله‌ام را با دیگران حفظ می‌کنم",
+   "fr": "Je garde les autres à distance"
+  }
+ },
+ {
+  "n": 273,
+  "domain": "O",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Have difficulty imagining things",
+   "ru": "Мне трудно что-либо представить",
+   "ar": "أجد صعوبة في تخيّل الأشياء",
+   "hi": "चीज़ों की कल्पना करने में कठिनाई होती है",
+   "fa": "تصور کردن چیزها برایم دشوار است",
+   "fr": "J'ai du mal à imaginer les choses"
+  }
+ },
+ {
+  "n": 274,
+  "domain": "A",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Believe that people are essentially evil",
+   "ru": "Считаю, что люди по своей сути злы",
+   "ar": "أؤمن بأن الناس أشرار في جوهرهم",
+   "hi": "मानते हैं कि लोग मूल रूप से बुरे होते हैं",
+   "fa": "معتقدم انسان‌ها ذاتاً بدجنس هستند",
+   "fr": "Je crois que les gens sont fondamentalement mauvais"
+  }
+ },
+ {
+  "n": 275,
+  "domain": "C",
+  "facet": 1,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't see the consequences of things",
+   "ru": "Не вижу последствий своих действий",
+   "ar": "لا أرى عواقب الأمور",
+   "hi": "चीज़ों के परिणाम नहीं देख पाते हैं",
+   "fa": "پیامد کارها را نمی‌بینم",
+   "fr": "Je ne vois pas les conséquences des choses"
+  }
+ },
+ {
+  "n": 276,
+  "domain": "N",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Rarely complain",
+   "ru": "Редко жалуюсь",
+   "ar": "نادراً ما أشتكي",
+   "hi": "शायद ही कभी शिकायत करते हैं",
+   "fa": "به ندرت شکایت می‌کنم",
+   "fr": "Je me plains rarement"
+  }
+ },
+ {
+  "n": 277,
+  "domain": "E",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Seek quiet",
+   "ru": "Ищу тишины",
+   "ar": "أبحث عن الهدوء",
+   "hi": "शांति की तलाश करते हैं",
+   "fa": "به دنبال سکوت و آرامش هستم",
+   "fr": "Je recherche le calme"
+  }
+ },
+ {
+  "n": 278,
+  "domain": "O",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Do not enjoy watching dance performances",
+   "ru": "Мне не нравится смотреть танцевальные выступления",
+   "ar": "لا أستمتع بمشاهدة العروض الراقصة",
+   "hi": "नृत्य प्रस्तुतियाँ देखना अच्छा नहीं लगता है",
+   "fa": "از تماشای اجرای رقص لذت نمی‌برم",
+   "fr": "Je n'aime pas regarder des spectacles de danse"
+  }
+ },
+ {
+  "n": 279,
+  "domain": "A",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Obstruct others' plans",
+   "ru": "Мешаю планам других людей",
+   "ar": "أعرقل خطط الآخرين",
+   "hi": "दूसरों की योजनाओं में बाधा डालते हैं",
+   "fa": "مانع اجرای برنامه‌های دیگران می‌شوم",
+   "fr": "J'entrave les plans des autres"
+  }
+ },
+ {
+  "n": 280,
+  "domain": "C",
+  "facet": 2,
+  "keyed": "minus",
+  "text": {
+   "en": "Am not bothered by disorder",
+   "ru": "Меня не беспокоит беспорядок",
+   "ar": "لا تزعجني الفوضى",
+   "hi": "अव्यवस्था से परेशान नहीं होते हैं",
+   "fa": "بی‌نظمی آزارم نمی‌دهد",
+   "fr": "Le désordre ne me dérange pas"
+  }
+ },
+ {
+  "n": 281,
+  "domain": "N",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Am very pleased with myself",
+   "ru": "Очень доволен собой",
+   "ar": "أنا راضٍ جداً عن نفسي",
+   "hi": "अपने आप से बहुत संतुष्ट हैं",
+   "fa": "از خودم بسیار راضی هستم",
+   "fr": "Je suis très content de moi"
+  }
+ },
+ {
+  "n": 282,
+  "domain": "E",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Hold back my opinions",
+   "ru": "Держу своё мнение при себе",
+   "ar": "أحتفظ بآرائي لنفسي",
+   "hi": "अपनी राय अपने तक रखते हैं",
+   "fa": "نظراتم را برای خودم نگه می‌دارم",
+   "fr": "Je garde mes opinions pour moi"
+  }
+ },
+ {
+  "n": 283,
+  "domain": "O",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Don't understand people who get emotional",
+   "ru": "Не понимаю эмоциональных людей",
+   "ar": "لا أفهم الأناس العاطفيين",
+   "hi": "समझ नहीं आता की लोग भावुक क्यों हो जाते हैं",
+   "fa": "آدم‌هایی که احساسی هستند را درک نمی‌کنم",
+   "fr": "Je ne comprends pas les gens émotifs"
+  }
+ },
+ {
+  "n": 284,
+  "domain": "A",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Take no time for others",
+   "ru": "Не уделяю времени другим людям",
+   "ar": "لا أبذل من وقتي لأحد",
+   "hi": "दूसरों के लिए समय नहीं निकालते हैं",
+   "fa": "برای دیگران وقت نمی‌گذارم",
+   "fr": "Je ne prends pas de temps pour les autres"
+  }
+ },
+ {
+  "n": 285,
+  "domain": "C",
+  "facet": 3,
+  "keyed": "minus",
+  "text": {
+   "en": "Misrepresent the facts",
+   "ru": "Искажаю факты",
+   "ar": "أُحرّف الحقائق",
+   "hi": "तथ्यों को तोड़-मरोड़कर पेश करते हैं",
+   "fa": "واقعیت‌ها را وارونه جلوه می‌دهم",
+   "fr": "Je déforme les faits"
+  }
+ },
+ {
+  "n": 286,
+  "domain": "N",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am able to stand up for myself",
+   "ru": "Умею постоять за себя",
+   "ar": "أستطيع الدفاع عن نفسي",
+   "hi": "अपने लिए खड़े हो सकते हैं",
+   "fa": "می‌توانم از خودم دفاع کنم",
+   "fr": "Je sais me défendre"
+  }
+ },
+ {
+  "n": 287,
+  "domain": "E",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "React slowly",
+   "ru": "Реагирую медленно",
+   "ar": "أتفاعل ببطء",
+   "hi": "धीरे प्रतिक्रिया करते हैं",
+   "fa": "کند واکنش نشان می‌دهم",
+   "fr": "Je réagis lentement"
+  }
+ },
+ {
+  "n": 288,
+  "domain": "O",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Am attached to conventional ways",
+   "ru": "Придерживаюсь старых устоев",
+   "ar": "أنا متعلق بالطرق التقليدية",
+   "hi": "पारंपरिक तरीकों से जुड़े हैं",
+   "fa": "به روش‌های سنتی و مرسوم پایبند هستم",
+   "fr": "Je suis attaché aux méthodes conventionnelles"
+  }
+ },
+ {
+  "n": 289,
+  "domain": "A",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Hold a grudge",
+   "ru": "Долго держу обиду",
+   "ar": "أحمل الضغينة",
+   "hi": "मन में बैर रखते हैं",
+   "fa": "کینه به دل می‌گیرم",
+   "fr": "Je suis rancunier"
+  }
+ },
+ {
+  "n": 290,
+  "domain": "C",
+  "facet": 4,
+  "keyed": "minus",
+  "text": {
+   "en": "Put little time and effort into my work",
+   "ru": "Вкладываю мало времени и стараний в то, что делаю",
+   "ar": "أبذل القليل من الوقت والجهد عندما أعمل",
+   "hi": "अपने काम में अल्प समय एवं प्रयास लगते हैं",
+   "fa": "زمان و تلاش کمی برای کارم می‌گذارم",
+   "fr": "Je mets peu de temps et d'efforts dans mon travail"
+  }
+ },
+ {
+  "n": 291,
+  "domain": "N",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Never splurge",
+   "ru": "Никогда не транжирю",
+   "ar": "لا أبذّر أبداً",
+   "hi": "कभी फ़िज़ूलखर्ची नहीं करते हैं",
+   "fa": "هرگز ولخرجی نمی‌کنم",
+   "fr": "Je ne fais jamais de folies dépensières"
+  }
+ },
+ {
+  "n": 292,
+  "domain": "E",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Dislike loud music",
+   "ru": "Не люблю громкую музыку",
+   "ar": "لا أحب الموسيقى الصاخبة",
+   "hi": "तेज़ संगीत पसंद नहीं है",
+   "fa": "موسیقی بلند را دوست ندارم",
+   "fr": "Je n'aime pas la musique forte"
+  }
+ },
+ {
+  "n": 293,
+  "domain": "O",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Avoid difficult reading material",
+   "ru": "Избегаю сложной литературы",
+   "ar": "أتجنّب مواد القراءة الصعبة",
+   "hi": "कठिन पठन सामग्री से बचते हैं",
+   "fa": "از مطالب خواندنی دشوار دوری می‌کنم",
+   "fr": "J'évite les lectures difficiles"
+  }
+ },
+ {
+  "n": 294,
+  "domain": "A",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Make myself the center of attention",
+   "ru": "Делаю себя центром внимания",
+   "ar": "أجعل نفسي محور الاهتمام",
+   "hi": "खुद को ध्यान का केंद्र बनाते हैं",
+   "fa": "خودم را در مرکز توجه قرار می‌دهم",
+   "fr": "Je me mets au centre de l'attention"
+  }
+ },
+ {
+  "n": 295,
+  "domain": "C",
+  "facet": 5,
+  "keyed": "minus",
+  "text": {
+   "en": "Postpone decisions",
+   "ru": "Откладываю принятие решений",
+   "ar": "أؤجّل اتخاذ القرارات",
+   "hi": "फ़ैसले टालते हैं",
+   "fa": "تصمیم‌گیری را به تعویق می‌اندازم",
+   "fr": "Je reporte mes décisions"
+  }
+ },
+ {
+  "n": 296,
+  "domain": "N",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Am calm even in tense situations",
+   "ru": "Сохраняю спокойствие даже в напряжённых ситуациях",
+   "ar": "أبقى هادئاً حتى في المواقف المتوترة",
+   "hi": "तनावपूर्ण स्थितियों में भी शांत रहते हैं",
+   "fa": "حتی در موقعیت‌های پرتنش آرامم",
+   "fr": "Je reste calme même dans les situations tendues"
+  }
+ },
+ {
+  "n": 297,
+  "domain": "E",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Seldom joke around",
+   "ru": "Редко шучу",
+   "ar": "نادراً ما أمزح",
+   "hi": "शायद ही कभी मज़ाक करते हैं",
+   "fa": "به ندرت شوخی می‌کنم",
+   "fr": "Je plaisante rarement"
+  }
+ },
+ {
+  "n": 298,
+  "domain": "O",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Like to stand during the national anthem",
+   "ru": "Люблю вставать во время исполнения государственного гимна",
+   "ar": "أحب الوقوف أثناء عزف النشيد الوطني",
+   "hi": "राष्ट्रगान के दौरान खड़ा होना पसंद है",
+   "fa": "دوست دارم هنگام پخش سرود ملی بایستم",
+   "fr": "J'aime me lever pendant l'hymne national"
+  }
+ },
+ {
+  "n": 299,
+  "domain": "A",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Can't stand weak people",
+   "ru": "Не выношу слабых людей",
+   "ar": "لا أطيق الضعفاء",
+   "hi": "कमज़ोर लोगों को बर्दाश्त नहीं कर पाते हैं",
+   "fa": "آدم‌های ضعیف را تحمل نمی‌کنم",
+   "fr": "Je ne supporte pas les gens faibles"
+  }
+ },
+ {
+  "n": 300,
+  "domain": "C",
+  "facet": 6,
+  "keyed": "minus",
+  "text": {
+   "en": "Often make last-minute plans",
+   "ru": "Часто строю планы в последнюю минуту",
+   "ar": "كثيراً ما أضع خططاً في اللحظة الأخيرة",
+   "hi": "अक्सर आखिरी समय पर योजनाएँ बनाते हैं",
+   "fa": "اغلب برنامه‌هایم را در لحظه آخر می‌ریزم",
+   "fr": "Je fais souvent des projets à la dernière minute"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+{
+ "_comment": "Telegram Stars price per test form, used only when the bot runs with PAYMENTS=1. A form not listed here is free. Keep free: tests whose licence is non-commercial (jung: OEJTS CC BY-NC-SA; eq: SSEIT and WLEIS) and the mental-health screenings.",
+ "neo": {
+  "long": 50
+ },
+ "disc": {
+  "long": 50
+ },
+ "strengths": {
+  "long": 50
+ },
+ "career": {}
+}

@@ -1,0 +1,266 @@
+{
+ "source": "https://www.onetcenter.org/dl_files/IPSF_PP.pdf",
+ "terms": {
+  "summary": "O*NET Interest Profiler is offered under a choice of licenses (https://www.onetcenter.org/license_tools.html): Option 1 CC BY-ND 4.0 for verbatim copying (no redistribution of modified/extended versions); Option 2 O*NET Tools Developer License to modify, edit or extend (requires attribution, a statement that you modified it, a disclaimer, and validation of products incorporating the Tools). 'O*NET' is a USDOL/ETA trademark and must be used as an adjective. onetcenter.org/IP.html also asks users to register their use (https://www.onetcenter.org/register).",
+  "attribution_option1": [
+   "This page includes information from the O*NET Career Exploration Tools (by USDOL/ETA)",
+   "Used under the CC BY-ND 4.0 license.",
+   "O*NET® is a trademark of USDOL/ETA."
+  ],
+  "attribution_option2": [
+   "This page includes information from the O*NET Career Exploration Tools (by USDOL/ETA)",
+   "Used under the O*NET Tools Developer License.",
+   "O*NET® is a trademark of USDOL/ETA.",
+   "[Your name or company] has modified all or some of this information.",
+   "USDOL/ETA has not approved, endorsed, or tested these modifications."
+  ],
+  "pdf_footer": "Sponsored by the U.S. Department of Labor, Employment & Training Administration. Developed by the National Center for O*NET Development (v1).",
+  "license_urls": [
+   "https://www.onetcenter.org/license_tools.html",
+   "https://creativecommons.org/licenses/by-nd/4.0/"
+  ],
+  "caveat": "Attribution lines are fragments as returned by WebFetch's summarizer; check license_tools.html for exact wording before publishing."
+ },
+ "items": [
+  {
+   "id": "R1",
+   "area": "R"
+  },
+  {
+   "id": "I1",
+   "area": "I"
+  },
+  {
+   "id": "A1",
+   "area": "A"
+  },
+  {
+   "id": "S1",
+   "area": "S"
+  },
+  {
+   "id": "E1",
+   "area": "E"
+  },
+  {
+   "id": "C1",
+   "area": "C"
+  },
+  {
+   "id": "R2",
+   "area": "R"
+  },
+  {
+   "id": "I2",
+   "area": "I"
+  },
+  {
+   "id": "A2",
+   "area": "A"
+  },
+  {
+   "id": "S2",
+   "area": "S"
+  },
+  {
+   "id": "E2",
+   "area": "E"
+  },
+  {
+   "id": "C2",
+   "area": "C"
+  },
+  {
+   "id": "R3",
+   "area": "R"
+  },
+  {
+   "id": "I3",
+   "area": "I"
+  },
+  {
+   "id": "A3",
+   "area": "A"
+  },
+  {
+   "id": "S3",
+   "area": "S"
+  },
+  {
+   "id": "E3",
+   "area": "E"
+  },
+  {
+   "id": "C3",
+   "area": "C"
+  },
+  {
+   "id": "R4",
+   "area": "R"
+  },
+  {
+   "id": "I4",
+   "area": "I"
+  },
+  {
+   "id": "A4",
+   "area": "A"
+  },
+  {
+   "id": "S4",
+   "area": "S"
+  },
+  {
+   "id": "E4",
+   "area": "E"
+  },
+  {
+   "id": "C4",
+   "area": "C"
+  },
+  {
+   "id": "R5",
+   "area": "R"
+  },
+  {
+   "id": "I5",
+   "area": "I"
+  },
+  {
+   "id": "A5",
+   "area": "A"
+  },
+  {
+   "id": "S5",
+   "area": "S"
+  },
+  {
+   "id": "E5",
+   "area": "E"
+  },
+  {
+   "id": "C5",
+   "area": "C"
+  },
+  {
+   "id": "R6",
+   "area": "R"
+  },
+  {
+   "id": "I6",
+   "area": "I"
+  },
+  {
+   "id": "A6",
+   "area": "A"
+  },
+  {
+   "id": "S6",
+   "area": "S"
+  },
+  {
+   "id": "E6",
+   "area": "E"
+  },
+  {
+   "id": "C6",
+   "area": "C"
+  },
+  {
+   "id": "R7",
+   "area": "R"
+  },
+  {
+   "id": "I7",
+   "area": "I"
+  },
+  {
+   "id": "A7",
+   "area": "A"
+  },
+  {
+   "id": "S7",
+   "area": "S"
+  },
+  {
+   "id": "E7",
+   "area": "E"
+  },
+  {
+   "id": "C7",
+   "area": "C"
+  },
+  {
+   "id": "R8",
+   "area": "R"
+  },
+  {
+   "id": "I8",
+   "area": "I"
+  },
+  {
+   "id": "A8",
+   "area": "A"
+  },
+  {
+   "id": "S8",
+   "area": "S"
+  },
+  {
+   "id": "E8",
+   "area": "E"
+  },
+  {
+   "id": "C8",
+   "area": "C"
+  },
+  {
+   "id": "R9",
+   "area": "R"
+  },
+  {
+   "id": "I9",
+   "area": "I"
+  },
+  {
+   "id": "A9",
+   "area": "A"
+  },
+  {
+   "id": "S9",
+   "area": "S"
+  },
+  {
+   "id": "E9",
+   "area": "E"
+  },
+  {
+   "id": "C9",
+   "area": "C"
+  },
+  {
+   "id": "R10",
+   "area": "R"
+  },
+  {
+   "id": "I10",
+   "area": "I"
+  },
+  {
+   "id": "A10",
+   "area": "A"
+  },
+  {
+   "id": "S10",
+   "area": "S"
+  },
+  {
+   "id": "E10",
+   "area": "E"
+  },
+  {
+   "id": "C10",
+   "area": "C"
+  }
+ ]
+}

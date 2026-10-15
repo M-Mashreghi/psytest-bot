@@ -1,0 +1,133 @@
+{
+ "test": {
+  "title": "Intelligence émotionnelle (QE)",
+  "short_title": "QE",
+  "about": "L'intelligence émotionnelle est la capacité à remarquer, comprendre et gérer les émotions, les vôtres comme celles des autres. Elle compte pour les relations, le travail et le bien-être.\n\nVersion courte : l'échelle d'intelligence émotionnelle de Wong et Law (WLEIS, 16 questions), qui mesure quatre capacités : comprendre vos propres émotions, comprendre les émotions des autres, utiliser vos émotions pour vous motiver et réguler vos émotions.\nVersion longue : la WLEIS plus le test d'intelligence émotionnelle de Schutte (SSEIT, 33 questions), pour une seconde mesure, plus large.",
+  "instructions": "Vous allez voir {n} affirmations sur les émotions.\n\nPour chacune, indiquez dans quelle mesure vous êtes d'accord avec le fait qu'elle vous décrit tel que vous êtes <b>en général</b>.\n\nIl n'y a pas de bonnes ou de mauvaises réponses.",
+  "prompt": "Dans quelle mesure êtes-vous d'accord ?",
+  "chart_title": "Votre intelligence émotionnelle",
+  "chart_subtitle": "Votre réponse moyenne pour chaque partie, exprimée en pourcentage de l'échelle. Plus c'est élevé, plus la capacité est forte, telle que vous la percevez.",
+  "overall": "Global (WLEIS)",
+  "sseit": "Échelle de QE de Schutte",
+  "scores": "Vos scores",
+  "strongest": "Votre point fort",
+  "develop": "Domaine à développer",
+  "tips": "Comment le développer",
+  "agree": "Les deux questionnaires donnent une image semblable.",
+  "disagree": "Les deux questionnaires donnent des images un peu différentes, ce qui peut arriver car ils interrogent sur les émotions de manières différentes.",
+  "note": "Ces scores comparent vos réponses à l'échelle elle-même, et non à d'autres personnes, car les normes publiées diffèrent selon les pays. Les auto-évaluations montrent comment vous vous percevez ; les autres peuvent vous voir différemment."
+ },
+ "scales": {
+  "wleis": [
+   "Pas du tout d'accord",
+   "Pas d'accord",
+   "Plutôt pas d'accord",
+   "Neutre",
+   "Plutôt d'accord",
+   "D'accord",
+   "Tout à fait d'accord"
+  ],
+  "sseit": [
+   "Fortement en désaccord",
+   "Plutôt en désaccord",
+   "Ni d'accord ni en désaccord",
+   "Plutôt d'accord",
+   "Fortement d'accord"
+  ]
+ },
+ "levels": {
+  "low": "Faible",
+  "average": "Moyen",
+  "high": "Élevé"
+ },
+ "subscales": {
+  "SEA": {
+   "name": "Comprendre vos propres émotions",
+   "about": "Remarquer ce que vous ressentez et savoir pourquoi.",
+   "high": "Vous êtes très conscient de vos sentiments et savez généralement pourquoi vous ressentez ce que vous ressentez. Cela vous aide à faire des choix adaptés à vos vrais besoins.",
+   "average": "Vous savez souvent ce que vous ressentez et pourquoi, même si certains sentiments peuvent être difficiles à nommer, surtout sous l'effet du stress.",
+   "low": "Vos sentiments peuvent être difficiles à décrypter ou à nommer. C'est une compétence qui s'apprend.",
+   "tip": "Faites une pause plusieurs fois par jour et nommez ce que vous ressentez en un mot. Un court journal du soir vous aide aussi à repérer des tendances."
+  },
+  "OEA": {
+   "name": "Comprendre les émotions des autres",
+   "about": "Percevoir les sentiments des autres à travers ce qu'ils disent et font.",
+   "high": "Vous savez bien lire les gens et percevez leurs sentiments à partir de petits signes. Les autres vous trouvent sans doute compréhensif et sensible.",
+   "average": "Vous remarquez généralement ce que ressentent les autres, même si des signes plus discrets peuvent vous échapper.",
+   "low": "Les sentiments des autres peuvent être difficiles à percevoir pour vous, ce qui peut entraîner des malentendus.",
+   "tip": "Pendant les conversations, observez les visages et le ton de la voix, et vérifiez votre impression : « Tu as l'air un peu fatigué, c'est bien ça ? »"
+  },
+  "UOE": {
+   "name": "Utiliser vos émotions pour vous motiver",
+   "about": "Vous fixer des objectifs, vous encourager et persévérer.",
+   "high": "Vous transformez vos sentiments en énergie : vous vous fixez des objectifs, vous vous encouragez et vous continuez d'essayer quand les choses deviennent difficiles.",
+   "average": "Vous arrivez généralement à vous motiver, même si votre élan peut baisser quand vous n'avez pas le moral.",
+   "low": "Il peut être difficile de vous motiver, surtout quand votre humeur est basse.",
+   "tip": "Découpez vos objectifs en petites étapes, célébrez chacune d'elles et rappelez-vous pourquoi l'objectif compte pour vous."
+  },
+  "ROE": {
+   "name": "Réguler vos émotions",
+   "about": "Rester calme et vous remettre vite quand vous êtes contrarié.",
+   "high": "Vous gérez bien les sentiments forts : vous savez vous calmer, maîtriser votre colère et vous remettre rapidement des revers.",
+   "average": "Vous gérez assez bien vos sentiments, même si les émotions fortes prennent parfois le dessus.",
+   "low": "Les sentiments forts peuvent être difficiles à maîtriser et mettre du temps à s'apaiser.",
+   "tip": "Quand vous êtes contrarié, ralentissez votre respiration (expirez plus longtemps que vous n'inspirez), nommez le sentiment et attendez un instant avant de réagir."
+  }
+ },
+ "overall_texts": {
+  "high": "Dans l'ensemble, vous vous percevez comme habile sur le plan émotionnel : vous comprenez et gérez bien les émotions, chez vous comme chez les autres.",
+  "average": "Dans l'ensemble, vos compétences émotionnelles se situent au milieu de l'échelle : solides dans certains domaines, avec une marge de progression dans d'autres.",
+  "low": "Dans l'ensemble, vous voyez vos compétences émotionnelles comme un domaine à développer. La bonne nouvelle, c'est que l'intelligence émotionnelle s'apprend avec de la pratique."
+ },
+ "items": {
+  "w1": "La plupart du temps, je comprends bien pourquoi je ressens certaines émotions",
+  "w2": "Je comprends bien mes propres émotions",
+  "w3": "Je comprends vraiment ce que je ressens",
+  "w4": "Je sais toujours si je suis heureux ou non",
+  "w5": "Je connais toujours les émotions de mes amis d'après leur comportement",
+  "w6": "J'observe bien les émotions des autres",
+  "w7": "Je suis sensible aux sentiments et aux émotions des autres",
+  "w8": "Je comprends bien les émotions des gens qui m'entourent",
+  "w9": "Je me fixe toujours des objectifs, puis je fais de mon mieux pour les atteindre",
+  "w10": "Je me dis toujours que je suis une personne compétente",
+  "w11": "Je suis une personne qui sait se motiver",
+  "w12": "Je m'encouragerais toujours à faire de mon mieux",
+  "w13": "Je suis capable de maîtriser ma colère pour faire face aux difficultés de manière rationnelle",
+  "w14": "Je suis tout à fait capable de maîtriser mes propres émotions",
+  "w15": "Je peux toujours me calmer rapidement quand je suis très en colère",
+  "w16": "Je maîtrise bien mes propres émotions",
+  "s1": "Je sais quand parler de mes problèmes personnels aux autres",
+  "s2": "Face à des obstacles, je me rappelle des moments où j'ai rencontré des obstacles similaires et les ai surmontés",
+  "s3": "Je m'attends à réussir la plupart des choses que j'entreprends",
+  "s4": "Les autres trouvent facile de se confier à moi",
+  "s5": "J'ai du mal à comprendre les messages non verbaux des autres",
+  "s6": "Certains événements majeurs de ma vie m'ont amené à réévaluer ce qui est important et ce qui ne l'est pas",
+  "s7": "Quand mon humeur change, je vois de nouvelles possibilités",
+  "s8": "Les émotions font partie de ce qui donne à ma vie la peine d'être vécue",
+  "s9": "Je suis conscient de mes émotions au moment où je les ressens",
+  "s10": "Je m'attends à ce que de bonnes choses arrivent",
+  "s11": "J'aime partager mes émotions avec les autres",
+  "s12": "Quand je ressens une émotion positive, je sais comment la faire durer",
+  "s13": "J'organise des événements que les autres apprécient",
+  "s14": "Je recherche les activités qui me rendent heureux",
+  "s15": "Je suis conscient des messages non verbaux que j'envoie aux autres",
+  "s16": "Je me présente de façon à faire bonne impression sur les autres",
+  "s17": "Quand je suis de bonne humeur, résoudre des problèmes est facile pour moi",
+  "s18": "En regardant l'expression de leur visage, je reconnais les émotions que les gens éprouvent",
+  "s19": "Je sais pourquoi mes émotions changent",
+  "s20": "Quand je suis de bonne humeur, je suis capable d'avoir de nouvelles idées",
+  "s21": "Je maîtrise mes émotions",
+  "s22": "Je reconnais facilement mes émotions au moment où je les ressens",
+  "s23": "Je me motive en imaginant une issue favorable aux tâches que j'entreprends",
+  "s24": "Je complimente les autres quand ils ont bien fait quelque chose",
+  "s25": "Je suis attentif aux messages non verbaux que les autres envoient",
+  "s26": "Quand une autre personne me raconte un événement important de sa vie, j'ai presque l'impression de l'avoir vécu moi-même",
+  "s27": "Quand je sens mes émotions changer, j'ai tendance à avoir de nouvelles idées",
+  "s28": "Face à un défi, j'abandonne parce que je crois que je vais échouer",
+  "s29": "Je sais ce que ressentent les autres rien qu'en les regardant",
+  "s30": "J'aide les autres à se sentir mieux quand ils n'ont pas le moral",
+  "s31": "Je me sers de ma bonne humeur pour continuer à essayer face aux obstacles",
+  "s32": "Je peux dire ce que ressentent les gens en écoutant le ton de leur voix",
+  "s33": "Il m'est difficile de comprendre pourquoi les gens ressentent ce qu'ils ressentent"
+ }
+}

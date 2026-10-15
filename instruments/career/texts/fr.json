@@ -1,0 +1,165 @@
+{
+ "test": {
+  "title": "Intérêts professionnels (Holland RIASEC)",
+  "short_title": "Intérêts professionnels",
+  "about": "Découvrez les types d'activités professionnelles que vous aimez, à l'aide des six types d'intérêts de Holland (RIASEC) : Réaliste, Investigateur, Artistique, Social, Entreprenant et Conventionnel. Vos trois types principaux forment votre code Holland, qui vous permet d'explorer les métiers qui vous correspondent.\n\nBasé sur la version courte de l'O*NET Interest Profiler (60 activités professionnelles).",
+  "instructions": "Vous allez voir {n} activités professionnelles.\n\nPour chacune, indiquez à quel point vous aimeriez la pratiquer. Ne vous demandez pas si vous avez la formation nécessaire ni combien elle rapporte ; demandez-vous simplement si ce travail vous <b>plairait</b>.",
+  "prompt": "Aimeriez-vous faire ce travail ?",
+  "chart_title": "Vos intérêts professionnels",
+  "chart_subtitle": "Votre intérêt pour chacun des six types de Holland (de 0 à 40).",
+  "code": "Votre code Holland",
+  "code_about": "Vos trois types d'intérêts les plus forts. On est généralement le plus heureux dans un métier qui correspond à ses une ou deux premières lettres.",
+  "careers": "Exemples de métiers",
+  "scores": "Les six types d'intérêts",
+  "flat": "Vos intérêts sont assez équilibrés entre les types, si bien que le code est moins tranché. Regardez les métiers qui combinent vos types principaux.",
+  "attribution": "Ce test comprend des informations issues des O*NET Career Exploration Tools du Département du Travail des États-Unis, Employment and Training Administration (USDOL/ETA), utilisées dans le cadre de la licence O*NET Tools Developer License. Il a été modifié (traduit et adapté pour ce bot) ; l'USDOL/ETA n'a ni approuvé, ni cautionné, ni testé ces modifications. O*NET® est une marque déposée de l'USDOL/ETA."
+ },
+ "choices": [
+  "Je n'aime pas du tout",
+  "Je n'aime pas",
+  "Je ne sais pas",
+  "J'aime",
+  "J'aime beaucoup"
+ ],
+ "levels": {
+  "low": "Faible",
+  "average": "Moyen",
+  "high": "Élevé"
+ },
+ "areas": {
+  "R": {
+   "name": "Réaliste",
+   "nickname": "Le Praticien",
+   "about": "Vous aimez le travail pratique et manuel avec des outils, des machines, des plantes, des animaux ou en plein air, où vous pouvez voir des résultats concrets et tangibles.",
+   "careers": [
+    "Mécanicien",
+    "Électricien",
+    "Ingénieur",
+    "Agriculteur",
+    "Pilote"
+   ]
+  },
+  "I": {
+   "name": "Investigateur",
+   "nickname": "Le Penseur",
+   "about": "Vous aimez observer, apprendre, analyser et résoudre des problèmes, surtout avec des idées, la science et des données.",
+   "careers": [
+    "Scientifique",
+    "Médecin",
+    "Développeur de logiciels",
+    "Analyste de données",
+    "Pharmacien"
+   ]
+  },
+  "A": {
+   "name": "Artistique",
+   "nickname": "Le Créateur",
+   "about": "Vous aimez créer et vous exprimer par l'art, le design, l'écriture, la musique ou la scène, dans des cadres offrant de la liberté et peu de règles.",
+   "careers": [
+    "Graphiste",
+    "Écrivain",
+    "Musicien",
+    "Architecte",
+    "Photographe"
+   ]
+  },
+  "S": {
+   "name": "Social",
+   "nickname": "L'Aidant",
+   "about": "Vous aimez aider, enseigner, prendre soin des gens et travailler avec eux, et changer les choses dans leur vie.",
+   "careers": [
+    "Enseignant",
+    "Infirmier",
+    "Psychologue",
+    "Travailleur social",
+    "Kinésithérapeute"
+   ]
+  },
+  "E": {
+   "name": "Entreprenant",
+   "nickname": "Le Persuasif",
+   "about": "Vous aimez diriger, convaincre, vendre et lancer des projets, prendre des risques et décider pour atteindre vos objectifs.",
+   "careers": [
+    "Gestionnaire",
+    "Entrepreneur",
+    "Commercial",
+    "Avocat",
+    "Spécialiste du marketing"
+   ]
+  },
+  "C": {
+   "name": "Conventionnel",
+   "nickname": "L'Organisateur",
+   "about": "Vous aimez le travail structuré avec des données, des dossiers et des procédures claires, où la précision et l'ordre comptent.",
+   "careers": [
+    "Comptable",
+    "Agent administratif",
+    "Employé de banque",
+    "Auditeur",
+    "Responsable de bureau"
+   ]
+  }
+ },
+ "items": {
+  "R1": "Fabriquer des meubles de cuisine",
+  "R2": "Conduire un camion pour livrer des colis dans des bureaux et chez des particuliers",
+  "R3": "Poser des briques ou du carrelage",
+  "R4": "Contrôler la qualité des pièces avant expédition",
+  "R5": "Réparer des appareils électroménagers",
+  "R6": "Réparer et installer des serrures",
+  "R7": "Élever des poissons dans une écloserie",
+  "R8": "Régler et faire fonctionner des machines pour fabriquer des produits",
+  "R9": "Assembler des composants électroniques",
+  "R10": "Éteindre des feux de forêt",
+  "I1": "Mettre au point un nouveau médicament",
+  "I2": "Enquêter sur la cause d'un incendie",
+  "I3": "Étudier des moyens de réduire la pollution de l'eau",
+  "I4": "Mettre au point une méthode pour mieux prévoir la météo",
+  "I5": "Réaliser des expériences de chimie",
+  "I6": "Travailler dans un laboratoire de biologie",
+  "I7": "Étudier le mouvement des planètes",
+  "I8": "Inventer un substitut au sucre",
+  "I9": "Examiner des échantillons de sang au microscope",
+  "I10": "Faire des analyses de laboratoire pour identifier des maladies",
+  "A1": "Écrire des livres ou des pièces de théâtre",
+  "A2": "Peindre des décors de théâtre",
+  "A3": "Jouer d'un instrument de musique",
+  "A4": "Écrire des scénarios pour le cinéma ou la télévision",
+  "A5": "Composer ou arranger de la musique",
+  "A6": "Faire de la danse jazz ou des claquettes sur scène",
+  "A7": "Dessiner",
+  "A8": "Chanter dans un groupe",
+  "A9": "Créer des effets spéciaux pour le cinéma",
+  "A10": "Monter des films",
+  "S1": "Enseigner un programme d'exercices à une personne",
+  "S2": "Apprendre à des enfants à pratiquer un sport",
+  "S3": "Aider des personnes ayant des problèmes personnels ou émotionnels",
+  "S4": "Enseigner la langue des signes à des personnes sourdes ou malentendantes",
+  "S5": "Conseiller des personnes sur leur orientation professionnelle",
+  "S6": "Aider à animer une séance de thérapie de groupe",
+  "S7": "Pratiquer la rééducation",
+  "S8": "S'occuper d'enfants dans une crèche",
+  "S9": "Faire du bénévolat dans une association à but non lucratif",
+  "S10": "Enseigner à une classe de lycée",
+  "E1": "Acheter et vendre des actions et des obligations",
+  "E2": "Négocier des contrats commerciaux",
+  "E3": "Gérer un magasin de détail",
+  "E4": "Représenter un client dans un procès",
+  "E5": "Tenir un salon de coiffure ou de beauté",
+  "E6": "Commercialiser une nouvelle ligne de vêtements",
+  "E7": "Diriger un service dans une grande entreprise",
+  "E8": "Vendre des articles dans un grand magasin",
+  "E9": "Créer sa propre entreprise",
+  "E10": "Gérer un magasin de vêtements",
+  "C1": "Créer une feuille de calcul avec un logiciel",
+  "C2": "Calculer les salaires des employés",
+  "C3": "Relire des registres ou des formulaires pour y corriger les erreurs",
+  "C4": "Inventorier des fournitures à l'aide d'un ordinateur portatif",
+  "C5": "Installer des logiciels sur les ordinateurs d'un grand réseau",
+  "C6": "Enregistrer les paiements de loyers",
+  "C7": "Utiliser une calculatrice",
+  "C8": "Tenir les registres d'inventaire",
+  "C9": "Tenir les registres d'expédition et de réception",
+  "C10": "Affranchir, trier et distribuer le courrier d'une organisation"
+ }
+}

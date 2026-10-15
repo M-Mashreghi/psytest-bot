@@ -1,0 +1,25 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# Bot data (user answers and purchases)
+*.sqlite3
+*.sqlite3-journal
+data-volume/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak

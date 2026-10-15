@@ -1,0 +1,415 @@
+{
+ "test": {
+  "title": "Jungian Personality Type (16 types)",
+  "short_title": "16 types",
+  "about": "Find out which of the 16 personality types fits you best, based on Carl Jung's theory: where you get your energy (E–I), how you take in information (S–N), how you decide (T–F) and how you organise your life (J–P). A free, open alternative to the MBTI®.\n\nShort form: the 32-pair Open Extended Jungian Type Scales (OEJTS). Long form: adds 48 Big Five questions as an independent second measurement, so you can see how clear and stable each preference is.",
+  "instructions": "You will see {n} questions.\n\nIn the first part, each question shows two opposite descriptions. Choose where you fall between them, thinking of how you <b>usually</b> are.\n\nThe long form then continues with statements you rate for accuracy.\n\nThere are no right or wrong answers, and no type is better than another.",
+  "pair_prompt": "Which describes you better?",
+  "both": "Somewhere in between",
+  "chart_title": "Your personality type",
+  "chart_subtitle": "How strongly you lean toward each side of the four preferences.",
+  "compare_title": "Two independent measurements",
+  "compare_subtitle": "When both point the same way, the preference is clear.",
+  "src_oejts": "Questionnaire",
+  "src_ipip": "Big Five",
+  "agree": "Both measurements agree.",
+  "disagree": "The two measurements disagree on {dims}: those preferences are not clear-cut for you.",
+  "strengths": "Strengths",
+  "challenges": "Watch out for",
+  "careers": "Often enjoy work such as",
+  "preferences": "Your four preferences",
+  "trademark": "MBTI and Myers-Briggs Type Indicator are trademarks of The Myers-Briggs Company. This test is not affiliated with them.",
+  "much": "Definitely",
+  "bit": "Rather"
+ },
+ "clarity": {
+  "slight": "slight",
+  "moderate": "moderate",
+  "clear": "clear",
+  "very_clear": "very clear"
+ },
+ "dims": {
+  "EI": {
+   "name": "Energy",
+   "left": "Extraversion",
+   "right": "Introversion",
+   "left_text": "You draw energy from people and activity. You think out loud, act quickly and enjoy a wide circle.",
+   "right_text": "You draw energy from time alone. You think before you speak, prefer depth over breadth and recharge in quiet."
+  },
+  "SN": {
+   "name": "Information",
+   "left": "Sensing",
+   "right": "Intuition",
+   "left_text": "You trust facts, details and experience. You are practical and focused on what is real and here now.",
+   "right_text": "You look for patterns, meanings and possibilities. You are imaginative and focused on the future and the big picture."
+  },
+  "TF": {
+   "name": "Decisions",
+   "left": "Feeling",
+   "right": "Thinking",
+   "left_text": "You decide by weighing values and how people will be affected. Harmony and compassion matter most.",
+   "right_text": "You decide by logic and objective criteria. Fairness, consistency and truth matter most."
+  },
+  "JP": {
+   "name": "Lifestyle",
+   "left": "Judging",
+   "right": "Perceiving",
+   "left_text": "You like structure, plans and closure. You feel best when things are decided and organised.",
+   "right_text": "You like flexibility and spontaneity. You keep options open and adapt as things unfold."
+  }
+ },
+ "types": {
+  "ISTJ": {
+   "name": "The Dependable Organiser",
+   "summary": "Quiet, serious and thorough. You value duty, order and loyalty, and you get things done step by step. People can count on your word and your sense of responsibility.",
+   "strengths": [
+    "Reliable and responsible",
+    "Organised and thorough",
+    "Calm under pressure",
+    "Loyal and honest"
+   ],
+   "challenges": [
+    "Resisting change",
+    "Seeming rigid or blunt",
+    "Taking on too much alone"
+   ],
+   "careers": [
+    "Accounting",
+    "Law and administration",
+    "Engineering",
+    "Project management",
+    "Logistics"
+   ]
+  },
+  "ISFJ": {
+   "name": "The Caring Protector",
+   "summary": "Warm, conscientious and devoted. You notice what others need and quietly take care of it. You value tradition, stability and keeping your commitments.",
+   "strengths": [
+    "Supportive and kind",
+    "Attentive to detail",
+    "Hard-working and dependable",
+    "Good memory for people"
+   ],
+   "challenges": [
+    "Neglecting your own needs",
+    "Avoiding conflict",
+    "Difficulty saying no"
+   ],
+   "careers": [
+    "Nursing and healthcare",
+    "Teaching",
+    "Social work",
+    "Administration",
+    "Customer care"
+   ]
+  },
+  "INFJ": {
+   "name": "The Insightful Counsellor",
+   "summary": "Deep, idealistic and perceptive. You seek meaning and connection and want to make a positive difference. You understand people well and follow a strong inner vision.",
+   "strengths": [
+    "Insightful about people",
+    "Principled and committed",
+    "Creative and visionary",
+    "Caring listener"
+   ],
+   "challenges": [
+    "Perfectionism",
+    "Burning out from others' problems",
+    "Being hard to know"
+   ],
+   "careers": [
+    "Psychology and counselling",
+    "Writing",
+    "Teaching",
+    "Non-profit work",
+    "Human resources"
+   ]
+  },
+  "INTJ": {
+   "name": "The Strategic Thinker",
+   "summary": "Independent, analytical and determined. You see how systems work, build long-range plans and push to improve things. You value competence and knowledge.",
+   "strengths": [
+    "Strategic and far-sighted",
+    "Independent",
+    "Logical and decisive",
+    "High standards"
+   ],
+   "challenges": [
+    "Seeming distant or critical",
+    "Impatience with inefficiency",
+    "Overlooking feelings"
+   ],
+   "careers": [
+    "Science and research",
+    "Engineering",
+    "Strategy and consulting",
+    "Software architecture",
+    "Medicine"
+   ]
+  },
+  "ISTP": {
+   "name": "The Practical Problem-Solver",
+   "summary": "Calm, observant and hands-on. You like to understand how things work and fix problems efficiently. You stay cool in a crisis and value freedom.",
+   "strengths": [
+    "Practical and resourceful",
+    "Calm in emergencies",
+    "Logical troubleshooter",
+    "Adaptable"
+   ],
+   "challenges": [
+    "Getting bored by routine",
+    "Keeping feelings to yourself",
+    "Avoiding long-term commitments"
+   ],
+   "careers": [
+    "Engineering and mechanics",
+    "IT and cybersecurity",
+    "Emergency services",
+    "Piloting",
+    "Forensics"
+   ]
+  },
+  "ISFP": {
+   "name": "The Gentle Artist",
+   "summary": "Sensitive, kind and modest. You live in the present, love beauty and express yourself through actions more than words. You value harmony and personal freedom.",
+   "strengths": [
+    "Warm and accepting",
+    "Artistic and aesthetic",
+    "Loyal to your values",
+    "Flexible"
+   ],
+   "challenges": [
+    "Avoiding conflict",
+    "Difficulty planning ahead",
+    "Being overly self-critical"
+   ],
+   "careers": [
+    "Design and art",
+    "Music",
+    "Veterinary and animal care",
+    "Healthcare",
+    "Cooking"
+   ]
+  },
+  "INFP": {
+   "name": "The Idealistic Dreamer",
+   "summary": "Thoughtful, imaginative and guided by strong values. You care deeply about authenticity and want your life to mean something. You see the good in people.",
+   "strengths": [
+    "Empathetic",
+    "Creative and original",
+    "True to your values",
+    "Open-minded"
+   ],
+   "challenges": [
+    "Taking criticism personally",
+    "Unrealistic expectations",
+    "Procrastination"
+   ],
+   "careers": [
+    "Writing and literature",
+    "Counselling",
+    "Arts and design",
+    "Education",
+    "Humanitarian work"
+   ]
+  },
+  "INTP": {
+   "name": "The Curious Analyst",
+   "summary": "Quiet, logical and endlessly curious. You love ideas, theories and solving complex puzzles. You question assumptions and want to understand how everything fits together.",
+   "strengths": [
+    "Analytical and precise",
+    "Original thinker",
+    "Objective",
+    "Quick learner"
+   ],
+   "challenges": [
+    "Getting lost in thought",
+    "Neglecting practical details",
+    "Seeming detached"
+   ],
+   "careers": [
+    "Science and mathematics",
+    "Software development",
+    "Philosophy",
+    "Research",
+    "Data analysis"
+   ]
+  },
+  "ESTP": {
+   "name": "The Energetic Doer",
+   "summary": "Bold, practical and action-oriented. You love excitement, act fast and solve problems on the spot. You read situations quickly and enjoy taking risks.",
+   "strengths": [
+    "Energetic and fun",
+    "Practical and realistic",
+    "Persuasive",
+    "Great in a crisis"
+   ],
+   "challenges": [
+    "Impatience",
+    "Taking unnecessary risks",
+    "Ignoring long-term consequences"
+   ],
+   "careers": [
+    "Sales and business",
+    "Entrepreneurship",
+    "Sports",
+    "Emergency services",
+    "Marketing"
+   ]
+  },
+  "ESFP": {
+   "name": "The Lively Entertainer",
+   "summary": "Outgoing, warm and spontaneous. You love people, fun and new experiences, and you bring energy wherever you go. You are practical and generous.",
+   "strengths": [
+    "Fun and sociable",
+    "Observant of people",
+    "Generous",
+    "Adaptable"
+   ],
+   "challenges": [
+    "Getting bored easily",
+    "Avoiding hard conversations",
+    "Weak long-term planning"
+   ],
+   "careers": [
+    "Performing arts",
+    "Hospitality and events",
+    "Sales",
+    "Childcare",
+    "Fitness"
+   ]
+  },
+  "ENFP": {
+   "name": "The Enthusiastic Inspirer",
+   "summary": "Warm, creative and full of ideas. You see possibilities everywhere and inspire others with your enthusiasm. You value freedom, authenticity and close relationships.",
+   "strengths": [
+    "Enthusiastic and inspiring",
+    "Creative",
+    "Excellent with people",
+    "Curious"
+   ],
+   "challenges": [
+    "Losing focus",
+    "Starting more than you finish",
+    "Overthinking others' reactions"
+   ],
+   "careers": [
+    "Journalism and media",
+    "Marketing",
+    "Counselling",
+    "Entrepreneurship",
+    "Teaching"
+   ]
+  },
+  "ENTP": {
+   "name": "The Inventive Debater",
+   "summary": "Quick, clever and curious. You enjoy challenging ideas, debating and finding new ways to solve problems. You are energised by complexity and change.",
+   "strengths": [
+    "Inventive",
+    "Quick-witted",
+    "Confident",
+    "Strategic"
+   ],
+   "challenges": [
+    "Arguing for its own sake",
+    "Neglecting routine tasks",
+    "Insensitivity to feelings"
+   ],
+   "careers": [
+    "Entrepreneurship",
+    "Law",
+    "Consulting",
+    "Engineering and invention",
+    "Politics"
+   ]
+  },
+  "ESTJ": {
+   "name": "The Efficient Manager",
+   "summary": "Practical, decisive and organised. You like to take charge, set clear rules and make sure things run well. You value tradition, order and hard work.",
+   "strengths": [
+    "Organised leader",
+    "Direct and honest",
+    "Dedicated",
+    "Strong-willed"
+   ],
+   "challenges": [
+    "Inflexibility",
+    "Seeming bossy",
+    "Impatience with feelings"
+   ],
+   "careers": [
+    "Management",
+    "Business administration",
+    "Law enforcement",
+    "Finance",
+    "Military"
+   ]
+  },
+  "ESFJ": {
+   "name": "The Warm Host",
+   "summary": "Friendly, caring and sociable. You love helping people and creating harmony in groups. You are loyal, practical and attentive to others' needs.",
+   "strengths": [
+    "Caring and supportive",
+    "Cooperative",
+    "Organised",
+    "Loyal"
+   ],
+   "challenges": [
+    "Needing approval",
+    "Taking criticism hard",
+    "Difficulty with change"
+   ],
+   "careers": [
+    "Healthcare",
+    "Teaching",
+    "Human resources",
+    "Event planning",
+    "Customer service"
+   ]
+  },
+  "ENFJ": {
+   "name": "The Inspiring Mentor",
+   "summary": "Charismatic, warm and responsible. You bring out the best in others and like to lead toward a shared goal. You are attuned to people's feelings and needs.",
+   "strengths": [
+    "Natural leader",
+    "Empathetic",
+    "Persuasive communicator",
+    "Reliable"
+   ],
+   "challenges": [
+    "Overcommitting",
+    "Being too selfless",
+    "Sensitivity to criticism"
+   ],
+   "careers": [
+    "Teaching and training",
+    "Coaching",
+    "Human resources",
+    "Public relations",
+    "Counselling"
+   ]
+  },
+  "ENTJ": {
+   "name": "The Decisive Leader",
+   "summary": "Confident, strategic and ambitious. You see the big picture, organise people and resources, and drive toward results. You enjoy challenges and leadership.",
+   "strengths": [
+    "Decisive and efficient",
+    "Strategic",
+    "Confident",
+    "Strong willpower"
+   ],
+   "challenges": [
+    "Impatience",
+    "Dominating others",
+    "Overlooking emotions"
+   ],
+   "careers": [
+    "Executive leadership",
+    "Entrepreneurship",
+    "Law",
+    "Management consulting",
+    "Finance"
+   ]
+  }
+ }
+}

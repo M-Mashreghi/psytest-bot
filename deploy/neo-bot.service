@@ -1,0 +1,18 @@
+# systemd unit for running without Docker. Copy to /etc/systemd/system/neo-bot.service,
+# adjust the paths and user, then: sudo systemctl enable --now neo-bot
+[Unit]
+Description=Psychology tests Telegram bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=neobot
+WorkingDirectory=/opt/neo-bot
+EnvironmentFile=/opt/neo-bot/.env
+Environment=DB_PATH=/opt/neo-bot/neo_bot.sqlite3
+ExecStart=/opt/neo-bot/venv/bin/python -m bot.main
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

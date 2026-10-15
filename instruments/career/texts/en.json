@@ -1,0 +1,165 @@
+{
+ "test": {
+  "title": "Career interests (Holland RIASEC)",
+  "short_title": "Career interests",
+  "about": "Find out which kinds of work activities you enjoy, using Holland's six interest types (RIASEC): Realistic, Investigative, Artistic, Social, Enterprising and Conventional. Your top three types form your Holland code, which you can use to explore jobs that fit you.\n\nBased on the O*NET Interest Profiler Short Form (60 work activities).",
+  "instructions": "You will see {n} work activities.\n\nFor each one, choose how much you would like doing it. Don't think about whether you have the training or how much it pays; just ask yourself whether you would <b>enjoy</b> the work.",
+  "prompt": "Would you like to do this work?",
+  "chart_title": "Your career interests",
+  "chart_subtitle": "Your interest in each of Holland's six types (0 to 40).",
+  "code": "Your Holland code",
+  "code_about": "Your three strongest interest types. People are usually happiest in jobs that match their first one or two letters.",
+  "careers": "Example careers",
+  "scores": "All six interest types",
+  "flat": "Your interests are quite even across types, so the code is less clear-cut. Look at jobs that combine your top types.",
+  "attribution": "This test includes information from the O*NET Career Exploration Tools by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), used under the O*NET Tools Developer License. It was modified (translated and adapted for this bot); USDOL/ETA has not approved, endorsed or tested these modifications. O*NET® is a trademark of USDOL/ETA."
+ },
+ "choices": [
+  "Strongly dislike",
+  "Dislike",
+  "Unsure",
+  "Like",
+  "Strongly like"
+ ],
+ "levels": {
+  "low": "Low",
+  "average": "Moderate",
+  "high": "High"
+ },
+ "areas": {
+  "R": {
+   "name": "Realistic",
+   "nickname": "The Doer",
+   "about": "You like practical, hands-on work with tools, machines, plants, animals or the outdoors, where you can see real, physical results.",
+   "careers": [
+    "Mechanic",
+    "Electrician",
+    "Engineer",
+    "Farmer",
+    "Pilot"
+   ]
+  },
+  "I": {
+   "name": "Investigative",
+   "nickname": "The Thinker",
+   "about": "You like to observe, learn, analyse and solve problems, especially with ideas, science and data.",
+   "careers": [
+    "Scientist",
+    "Doctor",
+    "Software developer",
+    "Data analyst",
+    "Pharmacist"
+   ]
+  },
+  "A": {
+   "name": "Artistic",
+   "nickname": "The Creator",
+   "about": "You like to create and express yourself through art, design, writing, music or performance, in settings with freedom and few rules.",
+   "careers": [
+    "Graphic designer",
+    "Writer",
+    "Musician",
+    "Architect",
+    "Photographer"
+   ]
+  },
+  "S": {
+   "name": "Social",
+   "nickname": "The Helper",
+   "about": "You like to help, teach, care for and work with people, and to make a difference in their lives.",
+   "careers": [
+    "Teacher",
+    "Nurse",
+    "Psychologist",
+    "Social worker",
+    "Physiotherapist"
+   ]
+  },
+  "E": {
+   "name": "Enterprising",
+   "nickname": "The Persuader",
+   "about": "You like to lead, persuade, sell and start projects, take risks and make decisions to reach goals.",
+   "careers": [
+    "Manager",
+    "Entrepreneur",
+    "Sales representative",
+    "Lawyer",
+    "Marketing specialist"
+   ]
+  },
+  "C": {
+   "name": "Conventional",
+   "nickname": "The Organiser",
+   "about": "You like structured work with data, records and clear procedures, where accuracy and order matter.",
+   "careers": [
+    "Accountant",
+    "Administrator",
+    "Bank officer",
+    "Auditor",
+    "Office manager"
+   ]
+  }
+ },
+ "items": {
+  "R1": "Build kitchen cabinets",
+  "R2": "Drive a truck to deliver packages to offices and homes",
+  "R3": "Lay brick or tile",
+  "R4": "Test the quality of parts before shipment",
+  "R5": "Repair household appliances",
+  "R6": "Repair and install locks",
+  "R7": "Raise fish in a fish hatchery",
+  "R8": "Set up and operate machines to make products",
+  "R9": "Assemble electronic parts",
+  "R10": "Put out forest fires",
+  "I1": "Develop a new medicine",
+  "I2": "Investigate the cause of a fire",
+  "I3": "Study ways to reduce water pollution",
+  "I4": "Develop a way to better predict the weather",
+  "I5": "Conduct chemical experiments",
+  "I6": "Work in a biology lab",
+  "I7": "Study the movement of planets",
+  "I8": "Invent a replacement for sugar",
+  "I9": "Examine blood samples using a microscope",
+  "I10": "Do laboratory tests to identify diseases",
+  "A1": "Write books or plays",
+  "A2": "Paint sets for plays",
+  "A3": "Play a musical instrument",
+  "A4": "Write scripts for movies or television shows",
+  "A5": "Compose or arrange music",
+  "A6": "Perform jazz or tap dance",
+  "A7": "Draw pictures",
+  "A8": "Sing in a band",
+  "A9": "Create special effects for movies",
+  "A10": "Edit movies",
+  "S1": "Teach an individual an exercise routine",
+  "S2": "Teach children how to play sports",
+  "S3": "Help people with personal or emotional problems",
+  "S4": "Teach sign language to people who are deaf or hard of hearing",
+  "S5": "Give career guidance to people",
+  "S6": "Help conduct a group therapy session",
+  "S7": "Perform rehabilitation therapy",
+  "S8": "Take care of children at a day-care center",
+  "S9": "Do volunteer work at a non-profit organization",
+  "S10": "Teach a high-school class",
+  "E1": "Buy and sell stocks and bonds",
+  "E2": "Negotiate business contracts",
+  "E3": "Manage a retail store",
+  "E4": "Represent a client in a lawsuit",
+  "E5": "Operate a beauty salon or barber shop",
+  "E6": "Market a new line of clothing",
+  "E7": "Manage a department within a large company",
+  "E8": "Sell merchandise at a department store",
+  "E9": "Start your own business",
+  "E10": "Manage a clothing store",
+  "C1": "Develop a spreadsheet using computer software",
+  "C2": "Calculate the wages of employees",
+  "C3": "Proofread records or forms",
+  "C4": "Inventory supplies using a hand-held computer",
+  "C5": "Install software across computers on a large network",
+  "C6": "Record rent payments",
+  "C7": "Operate a calculator",
+  "C8": "Keep inventory records",
+  "C9": "Keep shipping and receiving records",
+  "C10": "Stamp, sort, and distribute mail for an organization"
+ }
+}

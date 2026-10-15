@@ -1,0 +1,250 @@
+{
+ "levels": {
+  "low": "Faible",
+  "average": "Moyen",
+  "high": "Élevé"
+ },
+ "domains": {
+  "N": {
+   "name": "Névrosisme",
+   "tagline": "L'intensité de vos réactions au stress et aux émotions négatives.",
+   "about": "Le névrosisme décrit la tendance à ressentir des émotions négatives comme l'inquiétude, la colère, la tristesse ou la gêne. Les personnes qui obtiennent un score élevé réagissent fortement au stress quotidien et mettent plus de temps à se calmer. Celles qui obtiennent un score faible restent calmes et stables, même quand les choses tournent mal. C'est l'inverse de la stabilité émotionnelle.",
+   "low": "Vous êtes calme, posé et difficile à déstabiliser. Le stress vous perturbe rarement, et vous récupérez vite lorsque c'est le cas.",
+   "average": "Vos réactions émotionnelles sont comparables à celles de la plupart des gens. Les situations stressantes vous affectent un peu, mais vous gérez généralement bien vos émotions.",
+   "high": "Vous ressentez les émotions intensément et le stress vous affecte facilement, même lorsque d'autres l'ignoreraient. Vous êtes sensible et réactif sur le plan émotionnel, et des habitudes apaisantes peuvent beaucoup vous aider."
+  },
+  "E": {
+   "name": "Extraversion",
+   "tagline": "À quel point vous recherchez la compagnie, l'activité et l'excitation.",
+   "about": "L'extraversion décrit la quantité d'énergie que vous puisez dans le monde extérieur. Les extravertis aiment la compagnie, parlent volontiers, prennent les choses en main et aiment un rythme soutenu. Les introvertis préfèrent le calme, les petits groupes et les moments seuls pour se ressourcer. Aucun des deux pôles n'est meilleur : ce sont deux façons différentes d'aborder la vie.",
+   "low": "Vous êtes réservé et discret, et vous appréciez la solitude. Vous préférez quelques amis proches aux grands groupes et aimez un rythme calme et régulier.",
+   "average": "Vous n'êtes ni solitaire ni toujours entouré. Vous aimez passer du temps avec les autres, mais vous avez aussi besoin de moments à vous.",
+   "high": "Vous êtes sociable, énergique et ouvert aux autres. Vous aimez être entouré, prenez facilement la parole et aimez être occupé."
+  },
+  "O": {
+   "name": "Ouverture à l'expérience",
+   "tagline": "Votre degré de curiosité, d'imagination et d'ouverture aux idées nouvelles.",
+   "about": "L'ouverture décrit la curiosité, l'imagination et la sensibilité à l'art, aux émotions, aux idées et aux nouvelles expériences. Les personnes ouvertes aiment la nouveauté, la variété et la réflexion abstraite. Les personnes moins ouvertes sont pratiques et terre à terre, et préfèrent ce qui est familier et éprouvé.",
+   "low": "Vous êtes pratique, terre à terre et préférez les façons de faire familières. Vous pensez en termes simples et concrets et accordez de la valeur à la tradition.",
+   "average": "Vous respectez la tradition tout en étant prêt à essayer de nouvelles choses. Certaines idées et expériences vous attirent, sans que vous recherchiez la nouveauté pour elle-même.",
+   "high": "Vous êtes curieux, imaginatif et créatif. Vous aimez les idées nouvelles, l'art, les voyages et la variété, et vous êtes ouvert aux points de vue non conventionnels."
+  },
+  "A": {
+   "name": "Agréabilité",
+   "tagline": "L'importance que vous accordez à la coopération, à la confiance et à l'harmonie.",
+   "about": "L'agréabilité décrit le souci de bien s'entendre avec les autres. Les personnes agréables sont confiantes, honnêtes, serviables, modestes et compatissantes. Les personnes moins agréables font passer leurs intérêts en premier, sont plus sceptiques et compétitives, et disent ce qu'elles pensent même si cela blesse.",
+   "low": "Vous faites passer vos besoins et vos objectifs en premier et ne craignez pas le conflit. On peut vous percevoir comme dur, critique et indépendant d'esprit.",
+   "average": "Vous vous souciez des autres et savez coopérer, mais vous ne sacrifiez pas vos propres intérêts trop facilement.",
+   "high": "Vous êtes chaleureux, confiant et coopératif. Les besoins des autres comptent pour vous et vous veillez à l'harmonie de vos relations."
+  },
+  "C": {
+   "name": "Conscienciosité",
+   "tagline": "Votre degré d'organisation, de fiabilité et d'autodiscipline.",
+   "about": "La conscienciosité décrit la manière dont nous contrôlons nos impulsions et orientons notre comportement vers des objectifs. Les personnes consciencieuses planifient, tiennent leurs promesses, travaillent dur et réfléchissent avant d'agir. Les personnes moins consciencieuses sont plus spontanées et flexibles, mais aussi plus désorganisées et facilement distraites.",
+   "low": "Vous êtes spontané et vivez dans l'instant présent. Vous n'aimez pas les plans et les règles stricts, mais les échéances et l'organisation peuvent vous poser problème.",
+   "average": "Vous êtes raisonnablement fiable et organisé. Vous savez planifier et aller au bout des choses tout en gardant de la souplesse.",
+   "high": "Vous êtes organisé, fiable et déterminé. Vous vous fixez des objectifs clairs et les poursuivez avec discipline, et l'on vous considère comme travailleur."
+  }
+ },
+ "facets": {
+  "N": [
+   {
+    "name": "Anxiété",
+    "about": "Tendance à se sentir inquiet, tendu et craintif.",
+    "low": "Généralement calme et détendu ; vous vous inquiétez rarement.",
+    "high": "Souvent inquiet ou tendu, comme si quelque chose allait mal tourner."
+   },
+   {
+    "name": "Colère",
+    "about": "Tendance à se fâcher quand les choses vont mal ou semblent injustes.",
+    "low": "Lent à vous fâcher et rarement irrité.",
+    "high": "Prompt à la colère ou à la frustration quand les choses ne vont pas comme vous voulez."
+   },
+   {
+    "name": "Dépression",
+    "about": "Tendance à se sentir triste, abattu et découragé.",
+    "low": "Généralement à l'abri des humeurs tristes ou désespérées.",
+    "high": "Souvent abattu, sans énergie ou découragé."
+   },
+   {
+    "name": "Timidité sociale",
+    "about": "Sensibilité au regard des autres.",
+    "low": "À l'aise avec les autres et rarement gêné.",
+    "high": "Facilement gêné et soucieux de l'image que vous donnez."
+   },
+   {
+    "name": "Impulsivité",
+    "about": "Difficulté à résister aux envies et aux pulsions.",
+    "low": "Résistez facilement aux tentations et faites rarement des excès.",
+    "high": "Avez du mal à résister aux envies et aux plaisirs immédiats."
+   },
+   {
+    "name": "Vulnérabilité",
+    "about": "Votre façon de faire face à la pression.",
+    "low": "Gardez la tête froide et confiance en situation de crise.",
+    "high": "Vous sentez dépassé ou impuissant sous une forte pression."
+   }
+  ],
+  "E": [
+   {
+    "name": "Chaleur",
+    "about": "Chaleur et ouverture envers les autres.",
+    "low": "Réservé ; il vous faut du temps pour vous lier.",
+    "high": "Chaleureux et amical ; vous vous faites facilement des amis."
+   },
+   {
+    "name": "Grégarité",
+    "about": "Goût pour la foule et les activités de groupe.",
+    "low": "Préférez les petits groupes ou la solitude aux foules.",
+    "high": "Aimez les fêtes, la foule et faire partie d'un groupe."
+   },
+   {
+    "name": "Affirmation de soi",
+    "about": "Tendance à prendre la parole et à diriger.",
+    "low": "Préférez rester en retrait et laisser les autres diriger.",
+    "high": "Prenez la parole, les choses en main et dirigez naturellement."
+   },
+   {
+    "name": "Niveau d'activité",
+    "about": "Rythme et énergie du quotidien.",
+    "low": "Aimez un rythme tranquille et sans précipitation.",
+    "high": "Occupé, énergique et toujours en mouvement."
+   },
+   {
+    "name": "Recherche de sensations",
+    "about": "Besoin de stimulation et de frissons.",
+    "low": "Évitez le bruit, le risque et les sensations fortes.",
+    "high": "Adorez l'excitation, l'aventure et le risque."
+   },
+   {
+    "name": "Gaieté",
+    "about": "Fréquence des émotions positives comme la joie et l'enthousiasme.",
+    "low": "Sérieux et moins enclin à l'exubérance.",
+    "high": "Joyeux, optimiste et plein d'entrain."
+   }
+  ],
+  "O": [
+   {
+    "name": "Imagination",
+    "about": "Recours à la fantaisie et à la rêverie.",
+    "low": "Tourné vers les faits et la réalité plutôt que l'imaginaire.",
+    "high": "Imagination riche ; vous aimez rêver et inventer."
+   },
+   {
+    "name": "Intérêts artistiques",
+    "about": "Amour de la beauté dans l'art et la nature.",
+    "low": "Peu d'intérêt pour l'art, la musique ou la poésie.",
+    "high": "Profondément touché par l'art, la musique et la beauté de la nature."
+   },
+   {
+    "name": "Émotivité",
+    "about": "Conscience de ses propres émotions.",
+    "low": "Moins à l'écoute de vos émotions et les montrez rarement.",
+    "high": "Très conscient de vos émotions et en contact avec elles."
+   },
+   {
+    "name": "Goût de l'aventure",
+    "about": "Envie d'essayer de nouvelles activités et de nouveaux lieux.",
+    "low": "Préférez les routines et les lieux familiers.",
+    "high": "Impatient d'essayer de nouvelles choses, cuisines et destinations."
+   },
+   {
+    "name": "Intellect",
+    "about": "Goût pour les idées, les énigmes et la pensée abstraite.",
+    "low": "Préférez les questions pratiques aux idées abstraites.",
+    "high": "Aimez les idées, les débats et les problèmes complexes."
+   },
+   {
+    "name": "Libéralisme",
+    "about": "Disposition à remettre en question la tradition et l'autorité.",
+    "low": "Attaché à la tradition, à l'ordre et aux règles établies.",
+    "high": "Questionnez la tradition et l'autorité ; ouvert au changement."
+   }
+  ],
+  "A": [
+   {
+    "name": "Confiance",
+    "about": "Conviction que les autres sont honnêtes et bien intentionnés.",
+    "low": "Prudent et sceptique quant aux intentions des autres.",
+    "high": "Pensez que la plupart des gens sont honnêtes et bien intentionnés."
+   },
+   {
+    "name": "Moralité",
+    "about": "Sincérité et franchise envers les autres.",
+    "low": "Prêt à arranger la vérité ou les règles pour avancer.",
+    "high": "Honnête, sincère et franc avec les autres."
+   },
+   {
+    "name": "Altruisme",
+    "about": "Plaisir à aider les autres.",
+    "low": "Aider les autres ressemble plus à une charge qu'à une joie.",
+    "high": "Aimez sincèrement aider les personnes dans le besoin."
+   },
+   {
+    "name": "Coopération",
+    "about": "Préférence pour le compromis plutôt que l'affrontement.",
+    "low": "Prêt à affronter les autres pour obtenir ce que vous voulez.",
+    "high": "Évitez les conflits et faites volontiers des compromis."
+   },
+   {
+    "name": "Modestie",
+    "about": "Réticence à se placer au-dessus des autres.",
+    "low": "Sûr de vos atouts et heureux de les montrer.",
+    "high": "Humble ; vous n'aimez pas vous vanter."
+   },
+   {
+    "name": "Sensibilité",
+    "about": "Compassion pour la souffrance d'autrui.",
+    "low": "Jugez plus avec la logique qu'avec les sentiments.",
+    "high": "Tendre et facilement ému par la peine des autres."
+   }
+  ],
+  "C": [
+   {
+    "name": "Sentiment d'efficacité",
+    "about": "Confiance en sa capacité à accomplir les choses.",
+    "low": "Doutez souvent de pouvoir faire face à ce que la vie apporte.",
+    "high": "Convaincu de pouvoir résoudre les problèmes et réussir."
+   },
+   {
+    "name": "Ordre",
+    "about": "Goût pour l'organisation, la routine et le rangement.",
+    "low": "À l'aise avec le désordre ; les plans vous semblent contraignants.",
+    "high": "Bien organisé ; vous aimez les listes, les plans et l'ordre."
+   },
+   {
+    "name": "Sens du devoir",
+    "about": "Sens du devoir et des obligations morales.",
+    "low": "Trouvez les règles et obligations contraignantes.",
+    "high": "Tenez vos promesses et suivez votre conscience."
+   },
+   {
+    "name": "Recherche de réussite",
+    "about": "Volonté de réussir et d'exceller.",
+    "low": "Satisfait de faire le nécessaire.",
+    "high": "Ambitieux et déterminé à exceller."
+   },
+   {
+    "name": "Autodiscipline",
+    "about": "Capacité à commencer et terminer les tâches malgré les distractions.",
+    "low": "Tendance à procrastiner et à vous laisser distraire.",
+    "high": "Vous y mettez tout de suite et allez jusqu'au bout."
+   },
+   {
+    "name": "Prudence",
+    "about": "Tendance à réfléchir avant d'agir.",
+    "low": "Agissez vite et sur un coup de tête.",
+    "high": "Pesez soigneusement les options avant d'agir."
+   }
+  ]
+ },
+ "test": {
+  "title": "Personnalité Big Five (NEO)",
+  "short_title": "Big Five (NEO)",
+  "about": "La référence scientifique en matière de personnalité. Mesure les cinq grands traits (ouverture, conscienciosité, extraversion, agréabilité, névrosisme) et 30 facettes, comparés aux personnes de votre sexe et de votre âge. Basé sur l'IPIP-NEO de Goldberg et Johnson.",
+  "instructions": "Vous allez voir {n} affirmations. Pour chacune, indiquez à quel point elle vous décrit <b>tel que vous êtes généralement aujourd'hui</b>, et non tel que vous aimeriez être.\n\nRépondez honnêtement : il n'y a ni bonne ni mauvaise réponse. Vous pouvez arrêter à tout moment et reprendre plus tard.",
+  "chart_title": "Votre profil Big Five",
+  "chart_subtitle": "Centile : la part des personnes de votre sexe et de votre âge qui obtiennent un score inférieur au vôtre.",
+  "band_label": "Zone moyenne"
+ }
+}

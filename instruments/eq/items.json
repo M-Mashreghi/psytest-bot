@@ -1,0 +1,269 @@
+{
+ "sources": {
+  "wleis": "https://www.psicothema.com/pdf/4520.pdf",
+  "sseit": "https://blog.une.edu.au/usingpsychology/2014/04/27/how-can-we-measure-emotional-intelligence"
+ },
+ "items": [
+  {
+   "id": "w1",
+   "scale": "wleis",
+   "sub": "SEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w2",
+   "scale": "wleis",
+   "sub": "SEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w3",
+   "scale": "wleis",
+   "sub": "SEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w4",
+   "scale": "wleis",
+   "sub": "SEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w5",
+   "scale": "wleis",
+   "sub": "OEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w6",
+   "scale": "wleis",
+   "sub": "OEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w7",
+   "scale": "wleis",
+   "sub": "OEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w8",
+   "scale": "wleis",
+   "sub": "OEA",
+   "keyed": "plus"
+  },
+  {
+   "id": "w9",
+   "scale": "wleis",
+   "sub": "UOE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w10",
+   "scale": "wleis",
+   "sub": "UOE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w11",
+   "scale": "wleis",
+   "sub": "UOE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w12",
+   "scale": "wleis",
+   "sub": "UOE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w13",
+   "scale": "wleis",
+   "sub": "ROE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w14",
+   "scale": "wleis",
+   "sub": "ROE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w15",
+   "scale": "wleis",
+   "sub": "ROE",
+   "keyed": "plus"
+  },
+  {
+   "id": "w16",
+   "scale": "wleis",
+   "sub": "ROE",
+   "keyed": "plus"
+  },
+  {
+   "id": "s1",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s2",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s3",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s4",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s5",
+   "scale": "sseit",
+   "keyed": "minus"
+  },
+  {
+   "id": "s6",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s7",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s8",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s9",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s10",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s11",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s12",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s13",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s14",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s15",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s16",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s17",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s18",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s19",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s20",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s21",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s22",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s23",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s24",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s25",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s26",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s27",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s28",
+   "scale": "sseit",
+   "keyed": "minus"
+  },
+  {
+   "id": "s29",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s30",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s31",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s32",
+   "scale": "sseit",
+   "keyed": "plus"
+  },
+  {
+   "id": "s33",
+   "scale": "sseit",
+   "keyed": "minus"
+  }
+ ]
+}

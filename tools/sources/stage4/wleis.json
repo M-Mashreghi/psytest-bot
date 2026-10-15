@@ -1,0 +1,142 @@
+{
+ "source": "https://www.psicothema.com/pdf/4520.pdf",
+ "source_citation": "Extremera Pacheco, N., Rey, L., & Sánchez-Álvarez, N. (2019). Validation of the Spanish version of the Wong Law Emotional Intelligence Scale (WLEIS-S). Psicothema, 31(1), 94-100. https://doi.org/10.7334/psicothema2018.147 -- Table 1 gives each item in Spanish with the original English in square brackets.",
+ "original_citation": "Wong, C.-S., & Law, K. S. (2002). The effects of leader and follower emotional intelligence on performance and attitude: An exploratory study. The Leadership Quarterly, 13, 243-274.",
+ "cross_check": "https://www.peoplematters.in/article/employee-relations/how-to-measure-emotional-intelligence-the-wleis-scale-18313 lists the same 16 items in the same order/subscales but in third-person (observer) wording, with minor variants (e.g. 'Is a self-motivated person', 'control his/her temper and handle difficulties rationally').",
+ "terms": "No explicit licence or terms-of-use statement for the WLEIS was found in the sources consulted. The Psicothema PDF carries only 'Copyright © 2019 Psicothema'; the journal page (reunido.uniovi.es) shows no licence. The original scale was published in The Leadership Quarterly (Elsevier, 2002). Permission status for use in an app is therefore unconfirmed; consider contacting the authors.",
+ "options": [
+  {
+   "value": 1,
+   "label": "Totally disagree"
+  },
+  {
+   "value": 2,
+   "label": ""
+  },
+  {
+   "value": 3,
+   "label": ""
+  },
+  {
+   "value": 4,
+   "label": ""
+  },
+  {
+   "value": 5,
+   "label": ""
+  },
+  {
+   "value": 6,
+   "label": ""
+  },
+  {
+   "value": 7,
+   "label": "Totally agree"
+  }
+ ],
+ "options_note": "7-point Likert scale, 1 = totally disagree to 7 = totally agree (Psicothema 2019, Instruments section); intermediate labels not given in the source. People Matters gives anchors 'strongly disagree' / 'strongly agree'.",
+ "subscales": {
+  "SEA": "Self-Emotion Appraisal",
+  "OEA": "Others' Emotion Appraisal",
+  "UOE": "Use of Emotion",
+  "ROE": "Regulation of Emotion"
+ },
+ "items": [
+  {
+   "n": 1,
+   "subscale": "SEA",
+   "text": "I have a good sense of why I have certain feelings most of the time",
+   "reverse": false
+  },
+  {
+   "n": 2,
+   "subscale": "SEA",
+   "text": "I have good understanding of my own emotions",
+   "reverse": false
+  },
+  {
+   "n": 3,
+   "subscale": "SEA",
+   "text": "I really understand what I feel",
+   "reverse": false
+  },
+  {
+   "n": 4,
+   "subscale": "SEA",
+   "text": "I always know whether or not I am happy",
+   "reverse": false
+  },
+  {
+   "n": 5,
+   "subscale": "OEA",
+   "text": "I always know my friends' emotions from their behaviour",
+   "reverse": false
+  },
+  {
+   "n": 6,
+   "subscale": "OEA",
+   "text": "I am a good observer of others' emotions",
+   "reverse": false
+  },
+  {
+   "n": 7,
+   "subscale": "OEA",
+   "text": "I am sensitive to the feelings and emotions of others",
+   "reverse": false
+  },
+  {
+   "n": 8,
+   "subscale": "OEA",
+   "text": "I have good understanding of the emotions of people around me",
+   "reverse": false
+  },
+  {
+   "n": 9,
+   "subscale": "UOE",
+   "text": "I always set goals for myself and then try my best to achieve them",
+   "reverse": false
+  },
+  {
+   "n": 10,
+   "subscale": "UOE",
+   "text": "I always tell myself I am a competent person",
+   "reverse": false
+  },
+  {
+   "n": 11,
+   "subscale": "UOE",
+   "text": "I am a self-motivating person",
+   "reverse": false
+  },
+  {
+   "n": 12,
+   "subscale": "UOE",
+   "text": "I would always encourage myself to try my best",
+   "reverse": false
+  },
+  {
+   "n": 13,
+   "subscale": "ROE",
+   "text": "I am able to control my temper so that I can handle difficulties rationally",
+   "reverse": false
+  },
+  {
+   "n": 14,
+   "subscale": "ROE",
+   "text": "I am quite capable of controlling my own emotions",
+   "reverse": false
+  },
+  {
+   "n": 15,
+   "subscale": "ROE",
+   "text": "I can always calm down quickly when I am very angry",
+   "reverse": false
+  },
+  {
+   "n": 16,
+   "subscale": "ROE",
+   "text": "I have good control of my own emotions",
+   "reverse": false
+  }
+ ]
+}

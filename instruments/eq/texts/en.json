@@ -1,0 +1,133 @@
+{
+ "test": {
+  "title": "Emotional intelligence (EQ)",
+  "short_title": "EQ",
+  "about": "Emotional intelligence is the ability to notice, understand and manage emotions, both your own and other people's. It matters for relationships, work and well-being.\n\nShort form: the Wong and Law Emotional Intelligence Scale (WLEIS, 16 questions), which scores four abilities: understanding your own emotions, understanding others' emotions, using emotions to motivate yourself and regulating your emotions.\nLong form: the WLEIS plus the Schutte Self-Report Emotional Intelligence Test (33 questions), for a second, broader measurement.",
+  "instructions": "You will see {n} statements about emotions.\n\nFor each one, choose how much you agree that it describes you as you <b>generally</b> are.\n\nThere are no right or wrong answers.",
+  "prompt": "How much do you agree?",
+  "chart_title": "Your emotional intelligence",
+  "chart_subtitle": "Your average answer on each part, shown as a share of the scale. Higher means a stronger ability, as you see yourself.",
+  "overall": "Overall (WLEIS)",
+  "sseit": "Schutte EI scale",
+  "scores": "Your scores",
+  "strongest": "Your strongest area",
+  "develop": "Area to develop",
+  "tips": "How to build it",
+  "agree": "Both questionnaires give a similar picture.",
+  "disagree": "The two questionnaires give somewhat different pictures, which can happen because they ask about emotions in different ways.",
+  "note": "These scores compare your answers with the scale itself, not with other people, because published norms differ between countries. Self-reports show how you see yourself; others may see you differently."
+ },
+ "scales": {
+  "wleis": [
+   "Totally disagree",
+   "Disagree",
+   "Somewhat disagree",
+   "Neutral",
+   "Somewhat agree",
+   "Agree",
+   "Totally agree"
+  ],
+  "sseit": [
+   "Strongly disagree",
+   "Somewhat disagree",
+   "Neither agree nor disagree",
+   "Somewhat agree",
+   "Strongly agree"
+  ]
+ },
+ "levels": {
+  "low": "Low",
+  "average": "Moderate",
+  "high": "High"
+ },
+ "subscales": {
+  "SEA": {
+   "name": "Understanding your own emotions",
+   "about": "Noticing what you feel and knowing why.",
+   "high": "You are well aware of your feelings and usually know why you feel the way you do. This helps you make choices that fit what you really need.",
+   "average": "You often know what you feel and why, though some feelings can be hard to name, especially under stress.",
+   "low": "Your feelings can be hard to read or name. This is a skill that can be learned.",
+   "tip": "Pause a few times a day and name what you feel in one word. A short evening journal also helps you see patterns."
+  },
+  "OEA": {
+   "name": "Understanding others' emotions",
+   "about": "Reading other people's feelings from what they say and do.",
+   "high": "You read people well and pick up on their feelings from small signals. Others probably find you understanding and sensitive.",
+   "average": "You usually notice how others feel, though you may miss quieter signals.",
+   "low": "Other people's feelings can be hard for you to read, which can lead to misunderstandings.",
+   "tip": "In conversations, watch faces and tone, and check your guess: \"You seem a bit tired, is that right?\""
+  },
+  "UOE": {
+   "name": "Using emotions to motivate yourself",
+   "about": "Setting goals, encouraging yourself and keeping going.",
+   "high": "You turn your feelings into drive: you set goals, encourage yourself and keep trying when things get hard.",
+   "average": "You can usually motivate yourself, though your drive may dip when you feel low.",
+   "low": "It can be hard to motivate yourself, especially when your mood is low.",
+   "tip": "Break goals into small steps, celebrate each one, and remind yourself why the goal matters to you."
+  },
+  "ROE": {
+   "name": "Regulating your emotions",
+   "about": "Staying calm and recovering quickly when upset.",
+   "high": "You handle strong feelings well: you can calm down, control your temper and recover quickly from setbacks.",
+   "average": "You manage your feelings reasonably well, though strong emotions sometimes take over.",
+   "low": "Strong feelings can be hard to control and may take a while to settle.",
+   "tip": "When upset, slow your breathing (breathe out longer than in), name the feeling, and wait a moment before you react."
+  }
+ },
+ "overall_texts": {
+  "high": "Overall you see yourself as emotionally skilled: you understand and handle emotions well in yourself and others.",
+  "average": "Overall your emotional skills are in the middle of the scale: solid in some areas, with room to grow in others.",
+  "low": "Overall you see your emotional skills as an area to develop. The good news is that emotional intelligence can be learned with practice."
+ },
+ "items": {
+  "w1": "I have a good sense of why I have certain feelings most of the time",
+  "w2": "I have good understanding of my own emotions",
+  "w3": "I really understand what I feel",
+  "w4": "I always know whether or not I am happy",
+  "w5": "I always know my friends' emotions from their behaviour",
+  "w6": "I am a good observer of others' emotions",
+  "w7": "I am sensitive to the feelings and emotions of others",
+  "w8": "I have good understanding of the emotions of people around me",
+  "w9": "I always set goals for myself and then try my best to achieve them",
+  "w10": "I always tell myself I am a competent person",
+  "w11": "I am a self-motivating person",
+  "w12": "I would always encourage myself to try my best",
+  "w13": "I am able to control my temper so that I can handle difficulties rationally",
+  "w14": "I am quite capable of controlling my own emotions",
+  "w15": "I can always calm down quickly when I am very angry",
+  "w16": "I have good control of my own emotions",
+  "s1": "I know when to speak about my personal problems to others",
+  "s2": "When I am faced with obstacles, I remember times I faced similar obstacles and overcame them",
+  "s3": "I expect that I will do well on most things I try",
+  "s4": "Other people find it easy to confide in me",
+  "s5": "I find it hard to understand the non-verbal messages of other people",
+  "s6": "Some of the major events of my life have led me to re-evaluate what is important and not important",
+  "s7": "When my mood changes, I see new possibilities",
+  "s8": "Emotions are one of the things that make my life worth living",
+  "s9": "I am aware of my emotions as I experience them",
+  "s10": "I expect good things to happen",
+  "s11": "I like to share my emotions with others",
+  "s12": "When I experience a positive emotion, I know how to make it last",
+  "s13": "I arrange events others enjoy",
+  "s14": "I seek out activities that make me happy",
+  "s15": "I am aware of the non-verbal messages I send to others",
+  "s16": "I present myself in a way that makes a good impression on others",
+  "s17": "When I am in a positive mood, solving problems is easy for me",
+  "s18": "By looking at their facial expressions, I recognize the emotions people are experiencing",
+  "s19": "I know why my emotions change",
+  "s20": "When I am in a positive mood, I am able to come up with new ideas",
+  "s21": "I have control over my emotions",
+  "s22": "I easily recognize my emotions as I experience them",
+  "s23": "I motivate myself by imagining a good outcome to tasks I take on",
+  "s24": "I compliment others when they have done something well",
+  "s25": "I am aware of the non-verbal messages other people send",
+  "s26": "When another person tells me about an important event in his or her life, I almost feel as though I experienced this event myself",
+  "s27": "When I feel a change in emotions, I tend to come up with new ideas",
+  "s28": "When I am faced with a challenge, I give up because I believe I will fail",
+  "s29": "I know what other people are feeling just by looking at them",
+  "s30": "I help other people feel better when they are down",
+  "s31": "I use good moods to help myself keep trying in the face of obstacles",
+  "s32": "I can tell how people are feeling by listening to the tone of their voice",
+  "s33": "It is difficult for me to understand why people feel the way they do"
+ }
+}

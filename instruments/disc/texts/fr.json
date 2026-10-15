@@ -1,0 +1,122 @@
+{
+ "test": {
+  "title": "Profil comportemental de type DISC",
+  "short_title": "DISC",
+  "about": "Découvrez comment vous avez tendance à agir au travail et avec les autres, selon les quatre styles DISC : Dominance (direct, axé sur les résultats), Influence (extraverti, enthousiaste), Stabilité (patient, bienveillant) et Conformité (soigneux, précis).\n\nCe profil repose sur des questions ouvertes du modèle des Big Five (IPIP) et vous compare à des milliers de personnes de votre sexe et de votre âge : chaque score est donc un véritable percentile. Il s'agit d'un profil de type DISC, et non de l'évaluation commerciale DiSC®.\n\nVersion courte : 44 questions. Version longue : 110 questions, pour des scores plus précis.",
+  "instructions": "Vous allez voir {n} affirmations sur la façon dont les gens se comportent.\n\nPour chacune, indiquez dans quelle mesure elle vous décrit tel que vous êtes <b>en général</b> aujourd'hui, et non tel que vous aimeriez être.\n\nIl n'y a pas de bonnes ou de mauvaises réponses, et chaque style a ses points forts.",
+  "chart_title": "Vos scores DISC",
+  "chart_subtitle": "Percentile : la part des personnes de votre sexe et de votre âge dont le score est inférieur au vôtre.",
+  "band_label": "Zone moyenne (les 40 % de personnes du milieu)",
+  "wheel_title": "Votre style DISC",
+  "wheel_subtitle": "Le point montre où se situe votre comportement entre rythme rapide et rythme posé, et entre orientation vers les tâches et orientation vers les personnes.",
+  "axis_fast": "Rythme rapide, franc-parler",
+  "axis_steady": "Posé, réservé",
+  "axis_task": "Orienté tâches",
+  "axis_people": "Orienté personnes",
+  "primary": "Votre style principal",
+  "secondary": "avec un second style marqué",
+  "balanced": "Votre profil est équilibré : aucun style ne se détache nettement, vous adaptez donc votre comportement à la situation.",
+  "scores": "Vos quatre scores",
+  "strengths": "Points forts",
+  "challenges": "Points de vigilance",
+  "motivators": "Ce qui vous motive",
+  "stress": "Sous pression",
+  "work_with": "Conseils pour ceux qui travaillent avec vous",
+  "note": "DiSC® et Everything DiSC® sont des marques déposées de John Wiley & Sons. Ce profil n'est pas affilié à cette société."
+ },
+ "levels": {
+  "low": "Faible",
+  "average": "Moyen",
+  "high": "Élevé"
+ },
+ "styles": {
+  "D": {
+   "name": "Dominance",
+   "tagline": "Direct, décidé, axé sur les résultats",
+   "about": "À quel point vous prenez les choses en main, visez les résultats et affrontez les difficultés de front.",
+   "high": "Vous êtes direct et décidé. Vous aimez garder le contrôle, avancer vite et gagner, et vous ne craignez ni les conflits ni les décisions difficiles.",
+   "average": "Vous savez prendre les devants et vous exprimer quand c'est important, mais vous n'avez pas besoin de tout contrôler en permanence.",
+   "low": "Vous préférez coopérer plutôt que rivaliser. Vous évitez la confrontation, partagez facilement le contrôle et laissez volontiers les autres mener.",
+   "strengths": [
+    "Prend des décisions rapidement",
+    "Assume les responsabilités et dirige",
+    "Affronte les problèmes de front",
+    "Concentré sur les résultats"
+   ],
+   "challenges": [
+    "Peut paraître brusque ou impatient",
+    "Peut négliger les sentiments des autres",
+    "Peut vouloir trop contrôler"
+   ],
+   "motivators": "Les défis, la victoire, l'autorité, la liberté d'agir et des résultats concrets.",
+   "stress": "Peut devenir exigeant, impatient et autoritaire.",
+   "work_with": "Soyez bref et allez droit au but, concentrez-vous sur les résultats et les options, et laissez-lui de la marge pour décider."
+  },
+  "I": {
+   "name": "Influence",
+   "tagline": "Extraverti, enthousiaste, convaincant",
+   "about": "À quel point vous allez vers les autres, exprimez votre enthousiasme et gagnez leur adhésion.",
+   "high": "Vous êtes sociable, chaleureux et optimiste. Vous aimez rencontrer des gens, mettez de l'ambiance dans un groupe et savez convaincre et inspirer.",
+   "average": "Vous êtes aimable et appréciez la compagnie, mais vous aimez aussi avoir du temps pour vous concentrer loin de la foule.",
+   "low": "Vous êtes réservé et préférez quelques relations proches à un large cercle social. Vous restez calme et gardez votre enthousiasme pour vous.",
+   "strengths": [
+    "Crée facilement des liens",
+    "Enthousiaste et optimiste",
+    "Convaincant et inspirant",
+    "Instaure une ambiance positive"
+   ],
+   "challenges": [
+    "Peut perdre de vue les détails",
+    "Peut promettre plus qu'il ne peut tenir",
+    "N'aime pas travailler seul longtemps"
+   ],
+   "motivators": "La reconnaissance, les contacts sociaux, le plaisir, la liberté d'expression et le fait d'être apprécié.",
+   "stress": "Peut devenir désorganisé, trop bavard ou émotif.",
+   "work_with": "Soyez amical et décontracté, laissez de la place aux idées et à la discussion, et reconnaissez sa contribution."
+  },
+  "S": {
+   "name": "Stabilité",
+   "tagline": "Patient, calme, bienveillant",
+   "about": "À quel point vous êtes patient, d'humeur égale et coopératif, et l'importance que vous accordez à la stabilité.",
+   "high": "Vous êtes calme, patient et loyal. Vous êtes un coéquipier sur qui l'on peut compter, vous préférez la stabilité, préservez la bonne entente et perdez rarement votre sang-froid.",
+   "average": "Vous savez être patient et coopératif, mais vous pouvez aussi faire face au changement et à une certaine tension si nécessaire.",
+   "low": "Vous aimez la variété et le changement, la routine vous rend impatient et vous pouvez réagir vite et fort quand quelque chose vous dérange.",
+   "strengths": [
+    "Patient et fiable",
+    "À l'écoute",
+    "Coéquipier coopératif",
+    "Reste calme sous pression"
+   ],
+   "challenges": [
+    "Résiste aux changements soudains",
+    "Évite les conflits même quand ils sont nécessaires",
+    "A du mal à dire non"
+   ],
+   "motivators": "La sécurité, l'harmonie, des attentes claires, une reconnaissance sincère et le fait d'aider les autres.",
+   "stress": "Peut devenir passif, céder pour préserver la paix ou résister au changement en silence.",
+   "work_with": "Soyez sincère et patient, expliquez les changements à l'avance et montrez-lui comment il sera soutenu."
+  },
+  "C": {
+   "name": "Conformité",
+   "tagline": "Soigneux, précis, analytique",
+   "about": "L'importance que vous accordez à l'exactitude, à l'ordre, aux règles et à une planification rigoureuse.",
+   "high": "Vous êtes soigneux, organisé et précis. Vous respectez les règles et les normes, réfléchissez avant d'agir et voulez que les choses soient bien faites.",
+   "average": "Vous tenez à la qualité et à l'ordre, mais vous savez aussi être souple quand les détails comptent moins.",
+   "low": "Vous êtes souple et spontané. Vous préférez improviser, ne vous souciez pas beaucoup des règles et des détails, et passez vite à autre chose.",
+   "strengths": [
+    "Exact et minutieux",
+    "Organisé et méthodique",
+    "Réfléchit avant d'agir",
+    "Exigences de qualité élevées"
+   ],
+   "challenges": [
+    "Peut être trop critique ou perfectionniste",
+    "Peut s'enliser dans l'analyse",
+    "Peut paraître distant"
+   ],
+   "motivators": "La qualité, l'exactitude, des règles claires, du temps pour réfléchir et le fait d'avoir raison.",
+   "stress": "Peut devenir trop critique, se replier sur lui-même ou bloquer sur les détails.",
+   "work_with": "Donnez-lui les faits et les détails par écrit, laissez-lui le temps de réfléchir et évitez les surprises."
+  }
+ }
+}

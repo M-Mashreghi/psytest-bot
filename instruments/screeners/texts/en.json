@@ -1,0 +1,224 @@
+{
+ "tests": {
+  "depression": {
+   "title": "Depression screening (PHQ-9)",
+   "short_title": "Depression",
+   "about": "Checks how much you have been affected by symptoms of depression, such as low mood, loss of interest, poor sleep and low energy.\n\nShort form: the PHQ-9, the most widely used depression questionnaire in medicine (9 questions, last 2 weeks).\nLong form: the PHQ-9 plus the 14 depression questions of the DASS-42 (last week), for a second, independent measurement.\n\nThis is a screening, not a diagnosis. Only a professional can diagnose depression.",
+   "instructions": "You will see {n} questions about how you have been feeling recently.\n\nAnswer honestly about the time period shown above each question. There are no right or wrong answers.\n\nYour answers stay in this bot and are only used to calculate your result."
+  },
+  "anxiety": {
+   "title": "Anxiety screening (GAD-7)",
+   "short_title": "Anxiety",
+   "about": "Checks how much you have been affected by symptoms of anxiety, such as worry, nervousness, restlessness and physical tension.\n\nShort form: the GAD-7, the standard anxiety questionnaire used by doctors (7 questions, last 2 weeks).\nLong form: the GAD-7 plus the 14 anxiety questions of the DASS-42 (last week), which also cover physical signs such as a racing heart or shaking.\n\nThis is a screening, not a diagnosis. Only a professional can diagnose an anxiety disorder.",
+   "instructions": "You will see {n} questions about how you have been feeling recently.\n\nAnswer honestly about the time period shown above each question. There are no right or wrong answers.\n\nYour answers stay in this bot and are only used to calculate your result."
+  },
+  "dass": {
+   "title": "Depression, anxiety and stress (DASS)",
+   "short_title": "DASS",
+   "about": "Measures three related kinds of emotional distress at once: depression (low mood, hopelessness, lack of interest), anxiety (fear, panic, physical arousal) and stress (tension, irritability, difficulty relaxing).\n\nShort form: DASS-21 (21 questions). Long form: DASS-42 (42 questions), the original full version.\n\nThis is a screening, not a diagnosis.",
+   "instructions": "You will see {n} statements. For each one, choose how much it applied to you <b>over the past week</b>.\n\nThere are no right or wrong answers. Do not spend too long on any statement."
+  },
+  "ocd": {
+   "title": "Obsessive-compulsive symptoms (OCI-R)",
+   "short_title": "OCD",
+   "about": "Checks for obsessive-compulsive symptoms: unwanted, intrusive thoughts and repeated behaviours such as checking, washing, ordering, counting or hoarding.\n\nShort form: the OCI-R (18 questions), which scores six kinds of symptoms.\nLong form: the OCI-R plus the DOCS (20 questions), which measures how much time, distress and disruption each of four main symptom types causes.\n\nThis is a screening, not a diagnosis. Only a professional can diagnose OCD.",
+   "instructions": "You will see {n} questions about experiences many people have to some degree.\n\nAnswer honestly about the time period shown above each question. There are no right or wrong answers."
+  }
+ },
+ "scales": {
+  "phq": {"stem": "Over the last 2 weeks, how often have you been bothered by this?",
+          "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]},
+  "gad": {"stem": "Over the last 2 weeks, how often have you been bothered by this?",
+          "choices": ["Not at all", "Several days", "More than half the days", "Nearly every day"]},
+  "dass": {"stem": "How much did this apply to you over the past week?",
+           "choices": ["Did not apply to me at all", "Applied to me to some degree, or some of the time", "Applied to me a lot, or a good part of the time", "Applied to me very much, or most of the time"]},
+  "oci": {"stem": "In the past month, how much has this experience distressed or bothered you?",
+          "choices": ["Not at all", "A little", "Moderately", "A lot", "Extremely"]},
+  "docs": {"stem": "In the past month, thinking about the type of thoughts and behaviours described above:"}
+ },
+ "items": {
+  "phq1": "Little interest or pleasure in doing things",
+  "phq2": "Feeling down, depressed or hopeless",
+  "phq3": "Trouble falling or staying asleep, or sleeping too much",
+  "phq4": "Feeling tired or having little energy",
+  "phq5": "Poor appetite or overeating",
+  "phq6": "Feeling bad about yourself, or that you are a failure or have let yourself or your family down",
+  "phq7": "Trouble concentrating on things, such as reading or watching television",
+  "phq8": "Moving or speaking so slowly that other people could have noticed, or the opposite: being so fidgety or restless that you have been moving around a lot more than usual",
+  "phq9": "Thoughts that you would be better off dead, or of hurting yourself in some way",
+  "gad1": "Feeling nervous, anxious or on edge",
+  "gad2": "Not being able to stop or control worrying",
+  "gad3": "Worrying too much about different things",
+  "gad4": "Trouble relaxing",
+  "gad5": "Being so restless that it is hard to sit still",
+  "gad6": "Becoming easily annoyed or irritable",
+  "gad7": "Feeling afraid, as if something awful might happen",
+  "dass1": "I found myself getting upset by quite trivial things",
+  "dass2": "I was aware of dryness of my mouth",
+  "dass3": "I couldn't seem to experience any positive feeling at all",
+  "dass4": "I experienced breathing difficulty (for example, very rapid breathing or breathlessness without physical exertion)",
+  "dass5": "I just couldn't seem to get going",
+  "dass6": "I tended to over-react to situations",
+  "dass7": "I had a feeling of shakiness (for example, as if my legs were going to give way)",
+  "dass8": "I found it difficult to relax",
+  "dass9": "I found myself in situations that made me so anxious I was most relieved when they ended",
+  "dass10": "I felt that I had nothing to look forward to",
+  "dass11": "I found myself getting upset rather easily",
+  "dass12": "I felt that I was using a lot of nervous energy",
+  "dass13": "I felt sad and depressed",
+  "dass14": "I found myself getting impatient when I was delayed in any way (for example, in traffic or when kept waiting)",
+  "dass15": "I had a feeling of faintness",
+  "dass16": "I felt that I had lost interest in just about everything",
+  "dass17": "I felt I wasn't worth much as a person",
+  "dass18": "I felt that I was rather touchy",
+  "dass19": "I sweated noticeably (for example, sweaty hands) without high temperatures or physical exertion",
+  "dass20": "I felt scared without any good reason",
+  "dass21": "I felt that life wasn't worthwhile",
+  "dass22": "I found it hard to wind down",
+  "dass23": "I had difficulty in swallowing",
+  "dass24": "I couldn't seem to get any enjoyment out of the things I did",
+  "dass25": "I was aware of my heart beating without physical exertion (for example, my heart racing or missing a beat)",
+  "dass26": "I felt down-hearted and blue",
+  "dass27": "I found that I was very irritable",
+  "dass28": "I felt I was close to panic",
+  "dass29": "I found it hard to calm down after something upset me",
+  "dass30": "I feared that I would be thrown off by some trivial but unfamiliar task",
+  "dass31": "I was unable to become enthusiastic about anything",
+  "dass32": "I found it difficult to tolerate interruptions to what I was doing",
+  "dass33": "I was in a state of nervous tension",
+  "dass34": "I felt I was pretty worthless",
+  "dass35": "I was intolerant of anything that kept me from getting on with what I was doing",
+  "dass36": "I felt terrified",
+  "dass37": "I could see nothing in the future to be hopeful about",
+  "dass38": "I felt that life was meaningless",
+  "dass39": "I found myself getting agitated",
+  "dass40": "I was worried about situations in which I might panic and make a fool of myself",
+  "dass41": "I experienced trembling (for example, in the hands)",
+  "dass42": "I found it difficult to work up the initiative to do things",
+  "oci1": "I have saved up so many things that they get in the way",
+  "oci2": "I check things more often than necessary",
+  "oci3": "I get upset if objects are not arranged properly",
+  "oci4": "I feel compelled to count while I am doing things",
+  "oci5": "I find it difficult to touch an object when I know it has been touched by strangers or certain people",
+  "oci6": "I find it difficult to control my own thoughts",
+  "oci7": "I collect things I don't need",
+  "oci8": "I repeatedly check doors, windows, drawers, etc.",
+  "oci9": "I get upset if others change the way I have arranged things",
+  "oci10": "I feel I have to repeat certain numbers",
+  "oci11": "I sometimes have to wash or clean myself simply because I feel contaminated",
+  "oci12": "I am upset by unpleasant thoughts that come into my mind against my will",
+  "oci13": "I avoid throwing things away because I am afraid I might need them later",
+  "oci14": "I repeatedly check gas and water taps and light switches after turning them off",
+  "oci15": "I need things to be arranged in a particular way",
+  "oci16": "I feel that there are good and bad numbers",
+  "oci17": "I wash my hands more often and longer than necessary",
+  "oci18": "I frequently get nasty thoughts and have difficulty getting rid of them"
+ },
+ "docs": {
+  "dims": {
+   "C": "<b>Contamination.</b> Thoughts or feelings that you are contaminated, or might become contaminated, by germs, illness, dirt, chemicals or other substances, and behaviours to stay clean, such as excessive washing, cleaning or avoiding things you see as dirty.",
+   "R": "<b>Responsibility for harm.</b> Thoughts that you might cause, or fail to prevent, harm, injury, disasters or bad luck, such as a fire, a break-in or an accident, and behaviours such as checking or asking others for reassurance.",
+   "U": "<b>Unacceptable thoughts.</b> Unwanted thoughts or mental images about sex, violence, religion or other upsetting things that come into your mind against your will, and efforts to push them away, undo them or avoid what triggers them.",
+   "S": "<b>Symmetry and \"just right\".</b> A need for things to be symmetrical, even, in order or \"just right\", and behaviours such as arranging, repeating actions or counting until it feels right."
+  },
+  "questions": [
+   "How much time each day have you spent on thoughts like these and on the behaviours that go with them?",
+   "How much have you avoided situations, places or objects to keep these thoughts or behaviours from starting?",
+   "If you had these thoughts but could not do anything to make yourself feel better, how distressed or anxious did you become?",
+   "How much has your daily life (work, study, home, social life) been disrupted by these thoughts and behaviours?",
+   "How hard is it for you to ignore these thoughts and stop these behaviours when you try?"
+  ],
+  "choices": [
+   ["None at all", "Less than 1 hour a day", "1 to 3 hours a day", "3 to 8 hours a day", "8 hours or more a day"],
+   ["No avoidance at all", "A little avoidance", "A moderate amount of avoidance", "A lot of avoidance", "Extreme avoidance of nearly everything"],
+   ["Not at all distressed", "Mildly distressed", "Moderately distressed", "Severely distressed", "Extremely distressed"],
+   ["No disruption at all", "A little, but I mostly function well", "Many things are disrupted, but I get by", "Disrupted in many ways, I struggle to function", "Completely disrupted, I cannot function"],
+   ["Not at all difficult", "A little difficult", "Moderately difficult", "Very difficult", "Extremely difficult"]
+  ]
+ },
+ "measures": {
+  "phq9": {"name": "PHQ-9 depression", "short": "PHQ-9",
+           "about": "The PHQ-9 asks about the 9 symptoms used to diagnose depression. Scores range from 0 to 27."},
+  "gad7": {"name": "GAD-7 anxiety", "short": "GAD-7",
+           "about": "The GAD-7 asks about 7 core symptoms of generalised anxiety. Scores range from 0 to 21."},
+  "dass_d": {"name": "DASS depression", "short": "Depression",
+             "about": "Low mood, hopelessness, low self-worth, loss of interest and lack of energy or enthusiasm. Scores range from 0 to 42."},
+  "dass_a": {"name": "DASS anxiety", "short": "Anxiety",
+             "about": "Fear and panic, and the body's alarm reactions such as a racing heart, trembling, dry mouth or breathlessness. Scores range from 0 to 42."},
+  "dass_s": {"name": "DASS stress", "short": "Stress",
+             "about": "Ongoing tension, irritability, impatience and difficulty relaxing. Scores range from 0 to 42."},
+  "oci": {"name": "OCI-R obsessive-compulsive symptoms", "short": "OCI-R",
+          "about": "How much six kinds of obsessive-compulsive symptoms have bothered you. Scores range from 0 to 72; 21 or more suggests symptoms worth discussing with a professional."},
+  "docs": {"name": "DOCS symptom severity", "short": "DOCS",
+           "about": "How much time, avoidance, distress and disruption four main types of OCD symptoms cause. Scores range from 0 to 80; 21 or more suggests clinically significant symptoms."}
+ },
+ "bands": {
+  "minimal": "Minimal", "mild": "Mild", "moderate": "Moderate", "moderately_severe": "Moderately severe",
+  "severe": "Severe", "extremely_severe": "Extremely severe", "normal": "Normal",
+  "below": "Below the cut-off", "above": "Above the cut-off"
+ },
+ "band_texts": {
+  "depression": {
+   "minimal": "You report few or no symptoms of depression right now.",
+   "normal": "You report few or no symptoms of depression right now.",
+   "mild": "You report some symptoms of depression. They may come and go with stress or life events. Keep an eye on them, and look after sleep, activity and contact with people you trust.",
+   "moderate": "You report a moderate level of depression symptoms. It would be a good idea to talk with a doctor, psychologist or counsellor, especially if this has lasted more than two weeks or affects your daily life.",
+   "moderately_severe": "You report a high level of depression symptoms. We recommend that you see a doctor or mental health professional soon. Depression is common and treatable.",
+   "severe": "You report a severe level of depression symptoms. Please contact a doctor or mental health professional as soon as possible. Depression is treatable, and you do not have to cope with it alone.",
+   "extremely_severe": "You report a very severe level of depression symptoms. Please contact a doctor or mental health professional as soon as possible. Depression is treatable, and you do not have to cope with it alone."
+  },
+  "anxiety": {
+   "minimal": "You report few or no symptoms of anxiety right now.",
+   "normal": "You report few or no symptoms of anxiety right now.",
+   "mild": "You report some symptoms of anxiety. Some anxiety is a normal reaction to stress. Regular exercise, sleep and relaxation or breathing exercises can help.",
+   "moderate": "You report a moderate level of anxiety symptoms. It would be a good idea to talk with a doctor or psychologist, especially if worry is hard to control or affects your daily life.",
+   "severe": "You report a severe level of anxiety symptoms. We recommend that you see a doctor or mental health professional soon. Anxiety responds well to treatment.",
+   "extremely_severe": "You report a very severe level of anxiety symptoms. We recommend that you see a doctor or mental health professional soon. Anxiety responds well to treatment."
+  },
+  "stress": {
+   "normal": "Your level of tension and stress is within the normal range.",
+   "mild": "You report somewhat more tension than usual. Look for ways to rest, set limits and take breaks.",
+   "moderate": "You report a moderate level of stress. Ongoing stress can affect sleep, health and relationships; consider what you can change, and talk to someone you trust.",
+   "severe": "You report a high level of stress. It may help to talk with a professional about ways to cope and reduce the pressure.",
+   "extremely_severe": "You report a very high level of stress. Please consider talking with a doctor or mental health professional about it."
+  },
+  "ocd": {
+   "below": "Your score is below the level that usually suggests obsessive-compulsive disorder. Many people have some of these experiences without them being a problem.",
+   "above": "Your score is above the level often seen in people with obsessive-compulsive disorder. This does not mean you have OCD, but it is worth discussing with a psychologist or psychiatrist. OCD responds well to specific treatment (exposure and response prevention)."
+  }
+ },
+ "subscales": {
+  "oci": {
+   "washing": {"name": "Washing", "about": "Fear of contamination and washing or cleaning more than necessary."},
+   "checking": {"name": "Checking", "about": "Checking doors, appliances or switches more often than necessary."},
+   "ordering": {"name": "Ordering", "about": "A need for things to be arranged in a particular way."},
+   "obsessing": {"name": "Obsessing", "about": "Unwanted, upsetting thoughts that are hard to get rid of."},
+   "hoarding": {"name": "Hoarding", "about": "Difficulty throwing things away and collecting things you don't need."},
+   "neutralizing": {"name": "Neutralising", "about": "Counting or repeating numbers to undo bad thoughts or feel safe."}
+  },
+  "docs": {
+   "C": {"name": "Contamination", "about": "Fear of germs or dirt, and washing or cleaning."},
+   "R": {"name": "Responsibility for harm", "about": "Fear of causing harm or bad luck, and checking or seeking reassurance."},
+   "U": {"name": "Unacceptable thoughts", "about": "Unwanted thoughts about taboo subjects, and efforts to push them away."},
+   "S": {"name": "Symmetry", "about": "A need for order, evenness or things feeling \"just right\"."}
+  }
+ },
+ "report": {
+  "severity_title": "Your results",
+  "severity_subtitle": "Where your score falls on the official severity ranges. Higher means more symptoms.",
+  "subscales_oci": "Six kinds of symptoms (OCI-R)",
+  "subscales_docs": "Four symptom types (DOCS)",
+  "subscales_subtitle": "Higher bars mean the symptom bothered you more.",
+  "score": "Score",
+  "two_measures": "Two questionnaires",
+  "agree": "Both questionnaires give a similar picture.",
+  "disagree": "The two questionnaires give somewhat different pictures; the time periods and questions differ, so this is not unusual.",
+  "next_steps": "What you can do",
+  "self_care": "Look after the basics: regular sleep, physical activity, daylight, healthy meals and time with people you trust. Notice whether things get better or worse over the next weeks, and take this screening again in a month.",
+  "seek_help": "Consider talking with a doctor, psychologist or counsellor. Bring these results with you: the PDF report shows your answers in detail.",
+  "screening_note": "This questionnaire is a screening tool. It cannot diagnose a mental health condition; only a qualified professional can do that after a full assessment.",
+  "highest": "Most affected",
+  "item9_alert": "⚠️ <b>You said you have had thoughts of being better off dead or of hurting yourself.</b> Please talk to someone today: a doctor, a mental health professional or a person you trust.",
+  "severe_alert": "⚠️ <b>Your results show a high level of symptoms.</b> Please consider contacting a doctor or mental health professional soon. You do not have to face this alone."
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "tests": {
+  "depression": {
+   "title": "Dépistage de la dépression (PHQ-9)",
+   "short_title": "Dépression",
+   "about": "Évalue à quel point vous avez été touché(e) par des symptômes de dépression, comme une humeur triste, une perte d'intérêt, un mauvais sommeil ou un manque d'énergie.\n\nVersion courte : le PHQ-9, le questionnaire de dépression le plus utilisé en médecine (9 questions, 2 dernières semaines).\nVersion longue : le PHQ-9 plus les 14 questions sur la dépression du DASS-42 (semaine passée), pour une seconde mesure indépendante.\n\nCeci est un dépistage, pas un diagnostic. Seul un professionnel peut diagnostiquer une dépression.",
+   "instructions": "Vous allez voir {n} questions sur la façon dont vous vous êtes senti(e) récemment.\n\nRépondez honnêtement en tenant compte de la période indiquée au-dessus de chaque question. Il n'y a pas de bonnes ou de mauvaises réponses.\n\nVos réponses restent dans ce bot et servent uniquement à calculer votre résultat."
+  },
+  "anxiety": {
+   "title": "Dépistage de l'anxiété (GAD-7)",
+   "short_title": "Anxiété",
+   "about": "Évalue à quel point vous avez été touché(e) par des symptômes d'anxiété, comme l'inquiétude, la nervosité, l'agitation ou la tension physique.\n\nVersion courte : le GAD-7, le questionnaire d'anxiété de référence utilisé par les médecins (7 questions, 2 dernières semaines).\nVersion longue : le GAD-7 plus les 14 questions sur l'anxiété du DASS-42 (semaine passée), qui couvrent aussi des signes physiques comme un cœur qui s'emballe ou des tremblements.\n\nCeci est un dépistage, pas un diagnostic. Seul un professionnel peut diagnostiquer un trouble anxieux.",
+   "instructions": "Vous allez voir {n} questions sur la façon dont vous vous êtes senti(e) récemment.\n\nRépondez honnêtement en tenant compte de la période indiquée au-dessus de chaque question. Il n'y a pas de bonnes ou de mauvaises réponses.\n\nVos réponses restent dans ce bot et servent uniquement à calculer votre résultat."
+  },
+  "dass": {
+   "title": "Dépression, anxiété et stress (DASS)",
+   "short_title": "DASS",
+   "about": "Mesure en même temps trois formes liées de détresse émotionnelle : la dépression (humeur triste, désespoir, manque d'intérêt), l'anxiété (peur, panique, activation physique) et le stress (tension, irritabilité, difficulté à se détendre).\n\nVersion courte : DASS-21 (21 questions). Version longue : DASS-42 (42 questions), la version complète d'origine.\n\nCeci est un dépistage, pas un diagnostic.",
+   "instructions": "Vous allez voir {n} affirmations. Pour chacune, indiquez dans quelle mesure elle s'est appliquée à vous <b>au cours de la semaine passée</b>.\n\nIl n'y a pas de bonnes ou de mauvaises réponses. Ne passez pas trop de temps sur une même affirmation."
+  },
+  "ocd": {
+   "title": "Symptômes obsessionnels-compulsifs (OCI-R)",
+   "short_title": "TOC",
+   "about": "Recherche des symptômes obsessionnels-compulsifs : pensées intrusives et indésirables, et comportements répétés comme vérifier, laver, ranger, compter ou accumuler.\n\nVersion courte : l'OCI-R (18 questions), qui évalue six types de symptômes.\nVersion longue : l'OCI-R plus la DOCS (20 questions), qui mesure le temps, la détresse et la perturbation causés par chacun des quatre grands types de symptômes.\n\nCeci est un dépistage, pas un diagnostic. Seul un professionnel peut diagnostiquer un TOC.",
+   "instructions": "Vous allez voir {n} questions sur des expériences que beaucoup de gens vivent à un certain degré.\n\nRépondez honnêtement en tenant compte de la période indiquée au-dessus de chaque question. Il n'y a pas de bonnes ou de mauvaises réponses."
+  }
+ },
+ "scales": {
+  "phq": {
+   "stem": "Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par ce problème ?",
+   "choices": [
+    "Jamais",
+    "Plusieurs jours",
+    "Plus de la moitié du temps",
+    "Presque tous les jours"
+   ]
+  },
+  "gad": {
+   "stem": "Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par ce problème ?",
+   "choices": [
+    "Jamais",
+    "Plusieurs jours",
+    "Plus de la moitié du temps",
+    "Presque tous les jours"
+   ]
+  },
+  "dass": {
+   "stem": "Dans quelle mesure cela s'est-il appliqué à vous au cours de la semaine passée ?",
+   "choices": [
+    "Ne s'applique pas du tout à moi",
+    "S'applique un peu à moi, ou une partie du temps",
+    "S'applique beaucoup à moi, ou une bonne partie du temps",
+    "S'applique entièrement à moi, ou la plupart du temps"
+   ]
+  },
+  "oci": {
+   "stem": "Au cours du mois dernier, à quel point cette expérience vous a-t-elle perturbé(e) ou gêné(e) ?",
+   "choices": [
+    "Pas du tout",
+    "Un peu",
+    "Moyennement",
+    "Beaucoup",
+    "Extrêmement"
+   ]
+  },
+  "docs": {
+   "stem": "Au cours du mois dernier, en pensant au type de pensées et de comportements décrits ci-dessus :"
+  }
+ },
+ "items": {
+  "phq1": "Peu d'intérêt ou de plaisir à faire les choses",
+  "phq2": "Être triste, déprimé(e) ou désespéré(e)",
+  "phq3": "Difficultés à s'endormir ou à rester endormi(e), ou dormir trop",
+  "phq4": "Se sentir fatigué(e) ou manquer d'énergie",
+  "phq5": "Avoir peu d'appétit ou manger trop",
+  "phq6": "Avoir une mauvaise opinion de soi-même, ou avoir le sentiment d'être nul(le), ou d'avoir déçu sa famille ou s'être déçu(e) soi-même",
+  "phq7": "Avoir du mal à se concentrer, par exemple pour lire ou regarder la télévision",
+  "phq8": "Bouger ou parler si lentement que les autres auraient pu le remarquer, ou au contraire être si agité(e) que vous avez bougé beaucoup plus que d'habitude",
+  "phq9": "Penser qu'il vaudrait mieux mourir ou envisager de vous faire du mal d'une manière ou d'une autre",
+  "gad1": "Un sentiment de nervosité, d'anxiété ou de tension",
+  "gad2": "Être incapable d'arrêter de s'inquiéter ou de contrôler ses inquiétudes",
+  "gad3": "S'inquiéter trop à propos de différentes choses",
+  "gad4": "Avoir du mal à se détendre",
+  "gad5": "Être si agité(e) qu'il est difficile de tenir en place",
+  "gad6": "Devenir facilement contrarié(e) ou irritable",
+  "gad7": "Avoir peur, comme si quelque chose d'épouvantable risquait d'arriver",
+  "dass1": "Je me suis aperçu(e) que des choses assez insignifiantes me contrariaient",
+  "dass2": "J'ai eu conscience d'avoir la bouche sèche",
+  "dass3": "J'ai eu l'impression de ne pas pouvoir ressentir d'émotion positive du tout",
+  "dass4": "J'ai eu des difficultés à respirer (par exemple, respiration très rapide ou essoufflement sans effort physique)",
+  "dass5": "J'ai eu l'impression de ne pas arriver à me mettre en route",
+  "dass6": "J'ai eu tendance à réagir de façon exagérée aux situations",
+  "dass7": "J'ai eu une sensation de tremblement (par exemple, comme si mes jambes allaient se dérober)",
+  "dass8": "J'ai eu du mal à me détendre",
+  "dass9": "Je me suis retrouvé(e) dans des situations qui me rendaient si anxieux (anxieuse) que j'étais très soulagé(e) quand elles se terminaient",
+  "dass10": "J'ai eu le sentiment de n'avoir rien à attendre de l'avenir",
+  "dass11": "Je me suis aperçu(e) que je me contrariais assez facilement",
+  "dass12": "J'ai eu le sentiment de dépenser beaucoup d'énergie nerveuse",
+  "dass13": "Je me suis senti(e) triste et déprimé(e)",
+  "dass14": "Je me suis aperçu(e) que je devenais impatient(e) quand j'étais retardé(e) de quelque façon que ce soit (par exemple, dans les embouteillages ou quand on me faisait attendre)",
+  "dass15": "J'ai eu une sensation d'évanouissement",
+  "dass16": "J'ai eu le sentiment d'avoir perdu tout intérêt pour à peu près tout",
+  "dass17": "J'ai eu le sentiment de ne pas valoir grand-chose en tant que personne",
+  "dass18": "J'ai eu le sentiment d'être assez susceptible",
+  "dass19": "J'ai transpiré de façon notable (par exemple, mains moites) sans température élevée ni effort physique",
+  "dass20": "J'ai eu peur sans bonne raison",
+  "dass21": "J'ai eu le sentiment que la vie ne valait pas la peine d'être vécue",
+  "dass22": "J'ai eu du mal à décompresser",
+  "dass23": "J'ai eu des difficultés à avaler",
+  "dass24": "J'ai eu l'impression de ne tirer aucun plaisir de ce que je faisais",
+  "dass25": "J'ai été conscient(e) des battements de mon cœur sans effort physique (par exemple, cœur qui s'accélère ou qui saute un battement)",
+  "dass26": "Je me suis senti(e) découragé(e) et cafardeux (cafardeuse)",
+  "dass27": "Je me suis aperçu(e) que j'étais très irritable",
+  "dass28": "J'ai eu le sentiment d'être au bord de la panique",
+  "dass29": "J'ai eu du mal à me calmer après que quelque chose m'a contrarié(e)",
+  "dass30": "J'ai craint d'être déstabilisé(e) par une tâche insignifiante mais inhabituelle",
+  "dass31": "J'ai été incapable de m'enthousiasmer pour quoi que ce soit",
+  "dass32": "J'ai eu du mal à supporter d'être interrompu(e) dans ce que je faisais",
+  "dass33": "J'étais dans un état de tension nerveuse",
+  "dass34": "J'ai eu le sentiment de ne vraiment pas valoir grand-chose",
+  "dass35": "Je ne supportais pas ce qui m'empêchait de poursuivre ce que je faisais",
+  "dass36": "Je me suis senti(e) terrifié(e)",
+  "dass37": "Je ne voyais rien dans l'avenir qui me donne de l'espoir",
+  "dass38": "J'ai eu le sentiment que la vie n'avait pas de sens",
+  "dass39": "Je me suis aperçu(e) que je devenais agité(e)",
+  "dass40": "Je me suis inquiété(e) de situations où je pourrais paniquer et me ridiculiser",
+  "dass41": "J'ai eu des tremblements (par exemple, des mains)",
+  "dass42": "J'ai eu du mal à trouver l'initiative de faire les choses",
+  "oci1": "J'ai accumulé tellement de choses qu'elles m'encombrent",
+  "oci2": "Je vérifie les choses plus souvent que nécessaire",
+  "oci3": "Je suis contrarié(e) si les objets ne sont pas rangés correctement",
+  "oci4": "Je me sens obligé(e) de compter pendant que je fais des choses",
+  "oci5": "J'ai du mal à toucher un objet quand je sais qu'il a été touché par des inconnus ou par certaines personnes",
+  "oci6": "J'ai du mal à contrôler mes propres pensées",
+  "oci7": "Je collectionne des choses dont je n'ai pas besoin",
+  "oci8": "Je vérifie de façon répétée les portes, les fenêtres, les tiroirs, etc.",
+  "oci9": "Je suis contrarié(e) si les autres changent la façon dont j'ai rangé les choses",
+  "oci10": "Je sens que je dois répéter certains nombres",
+  "oci11": "Je dois parfois me laver ou me nettoyer simplement parce que je me sens contaminé(e)",
+  "oci12": "Je suis perturbé(e) par des pensées désagréables qui me viennent à l'esprit contre ma volonté",
+  "oci13": "J'évite de jeter des choses parce que j'ai peur d'en avoir besoin plus tard",
+  "oci14": "Je vérifie de façon répétée les robinets de gaz et d'eau et les interrupteurs après les avoir fermés",
+  "oci15": "J'ai besoin que les choses soient rangées d'une manière particulière",
+  "oci16": "Je sens qu'il y a de bons et de mauvais nombres",
+  "oci17": "Je me lave les mains plus souvent et plus longtemps que nécessaire",
+  "oci18": "J'ai souvent de vilaines pensées et j'ai du mal à m'en débarrasser"
+ },
+ "docs": {
+  "dims": {
+   "C": "<b>Contamination.</b> Pensées ou sensations d'être contaminé(e), ou de risquer de l'être, par des microbes, une maladie, de la saleté, des produits chimiques ou d'autres substances, et comportements visant à rester propre, comme se laver ou nettoyer de façon excessive ou éviter ce que vous considérez comme sale.",
+   "R": "<b>Responsabilité d'un dommage.</b> Pensées que vous pourriez causer, ou ne pas empêcher, un dommage, une blessure, une catastrophe ou un malheur, comme un incendie, un cambriolage ou un accident, et comportements comme vérifier ou demander à d'autres de vous rassurer.",
+   "U": "<b>Pensées inacceptables.</b> Pensées ou images mentales indésirables sur la sexualité, la violence, la religion ou d'autres sujets dérangeants qui vous viennent à l'esprit contre votre volonté, et efforts pour les chasser, les « annuler » ou éviter ce qui les déclenche.",
+   "S": "<b>Symétrie et « juste comme il faut ».</b> Besoin que les choses soient symétriques, alignées, en ordre ou « juste comme il faut », et comportements comme ranger, répéter des actions ou compter jusqu'à ce que cela semble correct."
+  },
+  "questions": [
+   "Combien de temps par jour avez-vous consacré à ce type de pensées et aux comportements qui les accompagnent ?",
+   "Dans quelle mesure avez-vous évité des situations, des lieux ou des objets pour empêcher ces pensées ou comportements de se déclencher ?",
+   "Si vous aviez ces pensées sans pouvoir rien faire pour vous sentir mieux, à quel point deveniez-vous angoissé(e) ou anxieux (anxieuse) ?",
+   "Dans quelle mesure votre vie quotidienne (travail, études, maison, vie sociale) a-t-elle été perturbée par ces pensées et comportements ?",
+   "À quel point est-il difficile pour vous d'ignorer ces pensées et d'arrêter ces comportements quand vous essayez ?"
+  ],
+  "choices": [
+   [
+    "Pas du tout",
+    "Moins d'1 heure par jour",
+    "De 1 à 3 heures par jour",
+    "De 3 à 8 heures par jour",
+    "8 heures ou plus par jour"
+   ],
+   [
+    "Aucun évitement",
+    "Un peu d'évitement",
+    "Un évitement modéré",
+    "Beaucoup d'évitement",
+    "Évitement extrême de presque tout"
+   ],
+   [
+    "Pas du tout angoissé(e)",
+    "Légèrement angoissé(e)",
+    "Modérément angoissé(e)",
+    "Sévèrement angoissé(e)",
+    "Extrêmement angoissé(e)"
+   ],
+   [
+    "Aucune perturbation",
+    "Un peu, mais je fonctionne bien la plupart du temps",
+    "Beaucoup de choses perturbées, mais je m'en sors",
+    "Perturbée de bien des façons, j'ai du mal à fonctionner",
+    "Totalement perturbée, je ne peux plus fonctionner"
+   ],
+   [
+    "Pas du tout difficile",
+    "Un peu difficile",
+    "Modérément difficile",
+    "Très difficile",
+    "Extrêmement difficile"
+   ]
+  ]
+ },
+ "measures": {
+  "phq9": {
+   "name": "Dépression PHQ-9",
+   "short": "PHQ-9",
+   "about": "Le PHQ-9 porte sur les 9 symptômes utilisés pour diagnostiquer la dépression. Les scores vont de 0 à 27."
+  },
+  "gad7": {
+   "name": "Anxiété GAD-7",
+   "short": "GAD-7",
+   "about": "Le GAD-7 porte sur 7 symptômes clés de l'anxiété généralisée. Les scores vont de 0 à 21."
+  },
+  "dass_d": {
+   "name": "Dépression DASS",
+   "short": "Dépression",
+   "about": "Humeur triste, désespoir, faible estime de soi, perte d'intérêt et manque d'énergie ou d'enthousiasme. Les scores vont de 0 à 42."
+  },
+  "dass_a": {
+   "name": "Anxiété DASS",
+   "short": "Anxiété",
+   "about": "Peur et panique, et réactions d'alarme du corps comme un cœur qui s'emballe, des tremblements, une bouche sèche ou un essoufflement. Les scores vont de 0 à 42."
+  },
+  "dass_s": {
+   "name": "Stress DASS",
+   "short": "Stress",
+   "about": "Tension persistante, irritabilité, impatience et difficulté à se détendre. Les scores vont de 0 à 42."
+  },
+  "oci": {
+   "name": "Symptômes obsessionnels-compulsifs OCI-R",
+   "short": "OCI-R",
+   "about": "À quel point six types de symptômes obsessionnels-compulsifs vous ont gêné(e). Les scores vont de 0 à 72 ; à partir de 21, il est conseillé d'en parler à un professionnel."
+  },
+  "docs": {
+   "name": "Sévérité des symptômes DOCS",
+   "short": "DOCS",
+   "about": "Le temps, l'évitement, la détresse et la perturbation causés par quatre grands types de symptômes du TOC. Les scores vont de 0 à 80 ; à partir de 21, les symptômes sont considérés comme cliniquement significatifs."
+  }
+ },
+ "bands": {
+  "minimal": "Minimal",
+  "mild": "Léger",
+  "moderate": "Modéré",
+  "moderately_severe": "Modérément sévère",
+  "severe": "Sévère",
+  "extremely_severe": "Extrêmement sévère",
+  "normal": "Normal",
+  "below": "Sous le seuil",
+  "above": "Au-dessus du seuil"
+ },
+ "band_texts": {
+  "depression": {
+   "minimal": "Vous signalez peu ou pas de symptômes de dépression en ce moment.",
+   "normal": "Vous signalez peu ou pas de symptômes de dépression en ce moment.",
+   "mild": "Vous signalez quelques symptômes de dépression. Ils peuvent aller et venir selon le stress ou les événements de la vie. Restez attentif (attentive) à leur évolution, et prenez soin de votre sommeil, de votre activité et de vos liens avec des personnes de confiance.",
+   "moderate": "Vous signalez un niveau modéré de symptômes de dépression. Il serait bon d'en parler à un médecin, un psychologue ou un conseiller, surtout si cela dure depuis plus de deux semaines ou affecte votre vie quotidienne.",
+   "moderately_severe": "Vous signalez un niveau élevé de symptômes de dépression. Nous vous recommandons de consulter bientôt un médecin ou un professionnel de la santé mentale. La dépression est fréquente et se soigne.",
+   "severe": "Vous signalez un niveau sévère de symptômes de dépression. Veuillez contacter un médecin ou un professionnel de la santé mentale dès que possible. La dépression se soigne, et vous n'avez pas à y faire face seul(e).",
+   "extremely_severe": "Vous signalez un niveau très sévère de symptômes de dépression. Veuillez contacter un médecin ou un professionnel de la santé mentale dès que possible. La dépression se soigne, et vous n'avez pas à y faire face seul(e)."
+  },
+  "anxiety": {
+   "minimal": "Vous signalez peu ou pas de symptômes d'anxiété en ce moment.",
+   "normal": "Vous signalez peu ou pas de symptômes d'anxiété en ce moment.",
+   "mild": "Vous signalez quelques symptômes d'anxiété. Un peu d'anxiété est une réaction normale au stress. Une activité physique régulière, un bon sommeil et des exercices de relaxation ou de respiration peuvent aider.",
+   "moderate": "Vous signalez un niveau modéré de symptômes d'anxiété. Il serait bon d'en parler à un médecin ou à un psychologue, surtout si vos inquiétudes sont difficiles à contrôler ou affectent votre vie quotidienne.",
+   "severe": "Vous signalez un niveau sévère de symptômes d'anxiété. Nous vous recommandons de consulter bientôt un médecin ou un professionnel de la santé mentale. L'anxiété répond bien au traitement.",
+   "extremely_severe": "Vous signalez un niveau très sévère de symptômes d'anxiété. Nous vous recommandons de consulter bientôt un médecin ou un professionnel de la santé mentale. L'anxiété répond bien au traitement."
+  },
+  "stress": {
+   "normal": "Votre niveau de tension et de stress se situe dans la normale.",
+   "mild": "Vous signalez un peu plus de tension que d'habitude. Cherchez des moyens de vous reposer, de poser des limites et de faire des pauses.",
+   "moderate": "Vous signalez un niveau modéré de stress. Un stress prolongé peut affecter le sommeil, la santé et les relations ; réfléchissez à ce que vous pouvez changer, et parlez-en à une personne de confiance.",
+   "severe": "Vous signalez un niveau élevé de stress. Il pourrait être utile d'en parler à un professionnel pour trouver des moyens d'y faire face et de réduire la pression.",
+   "extremely_severe": "Vous signalez un niveau très élevé de stress. N'hésitez pas à en parler à un médecin ou à un professionnel de la santé mentale."
+  },
+  "ocd": {
+   "below": "Votre score est inférieur au niveau qui évoque habituellement un trouble obsessionnel-compulsif. Beaucoup de gens vivent certaines de ces expériences sans que cela pose problème.",
+   "above": "Votre score est supérieur au niveau souvent observé chez les personnes ayant un trouble obsessionnel-compulsif. Cela ne veut pas dire que vous avez un TOC, mais il serait utile d'en parler à un psychologue ou à un psychiatre. Le TOC répond bien à un traitement spécifique (l'exposition avec prévention de la réponse)."
+  }
+ },
+ "subscales": {
+  "oci": {
+   "washing": {
+    "name": "Lavage",
+    "about": "Peur de la contamination, et se laver ou nettoyer plus que nécessaire."
+   },
+   "checking": {
+    "name": "Vérification",
+    "about": "Vérifier les portes, les appareils ou les interrupteurs plus souvent que nécessaire."
+   },
+   "ordering": {
+    "name": "Ordre",
+    "about": "Besoin que les choses soient rangées d'une manière particulière."
+   },
+   "obsessing": {
+    "name": "Obsessions",
+    "about": "Pensées indésirables et dérangeantes dont il est difficile de se débarrasser."
+   },
+   "hoarding": {
+    "name": "Accumulation",
+    "about": "Difficulté à jeter des choses, et collectionner des choses inutiles."
+   },
+   "neutralizing": {
+    "name": "Neutralisation",
+    "about": "Compter ou répéter des nombres pour annuler de mauvaises pensées ou se sentir en sécurité."
+   }
+  },
+  "docs": {
+   "C": {
+    "name": "Contamination",
+    "about": "Peur des microbes ou de la saleté, et se laver ou nettoyer."
+   },
+   "R": {
+    "name": "Responsabilité d'un dommage",
+    "about": "Peur de causer un dommage ou un malheur, et vérifier ou chercher à être rassuré(e)."
+   },
+   "U": {
+    "name": "Pensées inacceptables",
+    "about": "Pensées indésirables sur des sujets tabous, et efforts pour les chasser."
+   },
+   "S": {
+    "name": "Symétrie",
+    "about": "Besoin d'ordre, d'équilibre ou que les choses soient « juste comme il faut »."
+   }
+  }
+ },
+ "report": {
+  "severity_title": "Vos résultats",
+  "severity_subtitle": "Où se situe votre score sur les niveaux de sévérité officiels. Plus il est élevé, plus il y a de symptômes.",
+  "subscales_oci": "Six types de symptômes (OCI-R)",
+  "subscales_docs": "Quatre types de symptômes (DOCS)",
+  "subscales_subtitle": "Plus la barre est haute, plus le symptôme vous a gêné(e).",
+  "score": "Score",
+  "two_measures": "Deux questionnaires",
+  "agree": "Les deux questionnaires donnent une image similaire.",
+  "disagree": "Les deux questionnaires donnent des images un peu différentes ; les périodes et les questions ne sont pas les mêmes, ce n'est donc pas inhabituel.",
+  "next_steps": "Ce que vous pouvez faire",
+  "self_care": "Prenez soin de l'essentiel : un sommeil régulier, de l'activité physique, la lumière du jour, des repas équilibrés et du temps avec des personnes de confiance. Observez si les choses s'améliorent ou s'aggravent au cours des prochaines semaines, et refaites ce dépistage dans un mois.",
+  "seek_help": "Envisagez d'en parler à un médecin, un psychologue ou un conseiller. Apportez ces résultats : le rapport PDF présente vos réponses en détail.",
+  "screening_note": "Ce questionnaire est un outil de dépistage. Il ne permet pas de diagnostiquer un trouble de santé mentale ; seul un professionnel qualifié peut le faire après une évaluation complète.",
+  "highest": "Le plus touché",
+  "item9_alert": "⚠️ <b>Vous avez indiqué avoir pensé qu'il vaudrait mieux mourir ou avoir pensé à vous faire du mal.</b> Parlez-en à quelqu'un aujourd'hui : un médecin, un professionnel de la santé mentale ou une personne de confiance.",
+  "severe_alert": "⚠️ <b>Vos résultats montrent un niveau élevé de symptômes.</b> N'hésitez pas à contacter bientôt un médecin ou un professionnel de la santé mentale. Vous n'avez pas à affronter cela seul(e)."
+ }
+}

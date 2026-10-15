@@ -1,0 +1,250 @@
+{
+ "levels": {
+  "low": "Low",
+  "average": "Average",
+  "high": "High"
+ },
+ "domains": {
+  "N": {
+   "name": "Neuroticism",
+   "tagline": "How strongly you react to stress and negative emotions.",
+   "about": "Neuroticism describes the tendency to feel negative emotions such as worry, anger, sadness and embarrassment. People high on this trait react strongly to everyday stress and take longer to calm down. People low on it stay calm and steady, even when things go wrong. It is the opposite of emotional stability.",
+   "low": "You are calm, composed and hard to upset. Stress rarely knocks you off balance, and you recover quickly when it does.",
+   "average": "Your emotional reactions are typical of most people. Stressful situations bother you somewhat, but you usually manage your feelings and cope well.",
+   "high": "You feel emotions intensely and are easily upset by stress that others might shrug off. You are sensitive and emotionally responsive, and learning calming habits can help a lot."
+  },
+  "E": {
+   "name": "Extraversion",
+   "tagline": "How much you seek out people, activity and excitement.",
+   "about": "Extraversion describes how much energy you draw from the outside world. Extraverts enjoy company, talk readily, take charge and like a lively pace. Introverts prefer quiet, smaller groups and time alone to recharge. Neither end is better; they are different ways of engaging with life.",
+   "low": "You are reserved and quiet, and you value solitude. You prefer a few close friends to large groups and like a calm, steady pace.",
+   "average": "You are neither a loner nor a constant socialiser. You enjoy time with people, but you also need and enjoy time on your own.",
+   "high": "You are sociable, energetic and outgoing. You enjoy being around people, speak up easily and like to keep busy."
+  },
+  "O": {
+   "name": "Openness to Experience",
+   "tagline": "How curious, imaginative and open to new ideas you are.",
+   "about": "Openness describes curiosity, imagination and appreciation for art, emotions, ideas and new experiences. Open people love novelty, variety and abstract thinking. Less open people are practical and down to earth, and they prefer the familiar and the proven.",
+   "low": "You are practical, down to earth and prefer familiar ways of doing things. You think in plain, concrete terms and value tradition.",
+   "average": "You respect tradition but are willing to try new things. You are curious about some ideas and experiences without seeking novelty for its own sake.",
+   "high": "You are curious, imaginative and creative. You enjoy new ideas, art, travel and variety, and you are open to unconventional views."
+  },
+  "A": {
+   "name": "Agreeableness",
+   "tagline": "How much you value cooperation, trust and harmony with others.",
+   "about": "Agreeableness describes concern for getting along with others. Agreeable people are trusting, honest, helpful, modest and compassionate. Less agreeable people put their own interests first, are more sceptical and competitive, and say what they think even when it hurts.",
+   "low": "You put your own needs and goals first and are not afraid of conflict. People may see you as tough, critical and independent-minded.",
+   "average": "You care about others and can cooperate, but you will not sacrifice your own interests too easily.",
+   "high": "You are warm, trusting and cooperative. You care about other people's needs and work hard to keep relationships harmonious."
+  },
+  "C": {
+   "name": "Conscientiousness",
+   "tagline": "How organised, reliable and self-disciplined you are.",
+   "about": "Conscientiousness describes how we control our impulses and direct our behaviour toward goals. Conscientious people plan ahead, keep their promises, work hard and think before acting. Less conscientious people are more spontaneous and flexible, but also more disorganised and easily distracted.",
+   "low": "You are spontaneous and live in the moment. You dislike strict plans and rules, but you may struggle with deadlines and organisation.",
+   "average": "You are reasonably reliable and organised. You can plan and follow through, while still leaving room for flexibility.",
+   "high": "You are organised, dependable and determined. You set clear goals and pursue them with discipline, and people see you as hard-working."
+  }
+ },
+ "facets": {
+  "N": [
+   {
+    "name": "Anxiety",
+    "about": "Tendency to feel worried, tense and fearful.",
+    "low": "Usually calm and relaxed; you rarely worry.",
+    "high": "Often worried or tense, as if something might go wrong."
+   },
+   {
+    "name": "Anger",
+    "about": "Tendency to feel angry when things go wrong or seem unfair.",
+    "low": "Slow to anger and rarely irritated.",
+    "high": "Quick to feel angry or frustrated when things don't go your way."
+   },
+   {
+    "name": "Depression",
+    "about": "Tendency to feel sad, low and discouraged.",
+    "low": "Generally free of sad or hopeless moods.",
+    "high": "Often feel down, low on energy or discouraged."
+   },
+   {
+    "name": "Self-Consciousness",
+    "about": "Sensitivity to what others think of you.",
+    "low": "Comfortable around others and rarely embarrassed.",
+    "high": "Easily embarrassed and worried about how others see you."
+   },
+   {
+    "name": "Immoderation",
+    "about": "Difficulty resisting cravings and urges.",
+    "low": "Resist temptations easily and rarely overindulge.",
+    "high": "Find it hard to resist urges and short-term pleasures."
+   },
+   {
+    "name": "Vulnerability",
+    "about": "How you cope under pressure.",
+    "low": "Stay clear-headed and confident in a crisis.",
+    "high": "Feel overwhelmed or helpless under heavy pressure."
+   }
+  ],
+  "E": [
+   {
+    "name": "Friendliness",
+    "about": "Warmth and openness toward other people.",
+    "low": "Reserved, and take time to warm up to others.",
+    "high": "Warm and friendly; you make friends easily."
+   },
+   {
+    "name": "Gregariousness",
+    "about": "Liking for crowds and group activities.",
+    "low": "Prefer small groups or time alone over crowds.",
+    "high": "Enjoy parties, crowds and being part of a group."
+   },
+   {
+    "name": "Assertiveness",
+    "about": "Tendency to speak up and take charge.",
+    "low": "Prefer to stay in the background and let others lead.",
+    "high": "Speak up, take charge and lead groups naturally."
+   },
+   {
+    "name": "Activity Level",
+    "about": "Pace and energy of everyday life.",
+    "low": "Like a relaxed, unhurried pace.",
+    "high": "Busy, energetic and always on the move."
+   },
+   {
+    "name": "Excitement-Seeking",
+    "about": "Need for thrills and stimulation.",
+    "low": "Avoid noise, risk and thrill-seeking.",
+    "high": "Love excitement, adventure and taking risks."
+   },
+   {
+    "name": "Cheerfulness",
+    "about": "Frequency of positive emotions like joy and enthusiasm.",
+    "low": "Serious and less given to high spirits.",
+    "high": "Cheerful, optimistic and full of joy."
+   }
+  ],
+  "O": [
+   {
+    "name": "Imagination",
+    "about": "Use of fantasy and daydreaming.",
+    "low": "Focused on facts and reality rather than fantasy.",
+    "high": "Rich imagination; you love to daydream and invent."
+   },
+   {
+    "name": "Artistic Interests",
+    "about": "Love of beauty in art and nature.",
+    "low": "Little interest in art, music or poetry.",
+    "high": "Deeply moved by art, music and natural beauty."
+   },
+   {
+    "name": "Emotionality",
+    "about": "Awareness of your own feelings.",
+    "low": "Less tuned in to your feelings and rarely show them.",
+    "high": "Strongly aware of and in touch with your emotions."
+   },
+   {
+    "name": "Adventurousness",
+    "about": "Willingness to try new activities and places.",
+    "low": "Prefer familiar routines and places.",
+    "high": "Eager to try new things, foods and places."
+   },
+   {
+    "name": "Intellect",
+    "about": "Love of ideas, puzzles and abstract thinking.",
+    "low": "Prefer practical matters over abstract ideas.",
+    "high": "Love ideas, debates and complex problems."
+   },
+   {
+    "name": "Liberalism",
+    "about": "Readiness to challenge tradition and authority.",
+    "low": "Value tradition, order and established rules.",
+    "high": "Question tradition and authority; open to change."
+   }
+  ],
+  "A": [
+   {
+    "name": "Trust",
+    "about": "Belief that others are honest and well-meaning.",
+    "low": "Cautious and sceptical about others' motives.",
+    "high": "Assume most people are honest and mean well."
+   },
+   {
+    "name": "Morality",
+    "about": "Sincerity and straightforwardness with others.",
+    "low": "Willing to bend the truth or the rules to get ahead.",
+    "high": "Honest, sincere and frank with others."
+   },
+   {
+    "name": "Altruism",
+    "about": "Enjoyment of helping others.",
+    "low": "Helping others feels more like a burden than a joy.",
+    "high": "Genuinely enjoy helping people in need."
+   },
+   {
+    "name": "Cooperation",
+    "about": "Preference for compromise over confrontation.",
+    "low": "Willing to confront others to get your way.",
+    "high": "Avoid conflict and readily compromise."
+   },
+   {
+    "name": "Modesty",
+    "about": "Reluctance to put yourself above others.",
+    "low": "Confident in your strengths and happy to show them.",
+    "high": "Humble; you don't like to boast."
+   },
+   {
+    "name": "Sympathy",
+    "about": "Compassion for others' suffering.",
+    "low": "Judge with logic more than with feelings.",
+    "high": "Tender-hearted and easily moved by others' pain."
+   }
+  ],
+  "C": [
+   {
+    "name": "Self-Efficacy",
+    "about": "Confidence in your ability to get things done.",
+    "low": "Often doubt you can handle what life brings.",
+    "high": "Confident you can solve problems and succeed."
+   },
+   {
+    "name": "Orderliness",
+    "about": "Liking for organisation, routine and tidiness.",
+    "low": "Comfortable with mess; plans feel restrictive.",
+    "high": "Well-organised; you like lists, plans and order."
+   },
+   {
+    "name": "Dutifulness",
+    "about": "Sense of duty and moral obligation.",
+    "low": "Find rules and obligations confining.",
+    "high": "Keep promises and follow your conscience."
+   },
+   {
+    "name": "Achievement-Striving",
+    "about": "Drive to achieve and excel.",
+    "low": "Content with doing what is necessary.",
+    "high": "Ambitious and driven to excel."
+   },
+   {
+    "name": "Self-Discipline",
+    "about": "Ability to start and finish tasks despite distractions.",
+    "low": "Tend to procrastinate and get distracted.",
+    "high": "Start right away and see tasks through."
+   },
+   {
+    "name": "Cautiousness",
+    "about": "Tendency to think before acting.",
+    "low": "Act quickly and on impulse.",
+    "high": "Think carefully through options before acting."
+   }
+  ]
+ },
+ "test": {
+  "title": "Big Five Personality (NEO)",
+  "short_title": "Big Five (NEO)",
+  "about": "The scientific gold standard of personality. Measures the five core traits (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) and 30 facets, compared with people of your sex and age. Based on the IPIP-NEO by Goldberg and Johnson.",
+  "instructions": "You will see {n} statements. For each one, choose how accurately it describes you <b>as you generally are now</b>, not as you wish to be.\n\nAnswer honestly; there are no right or wrong answers. You can stop at any time and continue later.",
+  "chart_title": "Your Big Five profile",
+  "chart_subtitle": "Percentile: the share of people of your sex and age who score lower than you.",
+  "band_label": "Average range"
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "test": {
+  "title": "DISC-style behaviour profile",
+  "short_title": "DISC",
+  "about": "See how you tend to act at work and with other people, in the four DISC styles: Dominance (direct, results-driven), Influence (outgoing, enthusiastic), Steadiness (patient, supportive) and Conscientiousness (careful, precise).\n\nThis profile is built from open Big Five questions (IPIP) and compared with thousands of people of your sex and age, so each score is a real percentile. It is a DISC-style profile, not the commercial DiSC® assessment.\n\nShort form: 44 questions. Long form: 110 questions, for more precise scores.",
+  "instructions": "You will see {n} statements about how people behave.\n\nFor each one, choose how accurately it describes you as you <b>generally</b> are now, not as you wish to be.\n\nThere are no right or wrong answers, and every style has its strengths.",
+  "chart_title": "Your DISC scores",
+  "chart_subtitle": "Percentile: the share of people of your sex and age you score higher than.",
+  "band_label": "Average range (middle 40% of people)",
+  "wheel_title": "Your DISC style",
+  "wheel_subtitle": "The dot shows where your behaviour falls between fast-paced and steady, and between task-focused and people-focused.",
+  "axis_fast": "Fast-paced, outspoken",
+  "axis_steady": "Steady, reserved",
+  "axis_task": "Task-focused",
+  "axis_people": "People-focused",
+  "primary": "Your main style",
+  "secondary": "with a strong second style",
+  "balanced": "Your profile is balanced: no style clearly stands out, so you adapt your behaviour to the situation.",
+  "scores": "Your four scores",
+  "strengths": "Strengths",
+  "challenges": "Watch out for",
+  "motivators": "What motivates you",
+  "stress": "Under pressure",
+  "work_with": "Tips for people who work with you",
+  "note": "DiSC® and Everything DiSC® are trademarks of John Wiley & Sons. This profile is not affiliated with them."
+ },
+ "levels": {
+  "low": "Low",
+  "average": "Average",
+  "high": "High"
+ },
+ "styles": {
+  "D": {
+   "name": "Dominance",
+   "tagline": "Direct, decisive, results-driven",
+   "about": "How strongly you take charge, push for results and face challenges head-on.",
+   "high": "You are direct and decisive. You like to take control, move fast and win, and you are not afraid of conflict or tough decisions.",
+   "average": "You can take the lead and speak up when it matters, but you do not need to be in control all the time.",
+   "low": "You prefer to cooperate rather than compete. You avoid confrontation, share control easily and let others take the lead.",
+   "strengths": [
+    "Makes decisions quickly",
+    "Takes responsibility and leads",
+    "Faces problems head-on",
+    "Focused on results"
+   ],
+   "challenges": [
+    "Can seem blunt or impatient",
+    "May overlook other people's feelings",
+    "Can take on too much control"
+   ],
+   "motivators": "Challenges, winning, authority, freedom to act and visible results.",
+   "stress": "May become demanding, impatient and controlling.",
+   "work_with": "Be brief and to the point, focus on results and options, and give them room to decide."
+  },
+  "I": {
+   "name": "Influence",
+   "tagline": "Outgoing, enthusiastic, persuasive",
+   "about": "How much you seek out people, express enthusiasm and win others over.",
+   "high": "You are sociable, warm and optimistic. You enjoy meeting people, lift the mood of a group and are good at persuading and inspiring.",
+   "average": "You are friendly and can enjoy company, but you also like time to focus without a crowd.",
+   "low": "You are reserved and prefer a few close relationships to a wide social circle. You stay calm and keep your enthusiasm to yourself.",
+   "strengths": [
+    "Builds relationships easily",
+    "Enthusiastic and optimistic",
+    "Persuasive and inspiring",
+    "Creates a positive mood"
+   ],
+   "challenges": [
+    "Can lose focus on details",
+    "May over-promise",
+    "Dislikes working alone for long"
+   ],
+   "motivators": "Recognition, social contact, fun, freedom of expression and being liked.",
+   "stress": "May become disorganised, overly talkative or emotional.",
+   "work_with": "Be friendly and informal, leave room for ideas and conversation, and recognise their contribution."
+  },
+  "S": {
+   "name": "Steadiness",
+   "tagline": "Patient, calm, supportive",
+   "about": "How patient, even-tempered and cooperative you are, and how much you value stability.",
+   "high": "You are calm, patient and loyal. You are a supportive team player who prefers stability, keeps the peace and rarely loses your temper.",
+   "average": "You can be patient and cooperative, but you can also handle change and some tension when needed.",
+   "low": "You like variety and change, get restless with routine and can react quickly and strongly when something bothers you.",
+   "strengths": [
+    "Patient and dependable",
+    "A good listener",
+    "Cooperative team player",
+    "Stays calm under pressure"
+   ],
+   "challenges": [
+    "Resists sudden change",
+    "Avoids conflict even when it is needed",
+    "Finds it hard to say no"
+   ],
+   "motivators": "Security, harmony, clear expectations, sincere appreciation and helping others.",
+   "stress": "May become passive, give in to keep the peace or quietly resist change.",
+   "work_with": "Be sincere and patient, explain changes in advance and show how they will be supported."
+  },
+  "C": {
+   "name": "Conscientiousness",
+   "tagline": "Careful, precise, analytical",
+   "about": "How much you value accuracy, order, rules and careful planning.",
+   "high": "You are careful, organised and precise. You follow rules and standards, think before you act and want things done correctly.",
+   "average": "You care about quality and order, but you can also be flexible when the details matter less.",
+   "low": "You are flexible and spontaneous. You prefer to improvise, do not worry much about rules and details, and move on quickly.",
+   "strengths": [
+    "Accurate and thorough",
+    "Organised and systematic",
+    "Thinks before acting",
+    "High standards of quality"
+   ],
+   "challenges": [
+    "Can be overly critical or perfectionist",
+    "May get stuck in analysis",
+    "Can seem distant"
+   ],
+   "motivators": "Quality, accuracy, clear rules, time to think and being right.",
+   "stress": "May become overly critical, withdrawn or stuck on details.",
+   "work_with": "Give facts and details in writing, allow time to think and avoid surprises."
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "wisdom": [
+  "creativity",
+  "curiosity",
+  "judgment",
+  "learning",
+  "perspective"
+ ],
+ "courage": [
+  "bravery",
+  "perseverance",
+  "honesty",
+  "zest"
+ ],
+ "humanity": [
+  "love",
+  "kindness",
+  "social_intelligence"
+ ],
+ "justice": [
+  "teamwork",
+  "fairness",
+  "leadership"
+ ],
+ "temperance": [
+  "forgiveness",
+  "humility",
+  "prudence",
+  "self_regulation"
+ ],
+ "transcendence": [
+  "appreciation",
+  "gratitude",
+  "hope",
+  "humor",
+  "spirituality"
+ ]
+}

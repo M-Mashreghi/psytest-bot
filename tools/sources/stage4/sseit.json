@@ -1,0 +1,231 @@
+{
+ "source": "https://blog.une.edu.au/usingpsychology/2014/04/27/how-can-we-measure-emotional-intelligence",
+ "source_note": "University of New England (Australia) psychology blog (the authors' institution), presenting the Assessing Emotions Scale with instructions, items and scoring.",
+ "original_citation": "Schutte, N. S., Malouff, J. M., Hall, L. E., Haggerty, D. J., Cooper, J. T., Golden, C. J., & Dornheim, L. (1998). Development and validation of a measure of emotional intelligence. Personality and Individual Differences, 25, 167-177.",
+ "cross_check": "https://psytoolkit.org/survey-library/emotional-intelligence.html has the same 33 items in the same order, reverse items 5, 28, 33; wording variants there: 'nonverbal' (items 5, 15, 25) vs 'non-verbal'; item 8 'Emotions are some of the things...'; item 26 '...I almost feel as though I have experienced this event myself.' Millisecond (sseit.manual) confirms reverse items 5, 28, 33 and a 5-point scale.",
+ "terms": "UNE page: \"You do not need permission to use the scale, unless you are charging a client for completing it.\" and \"You may use it for research.\" PsyToolkit quotes: \"The authors permit free use of the scale for research and clinical purposes.\"",
+ "instructions": "Each of the following items asks you about your emotions or reactions associated with emotions. After deciding whether a statement is generally true for you, use the 5-point scale to respond to the statement.",
+ "options": [
+  {
+   "value": 1,
+   "label": "strongly disagree"
+  },
+  {
+   "value": 2,
+   "label": "somewhat disagree"
+  },
+  {
+   "value": 3,
+   "label": "neither agree nor disagree"
+  },
+  {
+   "value": 4,
+   "label": "somewhat agree"
+  },
+  {
+   "value": 5,
+   "label": "strongly agree"
+  }
+ ],
+ "scoring": "Reverse code items 5, 28 and 33, then sum all 33 responses for a total score (UNE page).",
+ "items": [
+  {
+   "n": 1,
+   "subscale": null,
+   "text": "I know when to speak about my personal problems to others.",
+   "reverse": false
+  },
+  {
+   "n": 2,
+   "subscale": null,
+   "text": "When I am faced with obstacles, I remember times I faced similar obstacles and overcame them.",
+   "reverse": false
+  },
+  {
+   "n": 3,
+   "subscale": null,
+   "text": "I expect that I will do well on most things I try.",
+   "reverse": false
+  },
+  {
+   "n": 4,
+   "subscale": null,
+   "text": "Other people find it easy to confide in me.",
+   "reverse": false
+  },
+  {
+   "n": 5,
+   "subscale": null,
+   "text": "I find it hard to understand the non-verbal messages of other people.",
+   "reverse": true
+  },
+  {
+   "n": 6,
+   "subscale": null,
+   "text": "Some of the major events of my life have led me to re-evaluate what is important and not important.",
+   "reverse": false
+  },
+  {
+   "n": 7,
+   "subscale": null,
+   "text": "When my mood changes, I see new possibilities.",
+   "reverse": false
+  },
+  {
+   "n": 8,
+   "subscale": null,
+   "text": "Emotions are one of the things that make my life worth living.",
+   "reverse": false
+  },
+  {
+   "n": 9,
+   "subscale": null,
+   "text": "I am aware of my emotions as I experience them.",
+   "reverse": false
+  },
+  {
+   "n": 10,
+   "subscale": null,
+   "text": "I expect good things to happen.",
+   "reverse": false
+  },
+  {
+   "n": 11,
+   "subscale": null,
+   "text": "I like to share my emotions with others.",
+   "reverse": false
+  },
+  {
+   "n": 12,
+   "subscale": null,
+   "text": "When I experience a positive emotion, I know how to make it last.",
+   "reverse": false
+  },
+  {
+   "n": 13,
+   "subscale": null,
+   "text": "I arrange events others enjoy.",
+   "reverse": false
+  },
+  {
+   "n": 14,
+   "subscale": null,
+   "text": "I seek out activities that make me happy.",
+   "reverse": false
+  },
+  {
+   "n": 15,
+   "subscale": null,
+   "text": "I am aware of the non-verbal messages I send to others.",
+   "reverse": false
+  },
+  {
+   "n": 16,
+   "subscale": null,
+   "text": "I present myself in a way that makes a good impression on others.",
+   "reverse": false
+  },
+  {
+   "n": 17,
+   "subscale": null,
+   "text": "When I am in a positive mood, solving problems is easy for me.",
+   "reverse": false
+  },
+  {
+   "n": 18,
+   "subscale": null,
+   "text": "By looking at their facial expressions, I recognize the emotions people are experiencing.",
+   "reverse": false
+  },
+  {
+   "n": 19,
+   "subscale": null,
+   "text": "I know why my emotions change.",
+   "reverse": false
+  },
+  {
+   "n": 20,
+   "subscale": null,
+   "text": "When I am in a positive mood, I am able to come up with new ideas.",
+   "reverse": false
+  },
+  {
+   "n": 21,
+   "subscale": null,
+   "text": "I have control over my emotions.",
+   "reverse": false
+  },
+  {
+   "n": 22,
+   "subscale": null,
+   "text": "I easily recognize my emotions as I experience them.",
+   "reverse": false
+  },
+  {
+   "n": 23,
+   "subscale": null,
+   "text": "I motivate myself by imagining a good outcome to tasks I take on.",
+   "reverse": false
+  },
+  {
+   "n": 24,
+   "subscale": null,
+   "text": "I compliment others when they have done something well.",
+   "reverse": false
+  },
+  {
+   "n": 25,
+   "subscale": null,
+   "text": "I am aware of the non-verbal messages other people send.",
+   "reverse": false
+  },
+  {
+   "n": 26,
+   "subscale": null,
+   "text": "When another person tells me about an important event in his or her life, I almost feel as though I experienced this event myself.",
+   "reverse": false
+  },
+  {
+   "n": 27,
+   "subscale": null,
+   "text": "When I feel a change in emotions, I tend to come up with new ideas.",
+   "reverse": false
+  },
+  {
+   "n": 28,
+   "subscale": null,
+   "text": "When I am faced with a challenge, I give up because I believe I will fail.",
+   "reverse": true
+  },
+  {
+   "n": 29,
+   "subscale": null,
+   "text": "I know what other people are feeling just by looking at them.",
+   "reverse": false
+  },
+  {
+   "n": 30,
+   "subscale": null,
+   "text": "I help other people feel better when they are down.",
+   "reverse": false
+  },
+  {
+   "n": 31,
+   "subscale": null,
+   "text": "I use good moods to help myself keep trying in the face of obstacles.",
+   "reverse": false
+  },
+  {
+   "n": 32,
+   "subscale": null,
+   "text": "I can tell how people are feeling by listening to the tone of their voice.",
+   "reverse": false
+  },
+  {
+   "n": 33,
+   "subscale": null,
+   "text": "It is difficult for me to understand why people feel the way they do.",
+   "reverse": true
+  }
+ ]
+}

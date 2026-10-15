@@ -1,0 +1,1168 @@
+{
+ "source": "https://ipip.ori.org/newVIAKey.htm",
+ "items": [
+  {
+   "id": "appreciation1",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery1",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity1",
+   "scale": "creativity",
+   "keyed": "plus"
+  },
+  {
+   "id": "curiosity1",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness1",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness1",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude1",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty1",
+   "scale": "honesty",
+   "keyed": "plus"
+  },
+  {
+   "id": "hope1",
+   "scale": "hope",
+   "keyed": "plus"
+  },
+  {
+   "id": "humility1",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor1",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment1",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness1",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership1",
+   "scale": "leadership",
+   "keyed": "plus"
+  },
+  {
+   "id": "learning1",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love1",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance1",
+   "scale": "perseverance",
+   "keyed": "plus"
+  },
+  {
+   "id": "perspective1",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence1",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation1",
+   "scale": "self_regulation",
+   "keyed": "plus"
+  },
+  {
+   "id": "social_intelligence1",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality1",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork1",
+   "scale": "teamwork",
+   "keyed": "plus"
+  },
+  {
+   "id": "zest1",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation2",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery2",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity2",
+   "scale": "creativity",
+   "keyed": "plus"
+  },
+  {
+   "id": "curiosity2",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness2",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness2",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude2",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty2",
+   "scale": "honesty",
+   "keyed": "plus"
+  },
+  {
+   "id": "hope2",
+   "scale": "hope",
+   "keyed": "plus"
+  },
+  {
+   "id": "humility2",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor2",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment2",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness2",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership2",
+   "scale": "leadership",
+   "keyed": "plus"
+  },
+  {
+   "id": "learning2",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love2",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance2",
+   "scale": "perseverance",
+   "keyed": "plus"
+  },
+  {
+   "id": "perspective2",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence2",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation2",
+   "scale": "self_regulation",
+   "keyed": "plus"
+  },
+  {
+   "id": "social_intelligence2",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality2",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork2",
+   "scale": "teamwork",
+   "keyed": "plus"
+  },
+  {
+   "id": "zest2",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation3",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery3",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity3",
+   "scale": "creativity",
+   "keyed": "plus"
+  },
+  {
+   "id": "curiosity3",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness3",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness3",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude3",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty3",
+   "scale": "honesty",
+   "keyed": "plus"
+  },
+  {
+   "id": "hope3",
+   "scale": "hope",
+   "keyed": "plus"
+  },
+  {
+   "id": "humility3",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor3",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment3",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness3",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership3",
+   "scale": "leadership",
+   "keyed": "plus"
+  },
+  {
+   "id": "learning3",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love3",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance3",
+   "scale": "perseverance",
+   "keyed": "plus"
+  },
+  {
+   "id": "perspective3",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence3",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation3",
+   "scale": "self_regulation",
+   "keyed": "plus"
+  },
+  {
+   "id": "social_intelligence3",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality3",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork3",
+   "scale": "teamwork",
+   "keyed": "plus"
+  },
+  {
+   "id": "zest3",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation4",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery4",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity4",
+   "scale": "creativity",
+   "keyed": "plus"
+  },
+  {
+   "id": "curiosity4",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness4",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness4",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude4",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty4",
+   "scale": "honesty",
+   "keyed": "plus"
+  },
+  {
+   "id": "hope4",
+   "scale": "hope",
+   "keyed": "plus"
+  },
+  {
+   "id": "humility4",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor4",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment4",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness4",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership4",
+   "scale": "leadership",
+   "keyed": "plus"
+  },
+  {
+   "id": "learning4",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love4",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance4",
+   "scale": "perseverance",
+   "keyed": "plus"
+  },
+  {
+   "id": "perspective4",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence4",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation4",
+   "scale": "self_regulation",
+   "keyed": "plus"
+  },
+  {
+   "id": "social_intelligence4",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality4",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork4",
+   "scale": "teamwork",
+   "keyed": "plus"
+  },
+  {
+   "id": "zest4",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation5",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery5",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity5",
+   "scale": "creativity",
+   "keyed": "plus"
+  },
+  {
+   "id": "curiosity5",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness5",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness5",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude5",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty5",
+   "scale": "honesty",
+   "keyed": "plus"
+  },
+  {
+   "id": "hope5",
+   "scale": "hope",
+   "keyed": "plus"
+  },
+  {
+   "id": "humility5",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor5",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment5",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness5",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership5",
+   "scale": "leadership",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning5",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love5",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance5",
+   "scale": "perseverance",
+   "keyed": "plus"
+  },
+  {
+   "id": "perspective5",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence5",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation5",
+   "scale": "self_regulation",
+   "keyed": "plus"
+  },
+  {
+   "id": "social_intelligence5",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality5",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork5",
+   "scale": "teamwork",
+   "keyed": "minus"
+  },
+  {
+   "id": "zest5",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation6",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery6",
+   "scale": "bravery",
+   "keyed": "plus"
+  },
+  {
+   "id": "creativity6",
+   "scale": "creativity",
+   "keyed": "minus"
+  },
+  {
+   "id": "curiosity6",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness6",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness6",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude6",
+   "scale": "gratitude",
+   "keyed": "plus"
+  },
+  {
+   "id": "honesty6",
+   "scale": "honesty",
+   "keyed": "minus"
+  },
+  {
+   "id": "hope6",
+   "scale": "hope",
+   "keyed": "minus"
+  },
+  {
+   "id": "humility6",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor6",
+   "scale": "humor",
+   "keyed": "plus"
+  },
+  {
+   "id": "judgment6",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness6",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership6",
+   "scale": "leadership",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning6",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love6",
+   "scale": "love",
+   "keyed": "plus"
+  },
+  {
+   "id": "perseverance6",
+   "scale": "perseverance",
+   "keyed": "minus"
+  },
+  {
+   "id": "perspective6",
+   "scale": "perspective",
+   "keyed": "plus"
+  },
+  {
+   "id": "prudence6",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation6",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  },
+  {
+   "id": "social_intelligence6",
+   "scale": "social_intelligence",
+   "keyed": "plus"
+  },
+  {
+   "id": "spirituality6",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork6",
+   "scale": "teamwork",
+   "keyed": "minus"
+  },
+  {
+   "id": "zest6",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation7",
+   "scale": "appreciation",
+   "keyed": "plus"
+  },
+  {
+   "id": "bravery7",
+   "scale": "bravery",
+   "keyed": "minus"
+  },
+  {
+   "id": "creativity7",
+   "scale": "creativity",
+   "keyed": "minus"
+  },
+  {
+   "id": "curiosity7",
+   "scale": "curiosity",
+   "keyed": "plus"
+  },
+  {
+   "id": "fairness7",
+   "scale": "fairness",
+   "keyed": "plus"
+  },
+  {
+   "id": "forgiveness7",
+   "scale": "forgiveness",
+   "keyed": "plus"
+  },
+  {
+   "id": "gratitude7",
+   "scale": "gratitude",
+   "keyed": "minus"
+  },
+  {
+   "id": "honesty7",
+   "scale": "honesty",
+   "keyed": "minus"
+  },
+  {
+   "id": "hope7",
+   "scale": "hope",
+   "keyed": "minus"
+  },
+  {
+   "id": "humility7",
+   "scale": "humility",
+   "keyed": "plus"
+  },
+  {
+   "id": "humor7",
+   "scale": "humor",
+   "keyed": "minus"
+  },
+  {
+   "id": "judgment7",
+   "scale": "judgment",
+   "keyed": "plus"
+  },
+  {
+   "id": "kindness7",
+   "scale": "kindness",
+   "keyed": "plus"
+  },
+  {
+   "id": "leadership7",
+   "scale": "leadership",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning7",
+   "scale": "learning",
+   "keyed": "plus"
+  },
+  {
+   "id": "love7",
+   "scale": "love",
+   "keyed": "minus"
+  },
+  {
+   "id": "perseverance7",
+   "scale": "perseverance",
+   "keyed": "minus"
+  },
+  {
+   "id": "perspective7",
+   "scale": "perspective",
+   "keyed": "minus"
+  },
+  {
+   "id": "prudence7",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation7",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  },
+  {
+   "id": "social_intelligence7",
+   "scale": "social_intelligence",
+   "keyed": "minus"
+  },
+  {
+   "id": "spirituality7",
+   "scale": "spirituality",
+   "keyed": "plus"
+  },
+  {
+   "id": "teamwork7",
+   "scale": "teamwork",
+   "keyed": "minus"
+  },
+  {
+   "id": "zest7",
+   "scale": "zest",
+   "keyed": "plus"
+  },
+  {
+   "id": "appreciation8",
+   "scale": "appreciation",
+   "keyed": "minus"
+  },
+  {
+   "id": "bravery8",
+   "scale": "bravery",
+   "keyed": "minus"
+  },
+  {
+   "id": "creativity8",
+   "scale": "creativity",
+   "keyed": "minus"
+  },
+  {
+   "id": "curiosity8",
+   "scale": "curiosity",
+   "keyed": "minus"
+  },
+  {
+   "id": "fairness8",
+   "scale": "fairness",
+   "keyed": "minus"
+  },
+  {
+   "id": "forgiveness8",
+   "scale": "forgiveness",
+   "keyed": "minus"
+  },
+  {
+   "id": "gratitude8",
+   "scale": "gratitude",
+   "keyed": "minus"
+  },
+  {
+   "id": "honesty8",
+   "scale": "honesty",
+   "keyed": "minus"
+  },
+  {
+   "id": "hope8",
+   "scale": "hope",
+   "keyed": "minus"
+  },
+  {
+   "id": "humility8",
+   "scale": "humility",
+   "keyed": "minus"
+  },
+  {
+   "id": "humor8",
+   "scale": "humor",
+   "keyed": "minus"
+  },
+  {
+   "id": "judgment8",
+   "scale": "judgment",
+   "keyed": "minus"
+  },
+  {
+   "id": "kindness8",
+   "scale": "kindness",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning8",
+   "scale": "learning",
+   "keyed": "minus"
+  },
+  {
+   "id": "love8",
+   "scale": "love",
+   "keyed": "minus"
+  },
+  {
+   "id": "perseverance8",
+   "scale": "perseverance",
+   "keyed": "minus"
+  },
+  {
+   "id": "perspective8",
+   "scale": "perspective",
+   "keyed": "minus"
+  },
+  {
+   "id": "prudence8",
+   "scale": "prudence",
+   "keyed": "plus"
+  },
+  {
+   "id": "self_regulation8",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  },
+  {
+   "id": "spirituality8",
+   "scale": "spirituality",
+   "keyed": "minus"
+  },
+  {
+   "id": "teamwork8",
+   "scale": "teamwork",
+   "keyed": "minus"
+  },
+  {
+   "id": "zest8",
+   "scale": "zest",
+   "keyed": "minus"
+  },
+  {
+   "id": "bravery9",
+   "scale": "bravery",
+   "keyed": "minus"
+  },
+  {
+   "id": "curiosity9",
+   "scale": "curiosity",
+   "keyed": "minus"
+  },
+  {
+   "id": "fairness9",
+   "scale": "fairness",
+   "keyed": "minus"
+  },
+  {
+   "id": "forgiveness9",
+   "scale": "forgiveness",
+   "keyed": "minus"
+  },
+  {
+   "id": "honesty9",
+   "scale": "honesty",
+   "keyed": "minus"
+  },
+  {
+   "id": "humility9",
+   "scale": "humility",
+   "keyed": "minus"
+  },
+  {
+   "id": "humor9",
+   "scale": "humor",
+   "keyed": "minus"
+  },
+  {
+   "id": "judgment9",
+   "scale": "judgment",
+   "keyed": "minus"
+  },
+  {
+   "id": "kindness9",
+   "scale": "kindness",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning9",
+   "scale": "learning",
+   "keyed": "minus"
+  },
+  {
+   "id": "love9",
+   "scale": "love",
+   "keyed": "minus"
+  },
+  {
+   "id": "perspective9",
+   "scale": "perspective",
+   "keyed": "minus"
+  },
+  {
+   "id": "prudence9",
+   "scale": "prudence",
+   "keyed": "minus"
+  },
+  {
+   "id": "self_regulation9",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  },
+  {
+   "id": "spirituality9",
+   "scale": "spirituality",
+   "keyed": "minus"
+  },
+  {
+   "id": "teamwork9",
+   "scale": "teamwork",
+   "keyed": "minus"
+  },
+  {
+   "id": "zest9",
+   "scale": "zest",
+   "keyed": "minus"
+  },
+  {
+   "id": "bravery10",
+   "scale": "bravery",
+   "keyed": "minus"
+  },
+  {
+   "id": "curiosity10",
+   "scale": "curiosity",
+   "keyed": "minus"
+  },
+  {
+   "id": "kindness10",
+   "scale": "kindness",
+   "keyed": "minus"
+  },
+  {
+   "id": "learning10",
+   "scale": "learning",
+   "keyed": "minus"
+  },
+  {
+   "id": "self_regulation10",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  },
+  {
+   "id": "self_regulation11",
+   "scale": "self_regulation",
+   "keyed": "minus"
+  }
+ ],
+ "short": [
+  "appreciation1",
+  "bravery1",
+  "creativity1",
+  "curiosity1",
+  "fairness1",
+  "forgiveness1",
+  "gratitude1",
+  "honesty1",
+  "hope1",
+  "humility1",
+  "humor1",
+  "judgment1",
+  "kindness1",
+  "leadership1",
+  "learning1",
+  "love1",
+  "perseverance1",
+  "perspective1",
+  "prudence1",
+  "self_regulation1",
+  "social_intelligence1",
+  "spirituality1",
+  "teamwork1",
+  "zest1",
+  "appreciation2",
+  "bravery2",
+  "creativity2",
+  "curiosity2",
+  "fairness2",
+  "forgiveness2",
+  "gratitude2",
+  "honesty2",
+  "hope2",
+  "humility2",
+  "humor2",
+  "judgment2",
+  "kindness2",
+  "leadership2",
+  "learning2",
+  "love2",
+  "perseverance2",
+  "perspective2",
+  "prudence2",
+  "self_regulation2",
+  "social_intelligence2",
+  "spirituality2",
+  "teamwork2",
+  "zest2",
+  "appreciation3",
+  "bravery3",
+  "creativity3",
+  "curiosity3",
+  "fairness3",
+  "forgiveness3",
+  "gratitude3",
+  "honesty3",
+  "hope3",
+  "humility3",
+  "humor3",
+  "judgment3",
+  "kindness3",
+  "leadership3",
+  "learning3",
+  "love3",
+  "perseverance3",
+  "perspective3",
+  "prudence3",
+  "self_regulation3",
+  "social_intelligence3",
+  "spirituality3",
+  "teamwork3",
+  "zest3",
+  "leadership5",
+  "teamwork5",
+  "creativity6",
+  "honesty6",
+  "hope6",
+  "perseverance6",
+  "self_regulation6",
+  "bravery7",
+  "gratitude7",
+  "humor7",
+  "love7",
+  "perspective7",
+  "social_intelligence7",
+  "appreciation8",
+  "curiosity8",
+  "fairness8",
+  "forgiveness8",
+  "humility8",
+  "judgment8",
+  "kindness8",
+  "learning8",
+  "spirituality8",
+  "zest8",
+  "prudence9"
+ ]
+}
